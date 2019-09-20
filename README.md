@@ -2,6 +2,8 @@
 
 Prosjekt for å se på oppslutningen til de ulike partiene i valgkretser i Oslo koblet med snittinntekt i delbydeler.
 
+![alt text here](alle.png)
+
 ## Metodekommentarer:
 
 ### Kobling av valgkrets til delbydelsdata
