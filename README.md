@@ -1,13 +1,14 @@
 # valg19
 
-Prosjekt for å se på oppslutningen til de ulike partiene i valgkretser i Oslo koblet med snittinntekt i delbydeler. 
+Prosjekt for å se på oppslutningen til de ulike partiene i valgkretser i Oslo koblet med snittinntekt i delbydeler.
 
+![](https://github.com/thomastallaksen/valg19/alle.png)
 
 ## Metodekommentarer:
 
 ### Kobling av valgkrets til delbydelsdata
 
-Tallene for gjennomsnittsinntekt finnes i Oslo kommunes [statistikkbank](statistikkbanken.oslo.kommune.no). Her finnes tallene på delbydelsnivå, men det er ikke fullstendig overlapp mellom valgkrets og delbydel alle steder. Det er gjort skjønnsmessige vurderinger for samtlige valgkretser for hvilke delbydeler de korresponderer til ved hjelp av dette [kartet](https://github.com/thomastallaksen/valg19), hvor delbydeler er lagt oppå valgkretser. Flere steder brukes inntektstatistikk fra én delbydel på to valglokaler, dersom de begge i stor grad ligger innenfor delbydelen. Der valgkretsene i stor grad er delt mellom flere delbydeler ,er delbydeler slått sammen og det er regnet snitt av delbydelenes snittinntekt. Det er uansett gjennomgående slik at inntektene er relativt like mellom tilgrensende valgkretser, og i få tilfellene hvor det er store inntektsforskjeller mellom to tilgrensende delbydeler var det relativt enkelt å plassere valgkretsene korrekt.
+Tallene for gjennomsnittsinntekt finnes i Oslo kommunes [statistikkbank](statistikkbanken.oslo.kommune.no). Her finnes tallene på delbydelsnivå, men det er ikke fullstendig overlapp mellom valgkrets og delbydel alle steder. Det er gjort skjønnsmessige vurderinger for samtlige valgkretser for hvilke delbydeler de korresponderer til ved hjelp av dette [kartet](https://github.com/thomastallaksen/valg19/Valgkretser.png), hvor delbydeler er lagt oppå valgkretser. Flere steder brukes inntektstatistikk fra én delbydel på to valglokaler, dersom de begge i stor grad ligger innenfor delbydelen. Der valgkretsene i stor grad er delt mellom flere delbydeler, er delbydeler slått sammen og det er regnet snitt av delbydelenes snittinntekt. Det er uansett gjennomgående slik at inntektene er relativt like mellom tilgrensende valgkretser, og i få tilfellene hvor det er store inntektsforskjeller mellom to tilgrensende delbydeler var det relativt enkelt å plassere valgkretsene korrekt. Fullstendig tabell som viser hvordan koblingene er gjort finnes [her](https://github.com/thomastallaksen/valg19/valgkrets_til_delbydel.xlsx)
 
 To valgkretser er utelatt fordi det var overlapp av tre eller flere delbydeler hvor det ikke var noen selvsagt måte å tilegne dem inntektstatistikk. I tillegg er valgkretsen Oslo rådhus og delbydel sentrum (fra Nationalteateret til Oslo S) utelatt fordi snittinntekten i denne delbydelen også inneholder folk bosatt i marka eller de som ikke har en bostedsadresse i kommunens register.
 
