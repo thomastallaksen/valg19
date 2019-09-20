@@ -2,8 +2,6 @@
 
 Prosjekt for å se på oppslutningen til de ulike partiene i valgkretser i Oslo koblet med snittinntekt i delbydeler.
 
-![](https://github.com/thomastallaksen/valg19/alle.png)
-
 ## Metodekommentarer:
 
 ### Kobling av valgkrets til delbydelsdata
