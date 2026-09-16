@@ -228,7 +228,7 @@ lag_sv_figur <- function(data, x_var, x_tittel, filnavn_stub) {
   p <- ggplot(data, aes(x = .data[[x_var]], y = `Oppslutning prosentvis`))+
     geom_point(aes(colour = Område))+
     geom_smooth(method = "lm")+
-    facet_wrap(~ År)+
+    facet_wrap(~ År, scales = "free_x")+
     labs(x = x_tittel, y = "SVs oppslutning (%)",
          title = paste0("SVs oppslutning i valgkretsene etter ", x_tittel),
          subtitle = "2015, 2019, 2021, 2023 og 2025. Alle bydeler.")
