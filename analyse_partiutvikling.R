@@ -216,3 +216,26 @@ p_kontrollert <- ggplot(sammenligning%>%
        title = "Enkel vs. kontrollert sammenheng med oppslutning",
        subtitle = "Heltrukket = enkel regresjon (kun denne variabelen). Stiplet = kontrollert for de to andre variablene samtidig.")
 ggsave("figurer/utvikling_regresjon_kontrollert_vs_enkel.png", p_kontrollert, width = 13, height = 7, dpi = 150)
+
+# ---------------------------------------------------------------------------
+# 5) SVs oppslutning i hver enkelt valgkrets, år for år - samme type figur
+#    som oslo/oslo2025-plottene i skript.R, men for ett parti og alle fem
+#    valgår i stedet for alle partier i ett valgår.
+
+sv_data <- alle_data%>%filter(Partikode == "SV")
+
+lag_sv_figur <- function(data, x_var, x_tittel, filnavn_stub) {
+  p <- ggplot(data, aes(x = .data[[x_var]], y = `Oppslutning prosentvis`))+
+    geom_point(aes(colour = Område))+
+    geom_smooth(method = "lm")+
+    facet_wrap(~ År)+
+    labs(x = x_tittel, y = "SVs oppslutning (%)",
+         title = paste0("SVs oppslutning i valgkretsene etter ", x_tittel),
+         subtitle = "2015, 2019, 2021, 2023 og 2025. Alle bydeler.")
+  ggsave(paste0("figurer/sv_oppslutning_etter_", filnavn_stub, ".png"), p, width = 10, height = 7, dpi = 150)
+  invisible(p)
+}
+
+lag_sv_figur(sv_data, "Snittinntekt", "inntekt", "inntekt")
+lag_sv_figur(sv_data, "Innvandrerandel", "innvandrerandel", "innvandrerandel")
+lag_sv_figur(sv_data, "AndelHoyereUtdanning", "andel med høyere utdanning", "utdanning")
