@@ -1,16 +1,25 @@
 library(tidyverse)
 library(readxl)
 library(broom)
+library(RColorBrewer)
 
 # Statistisk analyse av hvordan sammenhengen mellom partienes oppslutning og
 # levekårsvariablene (inntekt, innvandrerandel, utdanningsnivå) har utviklet
-# seg over tid. Avgrenset til lokalvalgene 2015, 2019 og 2023, samt
-# stortingsvalget 2017 - dvs. IKKE 2021/2025, som allerede er dekket andre
-# steder i prosjektet. I motsetning til de andre figurene i skript.R holdes
-# Sentrum ikke utenfor her: alle bydeler er med.
+# seg over tid. Avgrenset til de tre lokalvalgene (2015, 2019, 2023) og
+# stortingsvalget 2025 - dvs. IKKE 2021, som ikke er tatt med her. I
+# motsetning til de andre figurene i skript.R holdes Sentrum ikke utenfor
+# her: alle bydeler er med.
 
 partier <- c("A", "FRP", "H", "KRF", "MDG", "RØDT", "SP", "SV", "V")
 venstre <- c("A", "MDG", "RØDT", "SP", "SV")
+
+# Partiene i politisk rekkefølge fra venstre til høyre, brukt til både
+# fargelegging og sortering av legender under. brewer.pal(9, "RdBu") går fra
+# mørk rød til mørk blå med hvitt i midten, som gir RØDT den mørkeste røde
+# fargen, FRP den mørkeste blå, og gradvis lysere farger mot midten
+# (Sp/KrF) - se ?RColorBrewer::brewer.pal.
+parti_rekkefolge <- c("RØDT", "SV", "MDG", "A", "SP", "KRF", "V", "H", "FRP")
+parti_farger <- setNames(brewer.pal(9, "RdBu"), parti_rekkefolge)
 
 les_valgkretsfil <- function(sti) {
   read_delim(sti, ";", escape_double = FALSE,
@@ -19,19 +28,19 @@ les_valgkretsfil <- function(sti) {
 }
 
 valgkretser2015 <- les_valgkretsfil("data/valgkretser2015.csv")%>% filter(Kommunenavn == "Oslo")
-valgkretser2017 <- les_valgkretsfil("data/valgkretser2017.csv")
 valgkretser2019 <- les_valgkretsfil("data/valgkretser.csv")%>% filter(Kommunenavn == "Oslo")
 valgkretser2023 <- les_valgkretsfil("data/valgkretser2023.csv")
+valgkretser2025 <- les_valgkretsfil("data/valgkretser2025.csv")
 
 mapping2015 <- read_excel("data/valgkrets_til_delbydel.xlsx")
-mapping2017 <- read_excel("data/valgkrets_til_delbydel2017.xlsx")
 mapping2019 <- read_excel("data/valgkrets_til_delbydel.xlsx")
 mapping2023 <- read_excel("data/valgkrets_til_delbydel2023.xlsx")
+mapping2025 <- read_excel("data/valgkrets_til_delbydel2025.xlsx")
 
 omrade2015 <- read_excel("data/omradedata2015.xlsx")
-omrade2017 <- read_excel("data/omradedata2017.xlsx")
 omrade2019 <- read_excel("data/omradedata2019.xlsx")
 omrade2023 <- read_excel("data/omradedata2023.xlsx")
+omrade2025 <- read_excel("data/omradedata2025.xlsx")
 
 koble <- function(valg, mapping, omrade, aar) {
   valg%>%
@@ -45,9 +54,9 @@ koble <- function(valg, mapping, omrade, aar) {
 
 alle_data <- bind_rows(
   koble(valgkretser2015, mapping2015, omrade2015, 2015),
-  koble(valgkretser2017, mapping2017, omrade2017, 2017),
   koble(valgkretser2019, mapping2019, omrade2019, 2019),
-  koble(valgkretser2023, mapping2023, omrade2023, 2023)
+  koble(valgkretser2023, mapping2023, omrade2023, 2023),
+  koble(valgkretser2025, mapping2025, omrade2025, 2025)
 )
 
 variabler <- c(Inntekt = "Snittinntekt", Innvandrerandel = "Innvandrerandel", Utdanning = "AndelHoyereUtdanning")
@@ -83,14 +92,16 @@ print(regresjoner%>%arrange(Variabel, Partikode, År), n = Inf)
 # 2) Figur: hvordan helningen (styrken og retningen på sammenhengen) utvikler
 #    seg fra valg til valg, per parti og variabel.
 
-p_utvikling <- ggplot(regresjoner, aes(x = factor(År), y = estimate, group = Partikode, colour = Partikode))+
+p_utvikling <- ggplot(regresjoner%>%mutate(Partikode = fct_relevel(Partikode, parti_rekkefolge)),
+                       aes(x = factor(År), y = estimate, group = Partikode, colour = Partikode))+
   geom_hline(yintercept = 0, linetype = "dashed", colour = "grey60")+
   geom_line()+
   geom_point()+
+  scale_colour_manual(values = parti_farger)+
   facet_wrap(~ Variabel, scales = "free_y")+
-  labs(x = "Valgår", y = "Regresjonskoeffisient (helning)",
+  labs(x = "Valgår", y = "Regresjonskoeffisient (helning)", colour = "Parti",
        title = "Utvikling i sammenhengen mellom oppslutning og levekårsvariabler",
-       subtitle = "Lokalvalgene 2015/2019/2023 og stortingsvalget 2017. Alle bydeler, kretsnivå.")
+       subtitle = "Lokalvalgene 2015/2019/2023 og stortingsvalget 2025. Alle bydeler, kretsnivå.")
 ggsave("figurer/utvikling_regresjonskoeffisienter.png", p_utvikling, width = 12, height = 7, dpi = 150)
 
 # ---------------------------------------------------------------------------
@@ -120,7 +131,7 @@ interaksjoner <- map_dfr(names(variabler), ~ test_interaksjon(alle_data, variabl
 
 write_csv(interaksjoner, "data/regresjonsresultater_interaksjon.csv")
 
-cat("\n=== Har sammenhengen med oppslutning endret seg signifikant 2015-2023? ===\n")
+cat("\n=== Har sammenhengen med oppslutning endret seg signifikant 2015-2025? ===\n")
 cat("(sortert etter p-verdi - lavest først = sterkest evidens for endring)\n")
 print(interaksjoner, n = Inf)
 
