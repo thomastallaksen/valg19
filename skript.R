@@ -45,11 +45,12 @@ oslo <- valgkretser%>%
   mutate(konfliktlinje = ifelse(Område == "Sentrum", NA, "Øst-Vest"))%>%
   filter(Område != "Sentrum")
 
-ggplot(oslo, aes(x = Snittinntekt, y = `Oppslutning prosentvis`))+
+p_inntekt_2019 <- ggplot(oslo, aes(x = Snittinntekt, y = `Oppslutning prosentvis`))+
   geom_point(aes(colour = Område))+
   facet_wrap(~ Partikode, scales = "free_y")+
   geom_smooth(method='lm')+
   ggtitle("Oppslutning i valgkretser etter inntekt (uten sentrum)")
+ggsave("figurer/oppslutning_etter_inntekt_2019.png", p_inntekt_2019, width = 10, height = 7, dpi = 150)
 
 
 # Her kan man generere oversikter over enkeltpartier
@@ -65,10 +66,11 @@ parti <- valgkretser%>%
 # filter(Område == "Sentrum")%>%
 
 
-ggplot(parti, aes(x = Snittinntekt, y = `Oppslutning prosentvis`))+
+p_fnb_2019 <- ggplot(parti, aes(x = Snittinntekt, y = `Oppslutning prosentvis`))+
   geom_point(aes(colour = Område))+
   geom_smooth(method='lm')+
   ggtitle("FNBs oppslutning i valgkretser etter inntekt")
+ggsave("figurer/fnb_oppslutning_etter_inntekt_2019.png", p_fnb_2019, width = 7, height = 5, dpi = 150)
 
 
 
@@ -90,11 +92,12 @@ sidene <- valgkretser%>%
   mutate(`Oppslutning 2015` = ifelse(`Oppslutning 2015` == 0, NA, `Oppslutning 2015`))
 
 
-ggplot(sidene, aes(x = Snittinntekt, y = `Oppslutning 2019`))+
+p_venstre_hoyre_2019 <- ggplot(sidene, aes(x = Snittinntekt, y = `Oppslutning 2019`))+
   geom_point(aes(colour = Område))+
   facet_wrap(~ Side)+
   geom_smooth(method='lm')+
   ggtitle("Oppslutning i valgkretser etter inntekt 2019")
+ggsave("figurer/venstre_hoyre_etter_inntekt_2019.png", p_venstre_hoyre_2019, width = 9, height = 5, dpi = 150)
 
 
 # ---------------------------------------------------------------------------
@@ -117,23 +120,26 @@ oslo2025 <- valgkretser2025%>%
   filter(!is.na(Område))%>%
   filter(Område != "Sentrum")
 
-ggplot(oslo2025, aes(x = Snittinntekt, y = `Oppslutning prosentvis`))+
+p_inntekt_2025 <- ggplot(oslo2025, aes(x = Snittinntekt, y = `Oppslutning prosentvis`))+
   geom_point(aes(colour = Område))+
   facet_wrap(~ Partikode, scales = "free_y")+
   geom_smooth(method='lm')+
   ggtitle("Oppslutning i valgkretser etter inntekt 2025 (uten sentrum)")
+ggsave("figurer/oppslutning_etter_inntekt_2025.png", p_inntekt_2025, width = 10, height = 7, dpi = 150)
 
-ggplot(oslo2025, aes(x = Innvandrerandel, y = `Oppslutning prosentvis`))+
+p_innvandrerandel_2025 <- ggplot(oslo2025, aes(x = Innvandrerandel, y = `Oppslutning prosentvis`))+
   geom_point(aes(colour = Område))+
   facet_wrap(~ Partikode, scales = "free_y")+
   geom_smooth(method='lm')+
   ggtitle("Oppslutning i valgkretser etter innvandrerandel 2025 (uten sentrum)")
+ggsave("figurer/oppslutning_etter_innvandrerandel_2025.png", p_innvandrerandel_2025, width = 10, height = 7, dpi = 150)
 
-ggplot(oslo2025, aes(x = AndelHoyereUtdanning, y = `Oppslutning prosentvis`))+
+p_utdanning_2025 <- ggplot(oslo2025, aes(x = AndelHoyereUtdanning, y = `Oppslutning prosentvis`))+
   geom_point(aes(colour = Område))+
   facet_wrap(~ Partikode, scales = "free_y")+
   geom_smooth(method='lm')+
   ggtitle("Oppslutning i valgkretser etter andel med høyere utdanning 2025 (uten sentrum)")
+ggsave("figurer/oppslutning_etter_utdanning_2025.png", p_utdanning_2025, width = 10, height = 7, dpi = 150)
 
 
 # Venstresida/høyresida over tid (2015, 2019, 2025), på delbydelsnivå siden
@@ -184,9 +190,10 @@ venstre_hoyre_alle_ar <- bind_rows(venstre_hoyre_2015, venstre_hoyre_2019, venst
   ungroup()%>%
   mutate(Side = fct_relevel(Side, "Venstresida", "Høyresida"))
 
-ggplot(venstre_hoyre_alle_ar, aes(x = Snittinntekt, y = Oppslutning))+
+p_venstre_hoyre_2015_2019_2025 <- ggplot(venstre_hoyre_alle_ar, aes(x = Snittinntekt, y = Oppslutning))+
   geom_point()+
   facet_grid(Side ~ År, scales = "free_x")+
   geom_smooth(method='lm')+
   ggtitle("Venstresidas og høyresidas oppslutning i delbydeler etter inntekt, 2015–2025")
+ggsave("figurer/venstre_hoyre_etter_inntekt_2015_2019_2025.png", p_venstre_hoyre_2015_2019_2025, width = 10, height = 6, dpi = 150)
 
