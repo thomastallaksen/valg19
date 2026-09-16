@@ -2,6 +2,7 @@ library(tidyverse)
 library(readxl)
 library(broom)
 library(RColorBrewer)
+library(car)
 
 # Statistisk analyse av hvordan sammenhengen mellom partienes oppslutning og
 # levekårsvariablene (inntekt, innvandrerandel, utdanningsnivå) har utviklet
@@ -170,7 +171,7 @@ kjor_multivariat <- function(data) {
     })%>%
     ungroup()%>%
     rename(Variabel = term)%>%
-    mutate(Variabel = recode(Variabel,
+    mutate(Variabel = dplyr::recode(Variabel,
                               "Snittinntekt" = "Inntekt",
                               "Innvandrerandel" = "Innvandrerandel",
                               "AndelHoyereUtdanning" = "Utdanning"))
@@ -239,3 +240,70 @@ lag_sv_figur <- function(data, x_var, x_tittel, filnavn_stub) {
 lag_sv_figur(sv_data, "Snittinntekt", "inntekt", "inntekt")
 lag_sv_figur(sv_data, "Innvandrerandel", "innvandrerandel", "innvandrerandel")
 lag_sv_figur(sv_data, "AndelHoyereUtdanning", "andel med høyere utdanning", "utdanning")
+
+# ---------------------------------------------------------------------------
+# 6) Samspill mellom variablene. Inntekt, innvandrerandel og utdanning henger
+#    tett sammen som del av det man gjerne omtaler som "klasse" - den
+#    additive kontrollen i (4) antar at hver variabels effekt er uavhengig av
+#    de to andre, noe som ikke nødvendigvis stemmer. Her sjekkes først hvor
+#    alvorlig multikollineariteten er (VIF), og deretter om det er reelle
+#    samspillsledd - dvs. om f.eks. inntektssammenhengen er ulik i kretser
+#    med høy vs. lav innvandrerandel.
+
+cat("\n=== Multikollinearitet (VIF) mellom levekårsvariablene, per år ===\n")
+cat("(VIF avhenger kun av prediktorene, ikke partiet - beregnet med ett vilkårlig parti sine rader)\n")
+vif_resultater <- map_dfr(c(2015, 2019, 2021, 2023, 2025), function(aar) {
+  d <- alle_data%>%filter(Partikode == "A", År == aar, !is.na(Snittinntekt), !is.na(Innvandrerandel), !is.na(AndelHoyereUtdanning))
+  modell <- lm(`Oppslutning prosentvis` ~ Snittinntekt + Innvandrerandel + AndelHoyereUtdanning, data = d)
+  tibble(År = aar, Variabel = names(car::vif(modell)), VIF = as.numeric(car::vif(modell)))
+})
+write_csv(vif_resultater, "data/regresjonsresultater_vif.csv")
+print(vif_resultater%>%pivot_wider(names_from = År, values_from = VIF)%>%mutate(across(where(is.numeric), ~round(., 2))))
+cat("(tommelfingerregel: VIF > 5 er bekymringsverdig, > 10 er alvorlig - her er verdiene moderate, 1.6-3.9)\n")
+
+# Standardiserte (z-skår per år) versjoner av prediktorene, slik at
+# samspillsleddene blir sammenlignbare på tvers av år og variabler.
+alle_std <- alle_data%>%
+  filter(!is.na(Snittinntekt), !is.na(Innvandrerandel), !is.na(AndelHoyereUtdanning))%>%
+  group_by(År)%>%
+  mutate(z_inntekt = as.numeric(scale(Snittinntekt)),
+         z_innvandrerandel = as.numeric(scale(Innvandrerandel)),
+         z_utdanning = as.numeric(scale(AndelHoyereUtdanning)))%>%
+  ungroup()
+
+kjor_samspill <- function(data, formel) {
+  data%>%
+    group_by(Partikode, Side, År)%>%
+    group_modify(~ {
+      modell <- lm(formel, data = .x)
+      broom::tidy(modell)%>%filter(str_detect(term, ":"))%>%select(estimate, std.error, p.value)
+    })%>%
+    ungroup()
+}
+
+samspill_innv_inntekt <- kjor_samspill(alle_std, `Oppslutning prosentvis` ~ z_utdanning + z_innvandrerandel * z_inntekt)%>%
+  rename(samspill = estimate)%>%mutate(Samspillsledd = "Innvandrerandel × inntekt")
+samspill_innv_utdanning <- kjor_samspill(alle_std, `Oppslutning prosentvis` ~ z_inntekt + z_innvandrerandel * z_utdanning)%>%
+  rename(samspill = estimate)%>%mutate(Samspillsledd = "Innvandrerandel × utdanning")
+
+samspillsresultater <- bind_rows(samspill_innv_inntekt, samspill_innv_utdanning)%>%
+  arrange(Samspillsledd, Partikode, År)
+write_csv(samspillsresultater, "data/regresjonsresultater_samspill.csv")
+
+cat("\n=== Samspillsledd, alle partier (standardiserte variabler) ===\n")
+print(samspillsresultater, n = Inf)
+
+cat("\nSignifikante samspill (p < 0.05):\n")
+print(samspillsresultater%>%filter(p.value < 0.05)%>%arrange(p.value), n = Inf)
+
+p_samspill <- ggplot(samspillsresultater%>%mutate(Partikode = fct_relevel(Partikode, parti_rekkefolge)),
+                      aes(x = factor(År), y = samspill, group = Partikode, colour = Partikode))+
+  geom_hline(yintercept = 0, linetype = "dashed", colour = "grey60")+
+  geom_line()+
+  geom_point()+
+  scale_colour_manual(values = parti_farger)+
+  facet_wrap(~ Samspillsledd)+
+  labs(x = "Valgår", y = "Samspillsledd (standardiserte variabler)", colour = "Parti",
+       title = "Samspill mellom levekårsvariablene",
+       subtitle = "Negativt samspill i innvandrerandel × inntekt = inntektssammenhengen er sterkere i kretser med høy innvandrerandel (og omvendt).")
+ggsave("figurer/samspill_levekarsvariabler.png", p_samspill, width = 11, height = 6, dpi = 150)
