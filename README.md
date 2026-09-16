@@ -2,13 +2,14 @@
 
 Prosjekt for å se på oppslutningen til de ulike partiene i valgkretser i Oslo koblet med levekårsdata (snittinntekt, innvandrerandel, utdanningsnivå) i delbydeler. Dekker kommune-/fylkestingsvalget 2015 og 2019, og stortingsvalget 2025.
 
-![alt text here](figurer/alle.png)
+![alt text here](figurer/venstre_hoyre_etter_inntekt_2015_2019_2025.png)
 
 ## Mappestruktur
 
 - `skript.R` – analysekoden, kjøres fra prosjektroten (åpne `valganalyse-oslo.Rproj` i RStudio)
 - `data/` – valgresultater per stemmekrets, krets-til-delbydel-koblinger og levekårsdata
-- `figurer/` – lagrede/eksporterte figurer og kartet som er brukt til å koble valgkretser til delbydeler
+- `figurer/` – figurer generert av `skript.R`, og kartet som er brukt til å koble valgkretser til delbydeler
+  - `figurer/opprinnelig-2019/` – ferdigstilte figurer fra det opprinnelige 2019-prosjektet (med korrelasjonstall og manuelle annoteringer som ikke lenger genereres av `skript.R`)
 
 ## Metodekommentarer:
 
