@@ -1,0 +1,2425 @@
+Fylkenummer;Fylkenavn;Kommunenummer;Kommunenavn;Stemmekretsnummer;Stemmekretsnavn;Partikode;Partinavn;Oppslutning prosentvis;Antall stemmeberettigede;Antall valgtingstemmer totalt;Antall stemmer parti
+03;Oslo;0301;Oslo;0101;Vahl skole;A;Arbeiderpartiet;25,41371;4977;1709;430
+03;Oslo;0301;Oslo;0101;Vahl skole;SV;SV - Sosialistisk Venstreparti;14,1253;4977;1709;239
+03;Oslo;0301;Oslo;0101;Vahl skole;RØDT;Rødt;10,16548;4977;1709;172
+03;Oslo;0301;Oslo;0101;Vahl skole;SP;Senterpartiet;1,18203;4977;1709;20
+03;Oslo;0301;Oslo;0101;Vahl skole;KRF;Kristelig Folkeparti;1,77305;4977;1709;30
+03;Oslo;0301;Oslo;0101;Vahl skole;MDG;Miljøpartiet De Grønne;15,18913;4977;1709;257
+03;Oslo;0301;Oslo;0101;Vahl skole;V;Venstre;8,86525;4977;1709;150
+03;Oslo;0301;Oslo;0101;Vahl skole;H;Høyre;14,65721;4977;1709;248
+03;Oslo;0301;Oslo;0101;Vahl skole;FRP;Fremskrittspartiet;2,24586;4977;1709;38
+03;Oslo;0301;Oslo;0101;Vahl skole;AAN;Alliansen - Alternativ for Norge;0,1773;4977;1709;3
+03;Oslo;0301;Oslo;0101;Vahl skole;DEMN;Norgesdemokratene;0,1773;4977;1709;3
+03;Oslo;0301;Oslo;0101;Vahl skole;FNB;Folkets Parti;0,1773;4977;1709;3
+03;Oslo;0301;Oslo;0101;Vahl skole;INP;Industri- og Næringspartiet;0,82742;4977;1709;14
+03;Oslo;0301;Oslo;0101;Vahl skole;KRISTNE;Konservativt;0,29551;4977;1709;5
+03;Oslo;0301;Oslo;0101;Vahl skole;KYST;Kystpartiet;0,23641;4977;1709;4
+03;Oslo;0301;Oslo;0101;Vahl skole;LIBS;Liberalistene;0,59102;4977;1709;10
+03;Oslo;0301;Oslo;0101;Vahl skole;NKP;Norges Kommunistiske Parti;0,35461;4977;1709;6
+03;Oslo;0301;Oslo;0101;Vahl skole;PP;Pensjonistpartiet;0,1182;4977;1709;2
+03;Oslo;0301;Oslo;0101;Vahl skole;PS;Partiet Sentrum;2,30496;4977;1709;39
+03;Oslo;0301;Oslo;0101;Vahl skole;BLANKE;Blanke;1,00473;4977;1709;17
+03;Oslo;0301;Oslo;0101;Vahl skole;FSL;Folkestyret-listen;0,35461;4977;1709;6
+03;Oslo;0301;Oslo;0101;Vahl skole;PMB;Partiet Mot Bompenger;0,76832;4977;1709;13
+03;Oslo;0301;Oslo;0101;Vahl skole;Andre;Andre;6,38298;4977;1709;108
+03;Oslo;0301;Oslo;0101;Vahl skole;Andre2;Andre2;0,0;4977;1709;0
+03;Oslo;0301;Oslo;0102;Tøyen skole;A;Arbeiderpartiet;18,86252;8063;2473;461
+03;Oslo;0301;Oslo;0102;Tøyen skole;SV;SV - Sosialistisk Venstreparti;18,90344;8063;2473;462
+03;Oslo;0301;Oslo;0102;Tøyen skole;RØDT;Rødt;10,47463;8063;2473;256
+03;Oslo;0301;Oslo;0102;Tøyen skole;SP;Senterpartiet;1,02291;8063;2473;25
+03;Oslo;0301;Oslo;0102;Tøyen skole;KRF;Kristelig Folkeparti;1,35025;8063;2473;33
+03;Oslo;0301;Oslo;0102;Tøyen skole;MDG;Miljøpartiet De Grønne;20,94926;8063;2473;512
+03;Oslo;0301;Oslo;0102;Tøyen skole;V;Venstre;9,53355;8063;2473;233
+03;Oslo;0301;Oslo;0102;Tøyen skole;H;Høyre;12,15221;8063;2473;297
+03;Oslo;0301;Oslo;0102;Tøyen skole;FRP;Fremskrittspartiet;2,49591;8063;2473;61
+03;Oslo;0301;Oslo;0102;Tøyen skole;AAN;Alliansen - Alternativ for Norge;0,04092;8063;2473;1
+03;Oslo;0301;Oslo;0102;Tøyen skole;DEMN;Norgesdemokratene;0,20458;8063;2473;5
+03;Oslo;0301;Oslo;0102;Tøyen skole;FNB;Folkets Parti;0,16367;8063;2473;4
+03;Oslo;0301;Oslo;0102;Tøyen skole;INP;Industri- og Næringspartiet;0,57283;8063;2473;14
+03;Oslo;0301;Oslo;0102;Tøyen skole;KRISTNE;Konservativt;0,12275;8063;2473;3
+03;Oslo;0301;Oslo;0102;Tøyen skole;KYST;Kystpartiet;0,12275;8063;2473;3
+03;Oslo;0301;Oslo;0102;Tøyen skole;LIBS;Liberalistene;0,32733;8063;2473;8
+03;Oslo;0301;Oslo;0102;Tøyen skole;NKP;Norges Kommunistiske Parti;0,2455;8063;2473;6
+03;Oslo;0301;Oslo;0102;Tøyen skole;PP;Pensjonistpartiet;0,20458;8063;2473;5
+03;Oslo;0301;Oslo;0102;Tøyen skole;PS;Partiet Sentrum;1,67758;8063;2473;41
+03;Oslo;0301;Oslo;0102;Tøyen skole;BLANKE;Blanke;1,18658;8063;2473;29
+03;Oslo;0301;Oslo;0102;Tøyen skole;FSL;Folkestyret-listen;0,28642;8063;2473;7
+03;Oslo;0301;Oslo;0102;Tøyen skole;PMB;Partiet Mot Bompenger;0,28642;8063;2473;7
+03;Oslo;0301;Oslo;0102;Tøyen skole;Andre;Andre;4,25532;8063;2473;104
+03;Oslo;0301;Oslo;0102;Tøyen skole;Andre2;Andre2;0,0;8063;2473;0
+03;Oslo;0301;Oslo;0103;Kampen skole;A;Arbeiderpartiet;21,88826;8921;2850;619
+03;Oslo;0301;Oslo;0103;Kampen skole;SV;SV - Sosialistisk Venstreparti;18,03395;8921;2850;510
+03;Oslo;0301;Oslo;0103;Kampen skole;RØDT;Rødt;11,66902;8921;2850;330
+03;Oslo;0301;Oslo;0103;Kampen skole;SP;Senterpartiet;0,91938;8921;2850;26
+03;Oslo;0301;Oslo;0103;Kampen skole;KRF;Kristelig Folkeparti;1,09618;8921;2850;31
+03;Oslo;0301;Oslo;0103;Kampen skole;MDG;Miljøpartiet De Grønne;15,98303;8921;2850;452
+03;Oslo;0301;Oslo;0103;Kampen skole;V;Venstre;9,51202;8921;2850;269
+03;Oslo;0301;Oslo;0103;Kampen skole;H;Høyre;13,18953;8921;2850;373
+03;Oslo;0301;Oslo;0103;Kampen skole;FRP;Fremskrittspartiet;3,42999;8921;2850;97
+03;Oslo;0301;Oslo;0103;Kampen skole;AAN;Alliansen - Alternativ for Norge;0,03536;8921;2850;1
+03;Oslo;0301;Oslo;0103;Kampen skole;DEMN;Norgesdemokratene;0,21216;8921;2850;6
+03;Oslo;0301;Oslo;0103;Kampen skole;FNB;Folkets Parti;0,56577;8921;2850;16
+03;Oslo;0301;Oslo;0103;Kampen skole;INP;Industri- og Næringspartiet;0,8133;8921;2850;23
+03;Oslo;0301;Oslo;0103;Kampen skole;KRISTNE;Konservativt;0,10608;8921;2850;3
+03;Oslo;0301;Oslo;0103;Kampen skole;KYST;Kystpartiet;0,07072;8921;2850;2
+03;Oslo;0301;Oslo;0103;Kampen skole;LIBS;Liberalistene;0,10608;8921;2850;3
+03;Oslo;0301;Oslo;0103;Kampen skole;NKP;Norges Kommunistiske Parti;0,07072;8921;2850;2
+03;Oslo;0301;Oslo;0103;Kampen skole;PP;Pensjonistpartiet;0,38897;8921;2850;11
+03;Oslo;0301;Oslo;0103;Kampen skole;PS;Partiet Sentrum;1,34371;8921;2850;38
+03;Oslo;0301;Oslo;0103;Kampen skole;BLANKE;Blanke;0,77793;8921;2850;22
+03;Oslo;0301;Oslo;0103;Kampen skole;FSL;Folkestyret-listen;0,35361;8921;2850;10
+03;Oslo;0301;Oslo;0103;Kampen skole;PMB;Partiet Mot Bompenger;0,21216;8921;2850;6
+03;Oslo;0301;Oslo;0103;Kampen skole;Andre;Andre;4,27864;8921;2850;121
+03;Oslo;0301;Oslo;0103;Kampen skole;Andre2;Andre2;0,0;8921;2850;0
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;A;Arbeiderpartiet;15,73734;12358;2756;429
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;SV;SV - Sosialistisk Venstreparti;13,573;12358;2756;370
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;RØDT;Rødt;11,11519;12358;2756;303
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;SP;Senterpartiet;0,95378;12358;2756;26
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;KRF;Kristelig Folkeparti;0,91709;12358;2756;25
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;MDG;Miljøpartiet De Grønne;16,94791;12358;2756;462
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;V;Venstre;10,8584;12358;2756;296
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;H;Høyre;21,34996;12358;2756;582
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;FRP;Fremskrittspartiet;3,96185;12358;2756;108
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;AAN;Alliansen - Alternativ for Norge;0,11005;12358;2756;3
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;DEMN;Norgesdemokratene;0,18342;12358;2756;5
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;FNB;Folkets Parti;0,51357;12358;2756;14
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;INP;Industri- og Næringspartiet;0,95378;12358;2756;26
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;KRISTNE;Konservativt;0,18342;12358;2756;5
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;KYST;Kystpartiet;0,07337;12358;2756;2
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;LIBS;Liberalistene;0,33015;12358;2756;9
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;NKP;Norges Kommunistiske Parti;0,18342;12358;2756;5
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;PP;Pensjonistpartiet;0,11005;12358;2756;3
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;PS;Partiet Sentrum;1,21056;12358;2756;33
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;BLANKE;Blanke;1,10051;12358;2756;30
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;FSL;Folkestyret-listen;0,51357;12358;2756;14
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;PMB;Partiet Mot Bompenger;0,2201;12358;2756;6
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;Andre;Andre;4,58547;12358;2756;125
+03;Oslo;0301;Oslo;0104;Gamlebyen skole;Andre2;Andre2;0,0;12358;2756;0
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;A;Arbeiderpartiet;23,66889;8032;2432;569
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;SV;SV - Sosialistisk Venstreparti;15,72379;8032;2432;378
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;RØDT;Rødt;9,4426;8032;2432;227
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;SP;Senterpartiet;0,91514;8032;2432;22
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;KRF;Kristelig Folkeparti;0,83195;8032;2432;20
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;MDG;Miljøpartiet De Grønne;11,48087;8032;2432;276
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;V;Venstre;7,23794;8032;2432;174
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;H;Høyre;21,04825;8032;2432;506
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;FRP;Fremskrittspartiet;4,6173;8032;2432;111
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;AAN;Alliansen - Alternativ for Norge;0,08319;8032;2432;2
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;DEMN;Norgesdemokratene;0,45757;8032;2432;11
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;FNB;Folkets Parti;0,58236;8032;2432;14
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;INP;Industri- og Næringspartiet;1,28952;8032;2432;31
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;KRISTNE;Konservativt;0,16639;8032;2432;4
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;KYST;Kystpartiet;0,12479;8032;2432;3
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;LIBS;Liberalistene;0,33278;8032;2432;8
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;NKP;Norges Kommunistiske Parti;0,20799;8032;2432;5
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;PP;Pensjonistpartiet;0,49917;8032;2432;12
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;PS;Partiet Sentrum;0,79035;8032;2432;19
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;BLANKE;Blanke;1,16473;8032;2432;28
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;FSL;Folkestyret-listen;0,29118;8032;2432;7
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;PMB;Partiet Mot Bompenger;0,20799;8032;2432;5
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;Andre;Andre;5,03328;8032;2432;121
+03;Oslo;0301;Oslo;0105;Etterstad videregående skole;Andre2;Andre2;0,0;8032;2432;0
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;A;Arbeiderpartiet;22,60178;9708;2162;483
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;SV;SV - Sosialistisk Venstreparti;11,1839;9708;2162;239
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;RØDT;Rødt;5,98971;9708;2162;128
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;SP;Senterpartiet;1,02948;9708;2162;22
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;KRF;Kristelig Folkeparti;1,96537;9708;2162;42
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;MDG;Miljøpartiet De Grønne;12,21338;9708;2162;261
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;V;Venstre;11,27749;9708;2162;241
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;H;Høyre;22,88255;9708;2162;489
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;FRP;Fremskrittspartiet;5,52176;9708;2162;118
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;AAN;Alliansen - Alternativ for Norge;0,14038;9708;2162;3
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;DEMN;Norgesdemokratene;0,37436;9708;2162;8
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;FNB;Folkets Parti;0,79551;9708;2162;17
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;INP;Industri- og Næringspartiet;1,59102;9708;2162;34
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;KRISTNE;Konservativt;0,0;9708;2162;0
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;KYST;Kystpartiet;0,09359;9708;2162;2
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;LIBS;Liberalistene;0,28077;9708;2162;6
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;NKP;Norges Kommunistiske Parti;0,14038;9708;2162;3
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;PP;Pensjonistpartiet;0,18718;9708;2162;4
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;PS;Partiet Sentrum;1,26345;9708;2162;27
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;BLANKE;Blanke;1,16986;9708;2162;25
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;FSL;Folkestyret-listen;0,18718;9708;2162;4
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;PMB;Partiet Mot Bompenger;0,28077;9708;2162;6
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;Andre;Andre;5,33458;9708;2162;114
+03;Oslo;0301;Oslo;0106;Fyrstikkalléen skole;Andre2;Andre2;0,0;9708;2162;0
+03;Oslo;0301;Oslo;1001;Rødtvet skole;A;Arbeiderpartiet;27,76204;3094;1072;294
+03;Oslo;0301;Oslo;1001;Rødtvet skole;SV;SV - Sosialistisk Venstreparti;8,8763;3094;1072;94
+03;Oslo;0301;Oslo;1001;Rødtvet skole;RØDT;Rødt;10,00944;3094;1072;106
+03;Oslo;0301;Oslo;1001;Rødtvet skole;SP;Senterpartiet;1,22757;3094;1072;13
+03;Oslo;0301;Oslo;1001;Rødtvet skole;KRF;Kristelig Folkeparti;1,88857;3094;1072;20
+03;Oslo;0301;Oslo;1001;Rødtvet skole;MDG;Miljøpartiet De Grønne;8,78187;3094;1072;93
+03;Oslo;0301;Oslo;1001;Rødtvet skole;V;Venstre;2,92729;3094;1072;31
+03;Oslo;0301;Oslo;1001;Rødtvet skole;H;Høyre;22,00189;3094;1072;233
+03;Oslo;0301;Oslo;1001;Rødtvet skole;FRP;Fremskrittspartiet;6,79887;3094;1072;72
+03;Oslo;0301;Oslo;1001;Rødtvet skole;AAN;Alliansen - Alternativ for Norge;0,56657;3094;1072;6
+03;Oslo;0301;Oslo;1001;Rødtvet skole;DEMN;Norgesdemokratene;0,18886;3094;1072;2
+03;Oslo;0301;Oslo;1001;Rødtvet skole;FNB;Folkets Parti;1,69972;3094;1072;18
+03;Oslo;0301;Oslo;1001;Rødtvet skole;INP;Industri- og Næringspartiet;1,60529;3094;1072;17
+03;Oslo;0301;Oslo;1001;Rødtvet skole;KRISTNE;Konservativt;0,28329;3094;1072;3
+03;Oslo;0301;Oslo;1001;Rødtvet skole;KYST;Kystpartiet;0,28329;3094;1072;3
+03;Oslo;0301;Oslo;1001;Rødtvet skole;LIBS;Liberalistene;0,0;3094;1072;0
+03;Oslo;0301;Oslo;1001;Rødtvet skole;NKP;Norges Kommunistiske Parti;0,18886;3094;1072;2
+03;Oslo;0301;Oslo;1001;Rødtvet skole;PP;Pensjonistpartiet;0,84986;3094;1072;9
+03;Oslo;0301;Oslo;1001;Rødtvet skole;PS;Partiet Sentrum;2,54958;3094;1072;27
+03;Oslo;0301;Oslo;1001;Rødtvet skole;BLANKE;Blanke;1,22757;3094;1072;13
+03;Oslo;0301;Oslo;1001;Rødtvet skole;FSL;Folkestyret-listen;0,28329;3094;1072;3
+03;Oslo;0301;Oslo;1001;Rødtvet skole;PMB;Partiet Mot Bompenger;1,22757;3094;1072;13
+03;Oslo;0301;Oslo;1001;Rødtvet skole;Andre;Andre;9,72616;3094;1072;103
+03;Oslo;0301;Oslo;1001;Rødtvet skole;Andre2;Andre2;0,0;3094;1072;0
+03;Oslo;0301;Oslo;1002;Nordtvet skole;A;Arbeiderpartiet;31,38158;6008;1570;477
+03;Oslo;0301;Oslo;1002;Nordtvet skole;SV;SV - Sosialistisk Venstreparti;10,65789;6008;1570;162
+03;Oslo;0301;Oslo;1002;Nordtvet skole;RØDT;Rødt;10,13158;6008;1570;154
+03;Oslo;0301;Oslo;1002;Nordtvet skole;SP;Senterpartiet;1,38158;6008;1570;21
+03;Oslo;0301;Oslo;1002;Nordtvet skole;KRF;Kristelig Folkeparti;1,71053;6008;1570;26
+03;Oslo;0301;Oslo;1002;Nordtvet skole;MDG;Miljøpartiet De Grønne;5,19737;6008;1570;79
+03;Oslo;0301;Oslo;1002;Nordtvet skole;V;Venstre;3,94737;6008;1570;60
+03;Oslo;0301;Oslo;1002;Nordtvet skole;H;Høyre;18,22368;6008;1570;277
+03;Oslo;0301;Oslo;1002;Nordtvet skole;FRP;Fremskrittspartiet;8,55263;6008;1570;130
+03;Oslo;0301;Oslo;1002;Nordtvet skole;AAN;Alliansen - Alternativ for Norge;0,19737;6008;1570;3
+03;Oslo;0301;Oslo;1002;Nordtvet skole;DEMN;Norgesdemokratene;1,05263;6008;1570;16
+03;Oslo;0301;Oslo;1002;Nordtvet skole;FNB;Folkets Parti;1,31579;6008;1570;20
+03;Oslo;0301;Oslo;1002;Nordtvet skole;INP;Industri- og Næringspartiet;1,84211;6008;1570;28
+03;Oslo;0301;Oslo;1002;Nordtvet skole;KRISTNE;Konservativt;0,26316;6008;1570;4
+03;Oslo;0301;Oslo;1002;Nordtvet skole;KYST;Kystpartiet;0,19737;6008;1570;3
+03;Oslo;0301;Oslo;1002;Nordtvet skole;LIBS;Liberalistene;0,39474;6008;1570;6
+03;Oslo;0301;Oslo;1002;Nordtvet skole;NKP;Norges Kommunistiske Parti;0,19737;6008;1570;3
+03;Oslo;0301;Oslo;1002;Nordtvet skole;PP;Pensjonistpartiet;0,59211;6008;1570;9
+03;Oslo;0301;Oslo;1002;Nordtvet skole;PS;Partiet Sentrum;1,64474;6008;1570;25
+03;Oslo;0301;Oslo;1002;Nordtvet skole;BLANKE;Blanke;3,28947;6008;1570;50
+03;Oslo;0301;Oslo;1002;Nordtvet skole;FSL;Folkestyret-listen;0,32895;6008;1570;5
+03;Oslo;0301;Oslo;1002;Nordtvet skole;PMB;Partiet Mot Bompenger;0,78947;6008;1570;12
+03;Oslo;0301;Oslo;1002;Nordtvet skole;Andre;Andre;8,81579;6008;1570;134
+03;Oslo;0301;Oslo;1002;Nordtvet skole;Andre2;Andre2;0,0;6008;1570;0
+03;Oslo;0301;Oslo;1003;Ammerud skole;A;Arbeiderpartiet;29,69432;7505;1618;476
+03;Oslo;0301;Oslo;1003;Ammerud skole;SV;SV - Sosialistisk Venstreparti;11,97754;7505;1618;192
+03;Oslo;0301;Oslo;1003;Ammerud skole;RØDT;Rødt;9,60699;7505;1618;154
+03;Oslo;0301;Oslo;1003;Ammerud skole;SP;Senterpartiet;1,18528;7505;1618;19
+03;Oslo;0301;Oslo;1003;Ammerud skole;KRF;Kristelig Folkeparti;2,49532;7505;1618;40
+03;Oslo;0301;Oslo;1003;Ammerud skole;MDG;Miljøpartiet De Grønne;8,23456;7505;1618;132
+03;Oslo;0301;Oslo;1003;Ammerud skole;V;Venstre;3,99251;7505;1618;64
+03;Oslo;0301;Oslo;1003;Ammerud skole;H;Høyre;17,71678;7505;1618;284
+03;Oslo;0301;Oslo;1003;Ammerud skole;FRP;Fremskrittspartiet;5,30256;7505;1618;85
+03;Oslo;0301;Oslo;1003;Ammerud skole;AAN;Alliansen - Alternativ for Norge;0,43668;7505;1618;7
+03;Oslo;0301;Oslo;1003;Ammerud skole;DEMN;Norgesdemokratene;0,49906;7505;1618;8
+03;Oslo;0301;Oslo;1003;Ammerud skole;FNB;Folkets Parti;1,68434;7505;1618;27
+03;Oslo;0301;Oslo;1003;Ammerud skole;INP;Industri- og Næringspartiet;0,87336;7505;1618;14
+03;Oslo;0301;Oslo;1003;Ammerud skole;KRISTNE;Konservativt;0,31192;7505;1618;5
+03;Oslo;0301;Oslo;1003;Ammerud skole;KYST;Kystpartiet;0,18715;7505;1618;3
+03;Oslo;0301;Oslo;1003;Ammerud skole;LIBS;Liberalistene;0,43668;7505;1618;7
+03;Oslo;0301;Oslo;1003;Ammerud skole;NKP;Norges Kommunistiske Parti;0,24953;7505;1618;4
+03;Oslo;0301;Oslo;1003;Ammerud skole;PP;Pensjonistpartiet;1,24766;7505;1618;20
+03;Oslo;0301;Oslo;1003;Ammerud skole;PS;Partiet Sentrum;2,68247;7505;1618;43
+03;Oslo;0301;Oslo;1003;Ammerud skole;BLANKE;Blanke;0,93575;7505;1618;15
+03;Oslo;0301;Oslo;1003;Ammerud skole;FSL;Folkestyret-listen;0,24953;7505;1618;4
+03;Oslo;0301;Oslo;1003;Ammerud skole;PMB;Partiet Mot Bompenger;0,93575;7505;1618;15
+03;Oslo;0301;Oslo;1003;Ammerud skole;Andre;Andre;9,79414;7505;1618;157
+03;Oslo;0301;Oslo;1003;Ammerud skole;Andre2;Andre2;0,0;7505;1618;0
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;A;Arbeiderpartiet;32,8629;5557;1007;326
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;SV;SV - Sosialistisk Venstreparti;9,87903;5557;1007;98
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;RØDT;Rødt;11,49194;5557;1007;114
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;SP;Senterpartiet;2,01613;5557;1007;20
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;KRF;Kristelig Folkeparti;2,41935;5557;1007;24
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;MDG;Miljøpartiet De Grønne;3,93145;5557;1007;39
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;V;Venstre;2,52016;5557;1007;25
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;H;Høyre;13,40726;5557;1007;133
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;FRP;Fremskrittspartiet;9,07258;5557;1007;90
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;AAN;Alliansen - Alternativ for Norge;0,30242;5557;1007;3
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;DEMN;Norgesdemokratene;1,20968;5557;1007;12
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;FNB;Folkets Parti;1,41129;5557;1007;14
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;INP;Industri- og Næringspartiet;1,5121;5557;1007;15
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;KRISTNE;Konservativt;0,50403;5557;1007;5
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;KYST;Kystpartiet;0,30242;5557;1007;3
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;LIBS;Liberalistene;0,50403;5557;1007;5
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;NKP;Norges Kommunistiske Parti;0,50403;5557;1007;5
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;PP;Pensjonistpartiet;1,6129;5557;1007;16
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;PS;Partiet Sentrum;2,52016;5557;1007;25
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;BLANKE;Blanke;1,5121;5557;1007;15
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;FSL;Folkestyret-listen;0,60484;5557;1007;6
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;PMB;Partiet Mot Bompenger;1,41129;5557;1007;14
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;Andre;Andre;12,39919;5557;1007;123
+03;Oslo;0301;Oslo;1004;Tiurleiken skole;Andre2;Andre2;0,0;5557;1007;0
+03;Oslo;0301;Oslo;1101;Tokerud skole;A;Arbeiderpartiet;30,54054;5209;750;226
+03;Oslo;0301;Oslo;1101;Tokerud skole;SV;SV - Sosialistisk Venstreparti;13,24324;5209;750;98
+03;Oslo;0301;Oslo;1101;Tokerud skole;RØDT;Rødt;9,05405;5209;750;67
+03;Oslo;0301;Oslo;1101;Tokerud skole;SP;Senterpartiet;2,56757;5209;750;19
+03;Oslo;0301;Oslo;1101;Tokerud skole;KRF;Kristelig Folkeparti;1,35135;5209;750;10
+03;Oslo;0301;Oslo;1101;Tokerud skole;MDG;Miljøpartiet De Grønne;2,7027;5209;750;20
+03;Oslo;0301;Oslo;1101;Tokerud skole;V;Venstre;2,16216;5209;750;16
+03;Oslo;0301;Oslo;1101;Tokerud skole;H;Høyre;20,0;5209;750;148
+03;Oslo;0301;Oslo;1101;Tokerud skole;FRP;Fremskrittspartiet;7,02703;5209;750;52
+03;Oslo;0301;Oslo;1101;Tokerud skole;AAN;Alliansen - Alternativ for Norge;0,54054;5209;750;4
+03;Oslo;0301;Oslo;1101;Tokerud skole;DEMN;Norgesdemokratene;0,40541;5209;750;3
+03;Oslo;0301;Oslo;1101;Tokerud skole;FNB;Folkets Parti;0,94595;5209;750;7
+03;Oslo;0301;Oslo;1101;Tokerud skole;INP;Industri- og Næringspartiet;1,35135;5209;750;10
+03;Oslo;0301;Oslo;1101;Tokerud skole;KRISTNE;Konservativt;0,13514;5209;750;1
+03;Oslo;0301;Oslo;1101;Tokerud skole;KYST;Kystpartiet;0,67568;5209;750;5
+03;Oslo;0301;Oslo;1101;Tokerud skole;LIBS;Liberalistene;0,0;5209;750;0
+03;Oslo;0301;Oslo;1101;Tokerud skole;NKP;Norges Kommunistiske Parti;0,27027;5209;750;2
+03;Oslo;0301;Oslo;1101;Tokerud skole;PP;Pensjonistpartiet;1,48649;5209;750;11
+03;Oslo;0301;Oslo;1101;Tokerud skole;PS;Partiet Sentrum;4,59459;5209;750;34
+03;Oslo;0301;Oslo;1101;Tokerud skole;BLANKE;Blanke;1,35135;5209;750;10
+03;Oslo;0301;Oslo;1101;Tokerud skole;FSL;Folkestyret-listen;0,40541;5209;750;3
+03;Oslo;0301;Oslo;1101;Tokerud skole;PMB;Partiet Mot Bompenger;0,54054;5209;750;4
+03;Oslo;0301;Oslo;1101;Tokerud skole;Andre;Andre;11,35135;5209;750;84
+03;Oslo;0301;Oslo;1101;Tokerud skole;Andre2;Andre2;0,0;5209;750;0
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;A;Arbeiderpartiet;35,33285;4434;1389;483
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;SV;SV - Sosialistisk Venstreparti;10,38771;4434;1389;142
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;RØDT;Rødt;9,50988;4434;1389;130
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;SP;Senterpartiet;1,97513;4434;1389;27
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;KRF;Kristelig Folkeparti;1,31675;4434;1389;18
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;MDG;Miljøpartiet De Grønne;3,07242;4434;1389;42
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;V;Venstre;2,4872;4434;1389;34
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;H;Høyre;14,92319;4434;1389;204
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;FRP;Fremskrittspartiet;6,3643;4434;1389;87
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;AAN;Alliansen - Alternativ for Norge;0,07315;4434;1389;1
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;DEMN;Norgesdemokratene;0,29261;4434;1389;4
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;FNB;Folkets Parti;0,58522;4434;1389;8
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;INP;Industri- og Næringspartiet;1,2436;4434;1389;17
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;KRISTNE;Konservativt;0,07315;4434;1389;1
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;KYST;Kystpartiet;0,07315;4434;1389;1
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;LIBS;Liberalistene;0,21946;4434;1389;3
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;NKP;Norges Kommunistiske Parti;0,21946;4434;1389;3
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;PP;Pensjonistpartiet;0,51207;4434;1389;7
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;PS;Partiet Sentrum;10,0951;4434;1389;138
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;BLANKE;Blanke;1,60936;4434;1389;22
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;FSL;Folkestyret-listen;0,51207;4434;1389;7
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;PMB;Partiet Mot Bompenger;0,73153;4434;1389;10
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;Andre;Andre;14,63058;4434;1389;200
+03;Oslo;0301;Oslo;1102;Stovner videregående skole;Andre2;Andre2;0,0;4434;1389;0
+03;Oslo;0301;Oslo;1103;Stovner skole;A;Arbeiderpartiet;25,92593;10295;1235;315
+03;Oslo;0301;Oslo;1103;Stovner skole;SV;SV - Sosialistisk Venstreparti;7,98354;10295;1235;97
+03;Oslo;0301;Oslo;1103;Stovner skole;RØDT;Rødt;6,33745;10295;1235;77
+03;Oslo;0301;Oslo;1103;Stovner skole;SP;Senterpartiet;1,64609;10295;1235;20
+03;Oslo;0301;Oslo;1103;Stovner skole;KRF;Kristelig Folkeparti;2,71605;10295;1235;33
+03;Oslo;0301;Oslo;1103;Stovner skole;MDG;Miljøpartiet De Grønne;2,63374;10295;1235;32
+03;Oslo;0301;Oslo;1103;Stovner skole;V;Venstre;2,63374;10295;1235;32
+03;Oslo;0301;Oslo;1103;Stovner skole;H;Høyre;27,16049;10295;1235;330
+03;Oslo;0301;Oslo;1103;Stovner skole;FRP;Fremskrittspartiet;9,95885;10295;1235;121
+03;Oslo;0301;Oslo;1103;Stovner skole;AAN;Alliansen - Alternativ for Norge;0,0823;10295;1235;1
+03;Oslo;0301;Oslo;1103;Stovner skole;DEMN;Norgesdemokratene;0,82305;10295;1235;10
+03;Oslo;0301;Oslo;1103;Stovner skole;FNB;Folkets Parti;0,82305;10295;1235;10
+03;Oslo;0301;Oslo;1103;Stovner skole;INP;Industri- og Næringspartiet;2,55144;10295;1235;31
+03;Oslo;0301;Oslo;1103;Stovner skole;KRISTNE;Konservativt;0,32922;10295;1235;4
+03;Oslo;0301;Oslo;1103;Stovner skole;KYST;Kystpartiet;0,0823;10295;1235;1
+03;Oslo;0301;Oslo;1103;Stovner skole;LIBS;Liberalistene;0,24691;10295;1235;3
+03;Oslo;0301;Oslo;1103;Stovner skole;NKP;Norges Kommunistiske Parti;0,32922;10295;1235;4
+03;Oslo;0301;Oslo;1103;Stovner skole;PP;Pensjonistpartiet;0,90535;10295;1235;11
+03;Oslo;0301;Oslo;1103;Stovner skole;PS;Partiet Sentrum;6,33745;10295;1235;77
+03;Oslo;0301;Oslo;1103;Stovner skole;BLANKE;Blanke;1,64609;10295;1235;20
+03;Oslo;0301;Oslo;1103;Stovner skole;FSL;Folkestyret-listen;0,0823;10295;1235;1
+03;Oslo;0301;Oslo;1103;Stovner skole;PMB;Partiet Mot Bompenger;0,41152;10295;1235;5
+03;Oslo;0301;Oslo;1103;Stovner skole;Andre;Andre;13,00412;10295;1235;158
+03;Oslo;0301;Oslo;1103;Stovner skole;Andre2;Andre2;0,0;10295;1235;0
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;A;Arbeiderpartiet;22,11187;5958;1933;423
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;SV;SV - Sosialistisk Venstreparti;6,58651;5958;1933;126
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;RØDT;Rødt;3,86827;5958;1933;74
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;SP;Senterpartiet;2,09096;5958;1933;40
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;KRF;Kristelig Folkeparti;2,66597;5958;1933;51
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;MDG;Miljøpartiet De Grønne;3,34553;5958;1933;64
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;V;Venstre;4,12964;5958;1933;79
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;H;Høyre;33,61213;5958;1933;643
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;FRP;Fremskrittspartiet;11,13434;5958;1933;213
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;AAN;Alliansen - Alternativ for Norge;0,10455;5958;1933;2
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;DEMN;Norgesdemokratene;0,26137;5958;1933;5
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;FNB;Folkets Parti;1,25457;5958;1933;24
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;INP;Industri- og Næringspartiet;2,14323;5958;1933;41
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;KRISTNE;Konservativt;0,41819;5958;1933;8
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;KYST;Kystpartiet;0,26137;5958;1933;5
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;LIBS;Liberalistene;0,15682;5958;1933;3
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;NKP;Norges Kommunistiske Parti;0,05227;5958;1933;1
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;PP;Pensjonistpartiet;0,83638;5958;1933;16
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;PS;Partiet Sentrum;4,12964;5958;1933;79
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;BLANKE;Blanke;1,04548;5958;1933;20
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;FSL;Folkestyret-listen;0,36592;5958;1933;7
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;PMB;Partiet Mot Bompenger;0,47047;5958;1933;9
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;Andre;Andre;10,45478;5958;1933;200
+03;Oslo;0301;Oslo;1104;Folkvang Høybråten;Andre2;Andre2;0,0;5958;1933;0
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;A;Arbeiderpartiet;29,80237;5132;1281;377
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;SV;SV - Sosialistisk Venstreparti;11,30435;5132;1281;143
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;RØDT;Rødt;5,61265;5132;1281;71
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;SP;Senterpartiet;2,68775;5132;1281;34
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;KRF;Kristelig Folkeparti;1,89723;5132;1281;24
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;MDG;Miljøpartiet De Grønne;4,18972;5132;1281;53
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;V;Venstre;4,34783;5132;1281;55
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;H;Høyre;20,1581;5132;1281;255
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;FRP;Fremskrittspartiet;9,09091;5132;1281;115
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;AAN;Alliansen - Alternativ for Norge;0,55336;5132;1281;7
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;DEMN;Norgesdemokratene;0,86957;5132;1281;11
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;FNB;Folkets Parti;1,26482;5132;1281;16
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;INP;Industri- og Næringspartiet;1,81818;5132;1281;23
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;KRISTNE;Konservativt;0,23715;5132;1281;3
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;KYST;Kystpartiet;0,47431;5132;1281;6
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;LIBS;Liberalistene;0,1581;5132;1281;2
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;NKP;Norges Kommunistiske Parti;0,39526;5132;1281;5
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;PP;Pensjonistpartiet;1,02767;5132;1281;13
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;PS;Partiet Sentrum;3,16206;5132;1281;40
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;BLANKE;Blanke;1,26482;5132;1281;16
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;FSL;Folkestyret-listen;0,47431;5132;1281;6
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;PMB;Partiet Mot Bompenger;0,47431;5132;1281;6
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;Andre;Andre;10,90909;5132;1281;138
+03;Oslo;0301;Oslo;1201;Ellingsrudåsen skole;Andre2;Andre2;0,0;5132;1281;0
+03;Oslo;0301;Oslo;1202;Granstangen skole;A;Arbeiderpartiet;31,48479;6464;574;176
+03;Oslo;0301;Oslo;1202;Granstangen skole;SV;SV - Sosialistisk Venstreparti;11,44902;6464;574;64
+03;Oslo;0301;Oslo;1202;Granstangen skole;RØDT;Rødt;9,12343;6464;574;51
+03;Oslo;0301;Oslo;1202;Granstangen skole;SP;Senterpartiet;2,32558;6464;574;13
+03;Oslo;0301;Oslo;1202;Granstangen skole;KRF;Kristelig Folkeparti;3,22004;6464;574;18
+03;Oslo;0301;Oslo;1202;Granstangen skole;MDG;Miljøpartiet De Grønne;3,22004;6464;574;18
+03;Oslo;0301;Oslo;1202;Granstangen skole;V;Venstre;3,22004;6464;574;18
+03;Oslo;0301;Oslo;1202;Granstangen skole;H;Høyre;16,10018;6464;574;90
+03;Oslo;0301;Oslo;1202;Granstangen skole;FRP;Fremskrittspartiet;6,26118;6464;574;35
+03;Oslo;0301;Oslo;1202;Granstangen skole;AAN;Alliansen - Alternativ for Norge;0,35778;6464;574;2
+03;Oslo;0301;Oslo;1202;Granstangen skole;DEMN;Norgesdemokratene;0,0;6464;574;0
+03;Oslo;0301;Oslo;1202;Granstangen skole;FNB;Folkets Parti;2,32558;6464;574;13
+03;Oslo;0301;Oslo;1202;Granstangen skole;INP;Industri- og Næringspartiet;0,53667;6464;574;3
+03;Oslo;0301;Oslo;1202;Granstangen skole;KRISTNE;Konservativt;0,35778;6464;574;2
+03;Oslo;0301;Oslo;1202;Granstangen skole;KYST;Kystpartiet;0,35778;6464;574;2
+03;Oslo;0301;Oslo;1202;Granstangen skole;LIBS;Liberalistene;0,0;6464;574;0
+03;Oslo;0301;Oslo;1202;Granstangen skole;NKP;Norges Kommunistiske Parti;0,53667;6464;574;3
+03;Oslo;0301;Oslo;1202;Granstangen skole;PP;Pensjonistpartiet;0,53667;6464;574;3
+03;Oslo;0301;Oslo;1202;Granstangen skole;PS;Partiet Sentrum;4,83005;6464;574;27
+03;Oslo;0301;Oslo;1202;Granstangen skole;BLANKE;Blanke;2,68336;6464;574;15
+03;Oslo;0301;Oslo;1202;Granstangen skole;FSL;Folkestyret-listen;1,43113;6464;574;8
+03;Oslo;0301;Oslo;1202;Granstangen skole;PMB;Partiet Mot Bompenger;2,32558;6464;574;13
+03;Oslo;0301;Oslo;1202;Granstangen skole;Andre;Andre;13,59571;6464;574;76
+03;Oslo;0301;Oslo;1202;Granstangen skole;Andre2;Andre2;0,0;6464;574;0
+03;Oslo;0301;Oslo;1203;Furuset skole;A;Arbeiderpartiet;29,13279;2283;749;215
+03;Oslo;0301;Oslo;1203;Furuset skole;SV;SV - Sosialistisk Venstreparti;11,11111;2283;749;82
+03;Oslo;0301;Oslo;1203;Furuset skole;RØDT;Rødt;8,40108;2283;749;62
+03;Oslo;0301;Oslo;1203;Furuset skole;SP;Senterpartiet;3,52304;2283;749;26
+03;Oslo;0301;Oslo;1203;Furuset skole;KRF;Kristelig Folkeparti;2,71003;2283;749;20
+03;Oslo;0301;Oslo;1203;Furuset skole;MDG;Miljøpartiet De Grønne;6,50407;2283;749;48
+03;Oslo;0301;Oslo;1203;Furuset skole;V;Venstre;3,11653;2283;749;23
+03;Oslo;0301;Oslo;1203;Furuset skole;H;Høyre;17,34417;2283;749;128
+03;Oslo;0301;Oslo;1203;Furuset skole;FRP;Fremskrittspartiet;5,14905;2283;749;38
+03;Oslo;0301;Oslo;1203;Furuset skole;AAN;Alliansen - Alternativ for Norge;0,1355;2283;749;1
+03;Oslo;0301;Oslo;1203;Furuset skole;DEMN;Norgesdemokratene;0,1355;2283;749;1
+03;Oslo;0301;Oslo;1203;Furuset skole;FNB;Folkets Parti;1,89702;2283;749;14
+03;Oslo;0301;Oslo;1203;Furuset skole;INP;Industri- og Næringspartiet;1,35501;2283;749;10
+03;Oslo;0301;Oslo;1203;Furuset skole;KRISTNE;Konservativt;0,1355;2283;749;1
+03;Oslo;0301;Oslo;1203;Furuset skole;KYST;Kystpartiet;0,4065;2283;749;3
+03;Oslo;0301;Oslo;1203;Furuset skole;LIBS;Liberalistene;0,1355;2283;749;1
+03;Oslo;0301;Oslo;1203;Furuset skole;NKP;Norges Kommunistiske Parti;0,4065;2283;749;3
+03;Oslo;0301;Oslo;1203;Furuset skole;PP;Pensjonistpartiet;0,4065;2283;749;3
+03;Oslo;0301;Oslo;1203;Furuset skole;PS;Partiet Sentrum;7,18157;2283;749;53
+03;Oslo;0301;Oslo;1203;Furuset skole;BLANKE;Blanke;1,49051;2283;749;11
+03;Oslo;0301;Oslo;1203;Furuset skole;FSL;Folkestyret-listen;0,1355;2283;749;1
+03;Oslo;0301;Oslo;1203;Furuset skole;PMB;Partiet Mot Bompenger;0,67751;2283;749;5
+03;Oslo;0301;Oslo;1203;Furuset skole;Andre;Andre;13,00813;2283;749;96
+03;Oslo;0301;Oslo;1203;Furuset skole;Andre2;Andre2;0,0;2283;749;0
+03;Oslo;0301;Oslo;1204;Lindeberg skole;A;Arbeiderpartiet;30,40057;5955;1409;425
+03;Oslo;0301;Oslo;1204;Lindeberg skole;SV;SV - Sosialistisk Venstreparti;12,44635;5955;1409;174
+03;Oslo;0301;Oslo;1204;Lindeberg skole;RØDT;Rødt;6,79542;5955;1409;95
+03;Oslo;0301;Oslo;1204;Lindeberg skole;SP;Senterpartiet;2,71817;5955;1409;38
+03;Oslo;0301;Oslo;1204;Lindeberg skole;KRF;Kristelig Folkeparti;2,50358;5955;1409;35
+03;Oslo;0301;Oslo;1204;Lindeberg skole;MDG;Miljøpartiet De Grønne;5,79399;5955;1409;81
+03;Oslo;0301;Oslo;1204;Lindeberg skole;V;Venstre;3,29041;5955;1409;46
+03;Oslo;0301;Oslo;1204;Lindeberg skole;H;Høyre;17,09585;5955;1409;239
+03;Oslo;0301;Oslo;1204;Lindeberg skole;FRP;Fremskrittspartiet;6,93848;5955;1409;97
+03;Oslo;0301;Oslo;1204;Lindeberg skole;AAN;Alliansen - Alternativ for Norge;0,28612;5955;1409;4
+03;Oslo;0301;Oslo;1204;Lindeberg skole;DEMN;Norgesdemokratene;0,64378;5955;1409;9
+03;Oslo;0301;Oslo;1204;Lindeberg skole;FNB;Folkets Parti;0,9299;5955;1409;13
+03;Oslo;0301;Oslo;1204;Lindeberg skole;INP;Industri- og Næringspartiet;1,14449;5955;1409;16
+03;Oslo;0301;Oslo;1204;Lindeberg skole;KRISTNE;Konservativt;0,21459;5955;1409;3
+03;Oslo;0301;Oslo;1204;Lindeberg skole;KYST;Kystpartiet;0,14306;5955;1409;2
+03;Oslo;0301;Oslo;1204;Lindeberg skole;LIBS;Liberalistene;0,21459;5955;1409;3
+03;Oslo;0301;Oslo;1204;Lindeberg skole;NKP;Norges Kommunistiske Parti;0,42918;5955;1409;6
+03;Oslo;0301;Oslo;1204;Lindeberg skole;PP;Pensjonistpartiet;1,35908;5955;1409;19
+03;Oslo;0301;Oslo;1204;Lindeberg skole;PS;Partiet Sentrum;5,86552;5955;1409;82
+03;Oslo;0301;Oslo;1204;Lindeberg skole;BLANKE;Blanke;0,78684;5955;1409;11
+03;Oslo;0301;Oslo;1204;Lindeberg skole;FSL;Folkestyret-listen;0,0;5955;1409;0
+03;Oslo;0301;Oslo;1204;Lindeberg skole;PMB;Partiet Mot Bompenger;0,78684;5955;1409;11
+03;Oslo;0301;Oslo;1204;Lindeberg skole;Andre;Andre;12,01717;5955;1409;168
+03;Oslo;0301;Oslo;1204;Lindeberg skole;Andre2;Andre2;0,0;5955;1409;0
+03;Oslo;0301;Oslo;1205;Haukåsen skole;A;Arbeiderpartiet;26,67695;7072;1319;346
+03;Oslo;0301;Oslo;1205;Haukåsen skole;SV;SV - Sosialistisk Venstreparti;11,64225;7072;1319;151
+03;Oslo;0301;Oslo;1205;Haukåsen skole;RØDT;Rødt;7,7101;7072;1319;100
+03;Oslo;0301;Oslo;1205;Haukåsen skole;SP;Senterpartiet;2,69854;7072;1319;35
+03;Oslo;0301;Oslo;1205;Haukåsen skole;KRF;Kristelig Folkeparti;2,31303;7072;1319;30
+03;Oslo;0301;Oslo;1205;Haukåsen skole;MDG;Miljøpartiet De Grønne;6,39938;7072;1319;83
+03;Oslo;0301;Oslo;1205;Haukåsen skole;V;Venstre;5,24287;7072;1319;68
+03;Oslo;0301;Oslo;1205;Haukåsen skole;H;Høyre;18,19584;7072;1319;236
+03;Oslo;0301;Oslo;1205;Haukåsen skole;FRP;Fremskrittspartiet;8,17271;7072;1319;106
+03;Oslo;0301;Oslo;1205;Haukåsen skole;AAN;Alliansen - Alternativ for Norge;0,0;7072;1319;0
+03;Oslo;0301;Oslo;1205;Haukåsen skole;DEMN;Norgesdemokratene;0,46261;7072;1319;6
+03;Oslo;0301;Oslo;1205;Haukåsen skole;FNB;Folkets Parti;1,61912;7072;1319;21
+03;Oslo;0301;Oslo;1205;Haukåsen skole;INP;Industri- og Næringspartiet;1,23362;7072;1319;16
+03;Oslo;0301;Oslo;1205;Haukåsen skole;KRISTNE;Konservativt;0,1542;7072;1319;2
+03;Oslo;0301;Oslo;1205;Haukåsen skole;KYST;Kystpartiet;0,2313;7072;1319;3
+03;Oslo;0301;Oslo;1205;Haukåsen skole;LIBS;Liberalistene;0,1542;7072;1319;2
+03;Oslo;0301;Oslo;1205;Haukåsen skole;NKP;Norges Kommunistiske Parti;0,38551;7072;1319;5
+03;Oslo;0301;Oslo;1205;Haukåsen skole;PP;Pensjonistpartiet;2,08173;7072;1319;27
+03;Oslo;0301;Oslo;1205;Haukåsen skole;PS;Partiet Sentrum;3,31534;7072;1319;43
+03;Oslo;0301;Oslo;1205;Haukåsen skole;BLANKE;Blanke;1,69622;7072;1319;22
+03;Oslo;0301;Oslo;1205;Haukåsen skole;FSL;Folkestyret-listen;0,61681;7072;1319;8
+03;Oslo;0301;Oslo;1205;Haukåsen skole;PMB;Partiet Mot Bompenger;0,69391;7072;1319;9
+03;Oslo;0301;Oslo;1205;Haukåsen skole;Andre;Andre;10,94834;7072;1319;142
+03;Oslo;0301;Oslo;1205;Haukåsen skole;Andre2;Andre2;0,0;7072;1319;0
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;A;Arbeiderpartiet;25,94595;7329;1874;480
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;SV;SV - Sosialistisk Venstreparti;10,32432;7329;1874;191
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;RØDT;Rødt;5,45946;7329;1874;101
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;SP;Senterpartiet;1,72973;7329;1874;32
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;KRF;Kristelig Folkeparti;2,16216;7329;1874;40
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;MDG;Miljøpartiet De Grønne;7,08108;7329;1874;131
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;V;Venstre;6,48649;7329;1874;120
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;H;Høyre;22,86486;7329;1874;423
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;FRP;Fremskrittspartiet;8,75676;7329;1874;162
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;AAN;Alliansen - Alternativ for Norge;0,27027;7329;1874;5
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;DEMN;Norgesdemokratene;0,43243;7329;1874;8
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;FNB;Folkets Parti;1,51351;7329;1874;28
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;INP;Industri- og Næringspartiet;1,2973;7329;1874;24
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;KRISTNE;Konservativt;0,48649;7329;1874;9
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;KYST;Kystpartiet;0,10811;7329;1874;2
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;LIBS;Liberalistene;0,27027;7329;1874;5
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;NKP;Norges Kommunistiske Parti;0,16216;7329;1874;3
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;PP;Pensjonistpartiet;1,24324;7329;1874;23
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;PS;Partiet Sentrum;2,54054;7329;1874;47
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;BLANKE;Blanke;1,2973;7329;1874;24
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;FSL;Folkestyret-listen;0,21622;7329;1874;4
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;PMB;Partiet Mot Bompenger;0,64865;7329;1874;12
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;Andre;Andre;9,18919;7329;1874;170
+03;Oslo;0301;Oslo;1206;Hellerud videregående skole;Andre2;Andre2;0,0;7329;1874;0
+03;Oslo;0301;Oslo;1207;Bryn skole;A;Arbeiderpartiet;24,13522;4859;1292;307
+03;Oslo;0301;Oslo;1207;Bryn skole;SV;SV - Sosialistisk Venstreparti;10,06289;4859;1292;128
+03;Oslo;0301;Oslo;1207;Bryn skole;RØDT;Rødt;7,7044;4859;1292;98
+03;Oslo;0301;Oslo;1207;Bryn skole;SP;Senterpartiet;2,35849;4859;1292;30
+03;Oslo;0301;Oslo;1207;Bryn skole;KRF;Kristelig Folkeparti;2,51572;4859;1292;32
+03;Oslo;0301;Oslo;1207;Bryn skole;MDG;Miljøpartiet De Grønne;6,44654;4859;1292;82
+03;Oslo;0301;Oslo;1207;Bryn skole;V;Venstre;6,44654;4859;1292;82
+03;Oslo;0301;Oslo;1207;Bryn skole;H;Høyre;23,11321;4859;1292;294
+03;Oslo;0301;Oslo;1207;Bryn skole;FRP;Fremskrittspartiet;7,86164;4859;1292;100
+03;Oslo;0301;Oslo;1207;Bryn skole;AAN;Alliansen - Alternativ for Norge;0,23585;4859;1292;3
+03;Oslo;0301;Oslo;1207;Bryn skole;DEMN;Norgesdemokratene;0,4717;4859;1292;6
+03;Oslo;0301;Oslo;1207;Bryn skole;FNB;Folkets Parti;1,49371;4859;1292;19
+03;Oslo;0301;Oslo;1207;Bryn skole;INP;Industri- og Næringspartiet;1,72956;4859;1292;22
+03;Oslo;0301;Oslo;1207;Bryn skole;KRISTNE;Konservativt;0,39308;4859;1292;5
+03;Oslo;0301;Oslo;1207;Bryn skole;KYST;Kystpartiet;0,15723;4859;1292;2
+03;Oslo;0301;Oslo;1207;Bryn skole;LIBS;Liberalistene;0,23585;4859;1292;3
+03;Oslo;0301;Oslo;1207;Bryn skole;NKP;Norges Kommunistiske Parti;0,15723;4859;1292;2
+03;Oslo;0301;Oslo;1207;Bryn skole;PP;Pensjonistpartiet;1,33648;4859;1292;17
+03;Oslo;0301;Oslo;1207;Bryn skole;PS;Partiet Sentrum;1,49371;4859;1292;19
+03;Oslo;0301;Oslo;1207;Bryn skole;BLANKE;Blanke;1,57233;4859;1292;20
+03;Oslo;0301;Oslo;1207;Bryn skole;FSL;Folkestyret-listen;0,31447;4859;1292;4
+03;Oslo;0301;Oslo;1207;Bryn skole;PMB;Partiet Mot Bompenger;1,33648;4859;1292;17
+03;Oslo;0301;Oslo;1207;Bryn skole;Andre;Andre;9,35535;4859;1292;119
+03;Oslo;0301;Oslo;1207;Bryn skole;Andre2;Andre2;0,0;4859;1292;0
+03;Oslo;0301;Oslo;1301;Godlia skole;A;Arbeiderpartiet;23,78855;3466;924;216
+03;Oslo;0301;Oslo;1301;Godlia skole;SV;SV - Sosialistisk Venstreparti;11,78414;3466;924;107
+03;Oslo;0301;Oslo;1301;Godlia skole;RØDT;Rødt;4,84581;3466;924;44
+03;Oslo;0301;Oslo;1301;Godlia skole;SP;Senterpartiet;0,99119;3466;924;9
+03;Oslo;0301;Oslo;1301;Godlia skole;KRF;Kristelig Folkeparti;2,09251;3466;924;19
+03;Oslo;0301;Oslo;1301;Godlia skole;MDG;Miljøpartiet De Grønne;8,14978;3466;924;74
+03;Oslo;0301;Oslo;1301;Godlia skole;V;Venstre;8,25991;3466;924;75
+03;Oslo;0301;Oslo;1301;Godlia skole;H;Høyre;23,89868;3466;924;217
+03;Oslo;0301;Oslo;1301;Godlia skole;FRP;Fremskrittspartiet;9,03084;3466;924;82
+03;Oslo;0301;Oslo;1301;Godlia skole;AAN;Alliansen - Alternativ for Norge;0,0;3466;924;0
+03;Oslo;0301;Oslo;1301;Godlia skole;DEMN;Norgesdemokratene;0,22026;3466;924;2
+03;Oslo;0301;Oslo;1301;Godlia skole;FNB;Folkets Parti;1,98238;3466;924;18
+03;Oslo;0301;Oslo;1301;Godlia skole;INP;Industri- og Næringspartiet;1,98238;3466;924;18
+03;Oslo;0301;Oslo;1301;Godlia skole;KRISTNE;Konservativt;0,22026;3466;924;2
+03;Oslo;0301;Oslo;1301;Godlia skole;KYST;Kystpartiet;0,0;3466;924;0
+03;Oslo;0301;Oslo;1301;Godlia skole;LIBS;Liberalistene;0,22026;3466;924;2
+03;Oslo;0301;Oslo;1301;Godlia skole;NKP;Norges Kommunistiske Parti;0,11013;3466;924;1
+03;Oslo;0301;Oslo;1301;Godlia skole;PP;Pensjonistpartiet;0,22026;3466;924;2
+03;Oslo;0301;Oslo;1301;Godlia skole;PS;Partiet Sentrum;1,65198;3466;924;15
+03;Oslo;0301;Oslo;1301;Godlia skole;BLANKE;Blanke;1,76211;3466;924;16
+03;Oslo;0301;Oslo;1301;Godlia skole;FSL;Folkestyret-listen;0,22026;3466;924;2
+03;Oslo;0301;Oslo;1301;Godlia skole;PMB;Partiet Mot Bompenger;0,3304;3466;924;3
+03;Oslo;0301;Oslo;1301;Godlia skole;Andre;Andre;7,15859;3466;924;65
+03;Oslo;0301;Oslo;1301;Godlia skole;Andre2;Andre2;0,0;3466;924;0
+03;Oslo;0301;Oslo;1302;Trasop skole;A;Arbeiderpartiet;22,63451;2316;1091;244
+03;Oslo;0301;Oslo;1302;Trasop skole;SV;SV - Sosialistisk Venstreparti;11,78108;2316;1091;127
+03;Oslo;0301;Oslo;1302;Trasop skole;RØDT;Rødt;5,10204;2316;1091;55
+03;Oslo;0301;Oslo;1302;Trasop skole;SP;Senterpartiet;1,02041;2316;1091;11
+03;Oslo;0301;Oslo;1302;Trasop skole;KRF;Kristelig Folkeparti;1,48423;2316;1091;16
+03;Oslo;0301;Oslo;1302;Trasop skole;MDG;Miljøpartiet De Grønne;9,55473;2316;1091;103
+03;Oslo;0301;Oslo;1302;Trasop skole;V;Venstre;9,09091;2316;1091;98
+03;Oslo;0301;Oslo;1302;Trasop skole;H;Høyre;23,46939;2316;1091;253
+03;Oslo;0301;Oslo;1302;Trasop skole;FRP;Fremskrittspartiet;7,79221;2316;1091;84
+03;Oslo;0301;Oslo;1302;Trasop skole;AAN;Alliansen - Alternativ for Norge;0,46382;2316;1091;5
+03;Oslo;0301;Oslo;1302;Trasop skole;DEMN;Norgesdemokratene;0,55659;2316;1091;6
+03;Oslo;0301;Oslo;1302;Trasop skole;FNB;Folkets Parti;1,85529;2316;1091;20
+03;Oslo;0301;Oslo;1302;Trasop skole;INP;Industri- og Næringspartiet;1,85529;2316;1091;20
+03;Oslo;0301;Oslo;1302;Trasop skole;KRISTNE;Konservativt;0,18553;2316;1091;2
+03;Oslo;0301;Oslo;1302;Trasop skole;KYST;Kystpartiet;0,09276;2316;1091;1
+03;Oslo;0301;Oslo;1302;Trasop skole;LIBS;Liberalistene;0,0;2316;1091;0
+03;Oslo;0301;Oslo;1302;Trasop skole;NKP;Norges Kommunistiske Parti;0,0;2316;1091;0
+03;Oslo;0301;Oslo;1302;Trasop skole;PP;Pensjonistpartiet;0,64935;2316;1091;7
+03;Oslo;0301;Oslo;1302;Trasop skole;PS;Partiet Sentrum;1,57699;2316;1091;17
+03;Oslo;0301;Oslo;1302;Trasop skole;BLANKE;Blanke;1,20594;2316;1091;13
+03;Oslo;0301;Oslo;1302;Trasop skole;FSL;Folkestyret-listen;0,37106;2316;1091;4
+03;Oslo;0301;Oslo;1302;Trasop skole;PMB;Partiet Mot Bompenger;0,46382;2316;1091;5
+03;Oslo;0301;Oslo;1302;Trasop skole;Andre;Andre;8,0705;2316;1091;87
+03;Oslo;0301;Oslo;1302;Trasop skole;Andre2;Andre2;0,0;2316;1091;0
+03;Oslo;0301;Oslo;1303;Oppsal skole;A;Arbeiderpartiet;21,82933;6022;2143;463
+03;Oslo;0301;Oslo;1303;Oppsal skole;SV;SV - Sosialistisk Venstreparti;14,33286;6022;2143;304
+03;Oslo;0301;Oslo;1303;Oppsal skole;RØDT;Rødt;5,61056;6022;2143;119
+03;Oslo;0301;Oslo;1303;Oppsal skole;SP;Senterpartiet;1,03725;6022;2143;22
+03;Oslo;0301;Oslo;1303;Oppsal skole;KRF;Kristelig Folkeparti;2,12164;6022;2143;45
+03;Oslo;0301;Oslo;1303;Oppsal skole;MDG;Miljøpartiet De Grønne;9,90099;6022;2143;210
+03;Oslo;0301;Oslo;1303;Oppsal skole;V;Venstre;7,35502;6022;2143;156
+03;Oslo;0301;Oslo;1303;Oppsal skole;H;Høyre;23,47949;6022;2143;498
+03;Oslo;0301;Oslo;1303;Oppsal skole;FRP;Fremskrittspartiet;7,02499;6022;2143;149
+03;Oslo;0301;Oslo;1303;Oppsal skole;AAN;Alliansen - Alternativ for Norge;0,04715;6022;2143;1
+03;Oslo;0301;Oslo;1303;Oppsal skole;DEMN;Norgesdemokratene;0,75436;6022;2143;16
+03;Oslo;0301;Oslo;1303;Oppsal skole;FNB;Folkets Parti;1,65017;6022;2143;35
+03;Oslo;0301;Oslo;1303;Oppsal skole;INP;Industri- og Næringspartiet;1,32013;6022;2143;28
+03;Oslo;0301;Oslo;1303;Oppsal skole;KRISTNE;Konservativt;0,37718;6022;2143;8
+03;Oslo;0301;Oslo;1303;Oppsal skole;KYST;Kystpartiet;0,04715;6022;2143;1
+03;Oslo;0301;Oslo;1303;Oppsal skole;LIBS;Liberalistene;0,14144;6022;2143;3
+03;Oslo;0301;Oslo;1303;Oppsal skole;NKP;Norges Kommunistiske Parti;0,0943;6022;2143;2
+03;Oslo;0301;Oslo;1303;Oppsal skole;PP;Pensjonistpartiet;0,61292;6022;2143;13
+03;Oslo;0301;Oslo;1303;Oppsal skole;PS;Partiet Sentrum;1,83876;6022;2143;39
+03;Oslo;0301;Oslo;1303;Oppsal skole;BLANKE;Blanke;1,03725;6022;2143;22
+03;Oslo;0301;Oslo;1303;Oppsal skole;FSL;Folkestyret-listen;0,0943;6022;2143;2
+03;Oslo;0301;Oslo;1303;Oppsal skole;PMB;Partiet Mot Bompenger;0,33003;6022;2143;7
+03;Oslo;0301;Oslo;1303;Oppsal skole;Andre;Andre;7,30787;6022;2143;155
+03;Oslo;0301;Oslo;1303;Oppsal skole;Andre2;Andre2;0,0;6022;2143;0
+03;Oslo;0301;Oslo;1304;Skullerud skole;A;Arbeiderpartiet;26,40723;5997;1459;380
+03;Oslo;0301;Oslo;1304;Skullerud skole;SV;SV - Sosialistisk Venstreparti;10,97985;5997;1459;158
+03;Oslo;0301;Oslo;1304;Skullerud skole;RØDT;Rødt;5,07297;5997;1459;73
+03;Oslo;0301;Oslo;1304;Skullerud skole;SP;Senterpartiet;1,73732;5997;1459;25
+03;Oslo;0301;Oslo;1304;Skullerud skole;KRF;Kristelig Folkeparti;2,8492;5997;1459;41
+03;Oslo;0301;Oslo;1304;Skullerud skole;MDG;Miljøpartiet De Grønne;6,60181;5997;1459;95
+03;Oslo;0301;Oslo;1304;Skullerud skole;V;Venstre;6,81028;5997;1459;98
+03;Oslo;0301;Oslo;1304;Skullerud skole;H;Høyre;24,46143;5997;1459;352
+03;Oslo;0301;Oslo;1304;Skullerud skole;FRP;Fremskrittspartiet;7,6442;5997;1459;110
+03;Oslo;0301;Oslo;1304;Skullerud skole;AAN;Alliansen - Alternativ for Norge;0,27797;5997;1459;4
+03;Oslo;0301;Oslo;1304;Skullerud skole;DEMN;Norgesdemokratene;0,34746;5997;1459;5
+03;Oslo;0301;Oslo;1304;Skullerud skole;FNB;Folkets Parti;0,90341;5997;1459;13
+03;Oslo;0301;Oslo;1304;Skullerud skole;INP;Industri- og Næringspartiet;1,73732;5997;1459;25
+03;Oslo;0301;Oslo;1304;Skullerud skole;KRISTNE;Konservativt;0,13899;5997;1459;2
+03;Oslo;0301;Oslo;1304;Skullerud skole;KYST;Kystpartiet;0,34746;5997;1459;5
+03;Oslo;0301;Oslo;1304;Skullerud skole;LIBS;Liberalistene;0,06949;5997;1459;1
+03;Oslo;0301;Oslo;1304;Skullerud skole;NKP;Norges Kommunistiske Parti;0,34746;5997;1459;5
+03;Oslo;0301;Oslo;1304;Skullerud skole;PP;Pensjonistpartiet;0,69493;5997;1459;10
+03;Oslo;0301;Oslo;1304;Skullerud skole;PS;Partiet Sentrum;1,73732;5997;1459;25
+03;Oslo;0301;Oslo;1304;Skullerud skole;BLANKE;Blanke;1,38985;5997;1459;20
+03;Oslo;0301;Oslo;1304;Skullerud skole;FSL;Folkestyret-listen;0,27797;5997;1459;4
+03;Oslo;0301;Oslo;1304;Skullerud skole;PMB;Partiet Mot Bompenger;0,55594;5997;1459;8
+03;Oslo;0301;Oslo;1304;Skullerud skole;Andre;Andre;7,43572;5997;1459;107
+03;Oslo;0301;Oslo;1304;Skullerud skole;Andre2;Andre2;0,0;5997;1459;0
+03;Oslo;0301;Oslo;1305;Østensjø skole;A;Arbeiderpartiet;19,56315;2824;1058;206
+03;Oslo;0301;Oslo;1305;Østensjø skole;SV;SV - Sosialistisk Venstreparti;8,73694;2824;1058;92
+03;Oslo;0301;Oslo;1305;Østensjø skole;RØDT;Rødt;4,46344;2824;1058;47
+03;Oslo;0301;Oslo;1305;Østensjø skole;SP;Senterpartiet;0,75973;2824;1058;8
+03;Oslo;0301;Oslo;1305;Østensjø skole;KRF;Kristelig Folkeparti;2,5641;2824;1058;27
+03;Oslo;0301;Oslo;1305;Østensjø skole;MDG;Miljøpartiet De Grønne;10,06648;2824;1058;106
+03;Oslo;0301;Oslo;1305;Østensjø skole;V;Venstre;11,96581;2824;1058;126
+03;Oslo;0301;Oslo;1305;Østensjø skole;H;Høyre;28,20513;2824;1058;297
+03;Oslo;0301;Oslo;1305;Østensjø skole;FRP;Fremskrittspartiet;7,59734;2824;1058;80
+03;Oslo;0301;Oslo;1305;Østensjø skole;AAN;Alliansen - Alternativ for Norge;0,09497;2824;1058;1
+03;Oslo;0301;Oslo;1305;Østensjø skole;DEMN;Norgesdemokratene;0,18993;2824;1058;2
+03;Oslo;0301;Oslo;1305;Østensjø skole;FNB;Folkets Parti;1,23457;2824;1058;13
+03;Oslo;0301;Oslo;1305;Østensjø skole;INP;Industri- og Næringspartiet;1,23457;2824;1058;13
+03;Oslo;0301;Oslo;1305;Østensjø skole;KRISTNE;Konservativt;0,18993;2824;1058;2
+03;Oslo;0301;Oslo;1305;Østensjø skole;KYST;Kystpartiet;0,09497;2824;1058;1
+03;Oslo;0301;Oslo;1305;Østensjø skole;LIBS;Liberalistene;0,2849;2824;1058;3
+03;Oslo;0301;Oslo;1305;Østensjø skole;NKP;Norges Kommunistiske Parti;0,18993;2824;1058;2
+03;Oslo;0301;Oslo;1305;Østensjø skole;PP;Pensjonistpartiet;0,5698;2824;1058;6
+03;Oslo;0301;Oslo;1305;Østensjø skole;PS;Partiet Sentrum;1,32953;2824;1058;14
+03;Oslo;0301;Oslo;1305;Østensjø skole;BLANKE;Blanke;0,47483;2824;1058;5
+03;Oslo;0301;Oslo;1305;Østensjø skole;FSL;Folkestyret-listen;0,37987;2824;1058;4
+03;Oslo;0301;Oslo;1305;Østensjø skole;PMB;Partiet Mot Bompenger;0,2849;2824;1058;3
+03;Oslo;0301;Oslo;1305;Østensjø skole;Andre;Andre;6,07787;2824;1058;64
+03;Oslo;0301;Oslo;1305;Østensjø skole;Andre2;Andre2;0,0;2824;1058;0
+03;Oslo;0301;Oslo;1306;Manglerud skole;A;Arbeiderpartiet;24,23881;4986;1687;406
+03;Oslo;0301;Oslo;1306;Manglerud skole;SV;SV - Sosialistisk Venstreparti;9,07463;4986;1687;152
+03;Oslo;0301;Oslo;1306;Manglerud skole;RØDT;Rødt;4,59701;4986;1687;77
+03;Oslo;0301;Oslo;1306;Manglerud skole;SP;Senterpartiet;1,01493;4986;1687;17
+03;Oslo;0301;Oslo;1306;Manglerud skole;KRF;Kristelig Folkeparti;1,85075;4986;1687;31
+03;Oslo;0301;Oslo;1306;Manglerud skole;MDG;Miljøpartiet De Grønne;6,38806;4986;1687;107
+03;Oslo;0301;Oslo;1306;Manglerud skole;V;Venstre;6,74627;4986;1687;113
+03;Oslo;0301;Oslo;1306;Manglerud skole;H;Høyre;29,55224;4986;1687;495
+03;Oslo;0301;Oslo;1306;Manglerud skole;FRP;Fremskrittspartiet;8,41791;4986;1687;141
+03;Oslo;0301;Oslo;1306;Manglerud skole;AAN;Alliansen - Alternativ for Norge;0,1194;4986;1687;2
+03;Oslo;0301;Oslo;1306;Manglerud skole;DEMN;Norgesdemokratene;0,35821;4986;1687;6
+03;Oslo;0301;Oslo;1306;Manglerud skole;FNB;Folkets Parti;1,13433;4986;1687;19
+03;Oslo;0301;Oslo;1306;Manglerud skole;INP;Industri- og Næringspartiet;2,08955;4986;1687;35
+03;Oslo;0301;Oslo;1306;Manglerud skole;KRISTNE;Konservativt;0,1791;4986;1687;3
+03;Oslo;0301;Oslo;1306;Manglerud skole;KYST;Kystpartiet;0,0;4986;1687;0
+03;Oslo;0301;Oslo;1306;Manglerud skole;LIBS;Liberalistene;0,29851;4986;1687;5
+03;Oslo;0301;Oslo;1306;Manglerud skole;NKP;Norges Kommunistiske Parti;0,1791;4986;1687;3
+03;Oslo;0301;Oslo;1306;Manglerud skole;PP;Pensjonistpartiet;1,25373;4986;1687;21
+03;Oslo;0301;Oslo;1306;Manglerud skole;PS;Partiet Sentrum;1,79104;4986;1687;30
+03;Oslo;0301;Oslo;1306;Manglerud skole;BLANKE;Blanke;0,71642;4986;1687;12
+03;Oslo;0301;Oslo;1306;Manglerud skole;FSL;Folkestyret-listen;0,35821;4986;1687;6
+03;Oslo;0301;Oslo;1306;Manglerud skole;PMB;Partiet Mot Bompenger;0,35821;4986;1687;6
+03;Oslo;0301;Oslo;1306;Manglerud skole;Andre;Andre;8,1194;4986;1687;136
+03;Oslo;0301;Oslo;1306;Manglerud skole;Andre2;Andre2;0,0;4986;1687;0
+03;Oslo;0301;Oslo;1307;Høyenhall skole;A;Arbeiderpartiet;21,17117;3692;1568;329
+03;Oslo;0301;Oslo;1307;Høyenhall skole;SV;SV - Sosialistisk Venstreparti;7,46461;3692;1568;116
+03;Oslo;0301;Oslo;1307;Høyenhall skole;RØDT;Rødt;4,44015;3692;1568;69
+03;Oslo;0301;Oslo;1307;Høyenhall skole;SP;Senterpartiet;1,8018;3692;1568;28
+03;Oslo;0301;Oslo;1307;Høyenhall skole;KRF;Kristelig Folkeparti;2,12355;3692;1568;33
+03;Oslo;0301;Oslo;1307;Høyenhall skole;MDG;Miljøpartiet De Grønne;5,46976;3692;1568;85
+03;Oslo;0301;Oslo;1307;Høyenhall skole;V;Venstre;8,62291;3692;1568;134
+03;Oslo;0301;Oslo;1307;Høyenhall skole;H;Høyre;33,91248;3692;1568;527
+03;Oslo;0301;Oslo;1307;Høyenhall skole;FRP;Fremskrittspartiet;8,30116;3692;1568;129
+03;Oslo;0301;Oslo;1307;Høyenhall skole;AAN;Alliansen - Alternativ for Norge;0,06435;3692;1568;1
+03;Oslo;0301;Oslo;1307;Høyenhall skole;DEMN;Norgesdemokratene;0,32175;3692;1568;5
+03;Oslo;0301;Oslo;1307;Høyenhall skole;FNB;Folkets Parti;1,4157;3692;1568;22
+03;Oslo;0301;Oslo;1307;Høyenhall skole;INP;Industri- og Næringspartiet;1,22265;3692;1568;19
+03;Oslo;0301;Oslo;1307;Høyenhall skole;KRISTNE;Konservativt;0,06435;3692;1568;1
+03;Oslo;0301;Oslo;1307;Høyenhall skole;KYST;Kystpartiet;0,1287;3692;1568;2
+03;Oslo;0301;Oslo;1307;Høyenhall skole;LIBS;Liberalistene;0,1287;3692;1568;2
+03;Oslo;0301;Oslo;1307;Høyenhall skole;NKP;Norges Kommunistiske Parti;0,06435;3692;1568;1
+03;Oslo;0301;Oslo;1307;Høyenhall skole;PP;Pensjonistpartiet;0,83655;3692;1568;13
+03;Oslo;0301;Oslo;1307;Høyenhall skole;PS;Partiet Sentrum;1,8018;3692;1568;28
+03;Oslo;0301;Oslo;1307;Høyenhall skole;BLANKE;Blanke;0,9009;3692;1568;14
+03;Oslo;0301;Oslo;1307;Høyenhall skole;FSL;Folkestyret-listen;0,2574;3692;1568;4
+03;Oslo;0301;Oslo;1307;Høyenhall skole;PMB;Partiet Mot Bompenger;0,3861;3692;1568;6
+03;Oslo;0301;Oslo;1307;Høyenhall skole;Andre;Andre;6,69241;3692;1568;104
+03;Oslo;0301;Oslo;1307;Høyenhall skole;Andre2;Andre2;0,0;3692;1568;0
+03;Oslo;0301;Oslo;1308;Abildsø skole;A;Arbeiderpartiet;20,49793;2902;1213;247
+03;Oslo;0301;Oslo;1308;Abildsø skole;SV;SV - Sosialistisk Venstreparti;9,70954;2902;1213;117
+03;Oslo;0301;Oslo;1308;Abildsø skole;RØDT;Rødt;2,82158;2902;1213;34
+03;Oslo;0301;Oslo;1308;Abildsø skole;SP;Senterpartiet;0,41494;2902;1213;5
+03;Oslo;0301;Oslo;1308;Abildsø skole;KRF;Kristelig Folkeparti;2,6556;2902;1213;32
+03;Oslo;0301;Oslo;1308;Abildsø skole;MDG;Miljøpartiet De Grønne;7,9668;2902;1213;96
+03;Oslo;0301;Oslo;1308;Abildsø skole;V;Venstre;7,3029;2902;1213;88
+03;Oslo;0301;Oslo;1308;Abildsø skole;H;Høyre;34,10788;2902;1213;411
+03;Oslo;0301;Oslo;1308;Abildsø skole;FRP;Fremskrittspartiet;7,71784;2902;1213;93
+03;Oslo;0301;Oslo;1308;Abildsø skole;AAN;Alliansen - Alternativ for Norge;0,08299;2902;1213;1
+03;Oslo;0301;Oslo;1308;Abildsø skole;DEMN;Norgesdemokratene;0,41494;2902;1213;5
+03;Oslo;0301;Oslo;1308;Abildsø skole;FNB;Folkets Parti;0,82988;2902;1213;10
+03;Oslo;0301;Oslo;1308;Abildsø skole;INP;Industri- og Næringspartiet;1,3278;2902;1213;16
+03;Oslo;0301;Oslo;1308;Abildsø skole;KRISTNE;Konservativt;0,16598;2902;1213;2
+03;Oslo;0301;Oslo;1308;Abildsø skole;KYST;Kystpartiet;0,41494;2902;1213;5
+03;Oslo;0301;Oslo;1308;Abildsø skole;LIBS;Liberalistene;0,08299;2902;1213;1
+03;Oslo;0301;Oslo;1308;Abildsø skole;NKP;Norges Kommunistiske Parti;0,16598;2902;1213;2
+03;Oslo;0301;Oslo;1308;Abildsø skole;PP;Pensjonistpartiet;0,99585;2902;1213;12
+03;Oslo;0301;Oslo;1308;Abildsø skole;PS;Partiet Sentrum;1,90871;2902;1213;23
+03;Oslo;0301;Oslo;1308;Abildsø skole;BLANKE;Blanke;0,6639;2902;1213;8
+03;Oslo;0301;Oslo;1308;Abildsø skole;FSL;Folkestyret-listen;0,0;2902;1213;0
+03;Oslo;0301;Oslo;1308;Abildsø skole;PMB;Partiet Mot Bompenger;0,41494;2902;1213;5
+03;Oslo;0301;Oslo;1308;Abildsø skole;Andre;Andre;6,80498;2902;1213;82
+03;Oslo;0301;Oslo;1308;Abildsø skole;Andre2;Andre2;0,0;2902;1213;0
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;A;Arbeiderpartiet;25,77751;7709;1690;431
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;SV;SV - Sosialistisk Venstreparti;11,72249;7709;1690;196
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;RØDT;Rødt;5,92105;7709;1690;99
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;SP;Senterpartiet;0,89713;7709;1690;15
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;KRF;Kristelig Folkeparti;1,85407;7709;1690;31
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;MDG;Miljøpartiet De Grønne;11,24402;7709;1690;188
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;V;Venstre;9,15072;7709;1690;153
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;H;Høyre;21,41148;7709;1690;358
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;FRP;Fremskrittspartiet;6,87799;7709;1690;115
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;AAN;Alliansen - Alternativ for Norge;0,11962;7709;1690;2
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;DEMN;Norgesdemokratene;0,23923;7709;1690;4
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;FNB;Folkets Parti;0,41866;7709;1690;7
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;INP;Industri- og Næringspartiet;1,73445;7709;1690;29
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;KRISTNE;Konservativt;0,17943;7709;1690;3
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;KYST;Kystpartiet;0,17943;7709;1690;3
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;LIBS;Liberalistene;0,0;7709;1690;0
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;NKP;Norges Kommunistiske Parti;0,17943;7709;1690;3
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;PP;Pensjonistpartiet;0,7177;7709;1690;12
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;PS;Partiet Sentrum;0,95694;7709;1690;16
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;BLANKE;Blanke;1,07656;7709;1690;18
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;FSL;Folkestyret-listen;0,17943;7709;1690;3
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;PMB;Partiet Mot Bompenger;0,23923;7709;1690;4
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;Andre;Andre;5,14354;7709;1690;86
+03;Oslo;0301;Oslo;1309;Ulsrud videregående skole;Andre2;Andre2;0,0;7709;1690;0
+03;Oslo;0301;Oslo;1401;Ekeberg skole;A;Arbeiderpartiet;18,95911;5041;2168;408
+03;Oslo;0301;Oslo;1401;Ekeberg skole;SV;SV - Sosialistisk Venstreparti;6,27323;5041;2168;135
+03;Oslo;0301;Oslo;1401;Ekeberg skole;RØDT;Rødt;4,73978;5041;2168;102
+03;Oslo;0301;Oslo;1401;Ekeberg skole;SP;Senterpartiet;0,83643;5041;2168;18
+03;Oslo;0301;Oslo;1401;Ekeberg skole;KRF;Kristelig Folkeparti;4,46097;5041;2168;96
+03;Oslo;0301;Oslo;1401;Ekeberg skole;MDG;Miljøpartiet De Grønne;8,59665;5041;2168;185
+03;Oslo;0301;Oslo;1401;Ekeberg skole;V;Venstre;10,68773;5041;2168;230
+03;Oslo;0301;Oslo;1401;Ekeberg skole;H;Høyre;34,8513;5041;2168;750
+03;Oslo;0301;Oslo;1401;Ekeberg skole;FRP;Fremskrittspartiet;6,36617;5041;2168;137
+03;Oslo;0301;Oslo;1401;Ekeberg skole;AAN;Alliansen - Alternativ for Norge;0,0;5041;2168;0
+03;Oslo;0301;Oslo;1401;Ekeberg skole;DEMN;Norgesdemokratene;0,0;5041;2168;0
+03;Oslo;0301;Oslo;1401;Ekeberg skole;FNB;Folkets Parti;0,32528;5041;2168;7
+03;Oslo;0301;Oslo;1401;Ekeberg skole;INP;Industri- og Næringspartiet;0,69703;5041;2168;15
+03;Oslo;0301;Oslo;1401;Ekeberg skole;KRISTNE;Konservativt;0,18587;5041;2168;4
+03;Oslo;0301;Oslo;1401;Ekeberg skole;KYST;Kystpartiet;0,18587;5041;2168;4
+03;Oslo;0301;Oslo;1401;Ekeberg skole;LIBS;Liberalistene;0,32528;5041;2168;7
+03;Oslo;0301;Oslo;1401;Ekeberg skole;NKP;Norges Kommunistiske Parti;0,09294;5041;2168;2
+03;Oslo;0301;Oslo;1401;Ekeberg skole;PP;Pensjonistpartiet;0,78996;5041;2168;17
+03;Oslo;0301;Oslo;1401;Ekeberg skole;PS;Partiet Sentrum;0,83643;5041;2168;18
+03;Oslo;0301;Oslo;1401;Ekeberg skole;BLANKE;Blanke;0,74349;5041;2168;16
+03;Oslo;0301;Oslo;1401;Ekeberg skole;FSL;Folkestyret-listen;0,41822;5041;2168;9
+03;Oslo;0301;Oslo;1401;Ekeberg skole;PMB;Partiet Mot Bompenger;0,37175;5041;2168;8
+03;Oslo;0301;Oslo;1401;Ekeberg skole;Andre;Andre;4,22862;5041;2168;91
+03;Oslo;0301;Oslo;1401;Ekeberg skole;Andre2;Andre2;0,0;5041;2168;0
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;A;Arbeiderpartiet;14,13729;7931;2705;381
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;SV;SV - Sosialistisk Venstreparti;4,93506;7931;2705;133
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;RØDT;Rødt;1,70686;7931;2705;46
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;SP;Senterpartiet;0,6679;7931;2705;18
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;KRF;Kristelig Folkeparti;2,52319;7931;2705;68
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;MDG;Miljøpartiet De Grønne;6,23377;7931;2705;168
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;V;Venstre;10,57514;7931;2705;285
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;H;Høyre;50,27829;7931;2705;1355
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;FRP;Fremskrittspartiet;5,34323;7931;2705;144
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;AAN;Alliansen - Alternativ for Norge;0,11132;7931;2705;3
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;DEMN;Norgesdemokratene;0,33395;7931;2705;9
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;FNB;Folkets Parti;0,59369;7931;2705;16
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;INP;Industri- og Næringspartiet;0,77922;7931;2705;21
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;KRISTNE;Konservativt;0,18553;7931;2705;5
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;KYST;Kystpartiet;0,0;7931;2705;0
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;LIBS;Liberalistene;0,18553;7931;2705;5
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;NKP;Norges Kommunistiske Parti;0,03711;7931;2705;1
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;PP;Pensjonistpartiet;0,25974;7931;2705;7
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;PS;Partiet Sentrum;0,6679;7931;2705;18
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;BLANKE;Blanke;0,37106;7931;2705;10
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;FSL;Folkestyret-listen;0,37106;7931;2705;10
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;PMB;Partiet Mot Bompenger;0,07421;7931;2705;2
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;Andre;Andre;3,59926;7931;2705;97
+03;Oslo;0301;Oslo;1402;Bekkelaget skole;Andre2;Andre2;0,0;7931;2705;0
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;A;Arbeiderpartiet;11,91038;2135;854;101
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;SV;SV - Sosialistisk Venstreparti;5,42453;2135;854;46
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;RØDT;Rødt;3,53774;2135;854;30
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;SP;Senterpartiet;0,58962;2135;854;5
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;KRF;Kristelig Folkeparti;1,17925;2135;854;10
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;MDG;Miljøpartiet De Grønne;7,31132;2135;854;62
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;V;Venstre;10,96698;2135;854;93
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;H;Høyre;47,99528;2135;854;407
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;FRP;Fremskrittspartiet;7,42925;2135;854;63
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;AAN;Alliansen - Alternativ for Norge;0,11792;2135;854;1
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;DEMN;Norgesdemokratene;0,23585;2135;854;2
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;FNB;Folkets Parti;0,35377;2135;854;3
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;INP;Industri- og Næringspartiet;0,70755;2135;854;6
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;KRISTNE;Konservativt;0,11792;2135;854;1
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;KYST;Kystpartiet;0,11792;2135;854;1
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;LIBS;Liberalistene;0,0;2135;854;0
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;NKP;Norges Kommunistiske Parti;0,23585;2135;854;2
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;PP;Pensjonistpartiet;0,23585;2135;854;2
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;PS;Partiet Sentrum;1,29717;2135;854;11
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;BLANKE;Blanke;0,70755;2135;854;6
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;FSL;Folkestyret-listen;0,23585;2135;854;2
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;PMB;Partiet Mot Bompenger;0,0;2135;854;0
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;Andre;Andre;3,65566;2135;854;31
+03;Oslo;0301;Oslo;1403;Nedre Bekkelaget skole;Andre2;Andre2;0,0;2135;854;0
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;A;Arbeiderpartiet;19,25615;3527;1686;321
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;SV;SV - Sosialistisk Venstreparti;7,67846;3527;1686;128
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;RØDT;Rødt;3,95921;3527;1686;66
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;SP;Senterpartiet;0,83983;3527;1686;14
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;KRF;Kristelig Folkeparti;1,67966;3527;1686;28
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;MDG;Miljøpartiet De Grønne;5,63887;3527;1686;94
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;V;Venstre;8,5183;3527;1686;142
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;H;Høyre;39,29214;3527;1686;655
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;FRP;Fremskrittspartiet;7,13857;3527;1686;119
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;AAN;Alliansen - Alternativ for Norge;0,17996;3527;1686;3
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;DEMN;Norgesdemokratene;0,29994;3527;1686;5
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;FNB;Folkets Parti;0,95981;3527;1686;16
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;INP;Industri- og Næringspartiet;0,89982;3527;1686;15
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;KRISTNE;Konservativt;0,41992;3527;1686;7
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;KYST;Kystpartiet;0,17996;3527;1686;3
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;LIBS;Liberalistene;0,23995;3527;1686;4
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;NKP;Norges Kommunistiske Parti;0,11998;3527;1686;2
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;PP;Pensjonistpartiet;0,95981;3527;1686;16
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;PS;Partiet Sentrum;1,55969;3527;1686;26
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;BLANKE;Blanke;1,13977;3527;1686;19
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;FSL;Folkestyret-listen;0,05999;3527;1686;1
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;PMB;Partiet Mot Bompenger;0,11998;3527;1686;2
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;Andre;Andre;5,9988;3527;1686;100
+03;Oslo;0301;Oslo;1404;Lambertseter videregående skole;Andre2;Andre2;0,0;3527;1686;0
+03;Oslo;0301;Oslo;1405;Lambertseter skole;A;Arbeiderpartiet;22,80405;6149;1801;405
+03;Oslo;0301;Oslo;1405;Lambertseter skole;SV;SV - Sosialistisk Venstreparti;7,65766;6149;1801;136
+03;Oslo;0301;Oslo;1405;Lambertseter skole;RØDT;Rødt;6,75676;6149;1801;120
+03;Oslo;0301;Oslo;1405;Lambertseter skole;SP;Senterpartiet;1,68919;6149;1801;30
+03;Oslo;0301;Oslo;1405;Lambertseter skole;KRF;Kristelig Folkeparti;1,97072;6149;1801;35
+03;Oslo;0301;Oslo;1405;Lambertseter skole;MDG;Miljøpartiet De Grønne;7,93919;6149;1801;141
+03;Oslo;0301;Oslo;1405;Lambertseter skole;V;Venstre;6,98198;6149;1801;124
+03;Oslo;0301;Oslo;1405;Lambertseter skole;H;Høyre;26,23874;6149;1801;466
+03;Oslo;0301;Oslo;1405;Lambertseter skole;FRP;Fremskrittspartiet;8,50225;6149;1801;151
+03;Oslo;0301;Oslo;1405;Lambertseter skole;AAN;Alliansen - Alternativ for Norge;0,33784;6149;1801;6
+03;Oslo;0301;Oslo;1405;Lambertseter skole;DEMN;Norgesdemokratene;0,56306;6149;1801;10
+03;Oslo;0301;Oslo;1405;Lambertseter skole;FNB;Folkets Parti;1,23874;6149;1801;22
+03;Oslo;0301;Oslo;1405;Lambertseter skole;INP;Industri- og Næringspartiet;1,91441;6149;1801;34
+03;Oslo;0301;Oslo;1405;Lambertseter skole;KRISTNE;Konservativt;0,22523;6149;1801;4
+03;Oslo;0301;Oslo;1405;Lambertseter skole;KYST;Kystpartiet;0,22523;6149;1801;4
+03;Oslo;0301;Oslo;1405;Lambertseter skole;LIBS;Liberalistene;0,50676;6149;1801;9
+03;Oslo;0301;Oslo;1405;Lambertseter skole;NKP;Norges Kommunistiske Parti;0,05631;6149;1801;1
+03;Oslo;0301;Oslo;1405;Lambertseter skole;PP;Pensjonistpartiet;1,01351;6149;1801;18
+03;Oslo;0301;Oslo;1405;Lambertseter skole;PS;Partiet Sentrum;2,42117;6149;1801;43
+03;Oslo;0301;Oslo;1405;Lambertseter skole;BLANKE;Blanke;1,40766;6149;1801;25
+03;Oslo;0301;Oslo;1405;Lambertseter skole;FSL;Folkestyret-listen;0,67568;6149;1801;12
+03;Oslo;0301;Oslo;1405;Lambertseter skole;PMB;Partiet Mot Bompenger;0,28153;6149;1801;5
+03;Oslo;0301;Oslo;1405;Lambertseter skole;Andre;Andre;9,45946;6149;1801;168
+03;Oslo;0301;Oslo;1405;Lambertseter skole;Andre2;Andre2;0,0;6149;1801;0
+03;Oslo;0301;Oslo;1406;Nordseter skole;A;Arbeiderpartiet;14,7914;5524;1594;234
+03;Oslo;0301;Oslo;1406;Nordseter skole;SV;SV - Sosialistisk Venstreparti;4,99368;5524;1594;79
+03;Oslo;0301;Oslo;1406;Nordseter skole;RØDT;Rødt;2,21239;5524;1594;35
+03;Oslo;0301;Oslo;1406;Nordseter skole;SP;Senterpartiet;0,44248;5524;1594;7
+03;Oslo;0301;Oslo;1406;Nordseter skole;KRF;Kristelig Folkeparti;2,52845;5524;1594;40
+03;Oslo;0301;Oslo;1406;Nordseter skole;MDG;Miljøpartiet De Grønne;4,48799;5524;1594;71
+03;Oslo;0301;Oslo;1406;Nordseter skole;V;Venstre;10,49305;5524;1594;166
+03;Oslo;0301;Oslo;1406;Nordseter skole;H;Høyre;49,05183;5524;1594;776
+03;Oslo;0301;Oslo;1406;Nordseter skole;FRP;Fremskrittspartiet;6,13148;5524;1594;97
+03;Oslo;0301;Oslo;1406;Nordseter skole;AAN;Alliansen - Alternativ for Norge;0,0;5524;1594;0
+03;Oslo;0301;Oslo;1406;Nordseter skole;DEMN;Norgesdemokratene;0,31606;5524;1594;5
+03;Oslo;0301;Oslo;1406;Nordseter skole;FNB;Folkets Parti;0,50569;5524;1594;8
+03;Oslo;0301;Oslo;1406;Nordseter skole;INP;Industri- og Næringspartiet;1,39064;5524;1594;22
+03;Oslo;0301;Oslo;1406;Nordseter skole;KRISTNE;Konservativt;0,18963;5524;1594;3
+03;Oslo;0301;Oslo;1406;Nordseter skole;KYST;Kystpartiet;0,12642;5524;1594;2
+03;Oslo;0301;Oslo;1406;Nordseter skole;LIBS;Liberalistene;0,06321;5524;1594;1
+03;Oslo;0301;Oslo;1406;Nordseter skole;NKP;Norges Kommunistiske Parti;0,06321;5524;1594;1
+03;Oslo;0301;Oslo;1406;Nordseter skole;PP;Pensjonistpartiet;0,88496;5524;1594;14
+03;Oslo;0301;Oslo;1406;Nordseter skole;PS;Partiet Sentrum;0,94817;5524;1594;15
+03;Oslo;0301;Oslo;1406;Nordseter skole;BLANKE;Blanke;0,75853;5524;1594;12
+03;Oslo;0301;Oslo;1406;Nordseter skole;FSL;Folkestyret-listen;0,25284;5524;1594;4
+03;Oslo;0301;Oslo;1406;Nordseter skole;PMB;Partiet Mot Bompenger;0,12642;5524;1594;2
+03;Oslo;0301;Oslo;1406;Nordseter skole;Andre;Andre;4,86726;5524;1594;77
+03;Oslo;0301;Oslo;1406;Nordseter skole;Andre2;Andre2;0,0;5524;1594;0
+03;Oslo;0301;Oslo;1407;Nordstrand skole;A;Arbeiderpartiet;12,21923;3570;1118;136
+03;Oslo;0301;Oslo;1407;Nordstrand skole;SV;SV - Sosialistisk Venstreparti;4,67206;3570;1118;52
+03;Oslo;0301;Oslo;1407;Nordstrand skole;RØDT;Rødt;3,14465;3570;1118;35
+03;Oslo;0301;Oslo;1407;Nordstrand skole;SP;Senterpartiet;0,53908;3570;1118;6
+03;Oslo;0301;Oslo;1407;Nordstrand skole;KRF;Kristelig Folkeparti;3,14465;3570;1118;35
+03;Oslo;0301;Oslo;1407;Nordstrand skole;MDG;Miljøpartiet De Grønne;6,55885;3570;1118;73
+03;Oslo;0301;Oslo;1407;Nordstrand skole;V;Venstre;11,76999;3570;1118;131
+03;Oslo;0301;Oslo;1407;Nordstrand skole;H;Høyre;47,5292;3570;1118;529
+03;Oslo;0301;Oslo;1407;Nordstrand skole;FRP;Fremskrittspartiet;6,73854;3570;1118;75
+03;Oslo;0301;Oslo;1407;Nordstrand skole;AAN;Alliansen - Alternativ for Norge;0,0;3570;1118;0
+03;Oslo;0301;Oslo;1407;Nordstrand skole;DEMN;Norgesdemokratene;0,08985;3570;1118;1
+03;Oslo;0301;Oslo;1407;Nordstrand skole;FNB;Folkets Parti;0,62893;3570;1118;7
+03;Oslo;0301;Oslo;1407;Nordstrand skole;INP;Industri- og Næringspartiet;0,71878;3570;1118;8
+03;Oslo;0301;Oslo;1407;Nordstrand skole;KRISTNE;Konservativt;0,0;3570;1118;0
+03;Oslo;0301;Oslo;1407;Nordstrand skole;KYST;Kystpartiet;0,35939;3570;1118;4
+03;Oslo;0301;Oslo;1407;Nordstrand skole;LIBS;Liberalistene;0,08985;3570;1118;1
+03;Oslo;0301;Oslo;1407;Nordstrand skole;NKP;Norges Kommunistiske Parti;0,08985;3570;1118;1
+03;Oslo;0301;Oslo;1407;Nordstrand skole;PP;Pensjonistpartiet;0,17969;3570;1118;2
+03;Oslo;0301;Oslo;1407;Nordstrand skole;PS;Partiet Sentrum;1,16801;3570;1118;13
+03;Oslo;0301;Oslo;1407;Nordstrand skole;BLANKE;Blanke;0,44924;3570;1118;5
+03;Oslo;0301;Oslo;1407;Nordstrand skole;FSL;Folkestyret-listen;0,26954;3570;1118;3
+03;Oslo;0301;Oslo;1407;Nordstrand skole;PMB;Partiet Mot Bompenger;0,08985;3570;1118;1
+03;Oslo;0301;Oslo;1407;Nordstrand skole;Andre;Andre;3,68374;3570;1118;41
+03;Oslo;0301;Oslo;1407;Nordstrand skole;Andre2;Andre2;0,0;3570;1118;0
+03;Oslo;0301;Oslo;1408;Munkerud skole;A;Arbeiderpartiet;14,38797;4655;1408;201
+03;Oslo;0301;Oslo;1408;Munkerud skole;SV;SV - Sosialistisk Venstreparti;6,7287;4655;1408;94
+03;Oslo;0301;Oslo;1408;Munkerud skole;RØDT;Rødt;2,72011;4655;1408;38
+03;Oslo;0301;Oslo;1408;Munkerud skole;SP;Senterpartiet;0,71582;4655;1408;10
+03;Oslo;0301;Oslo;1408;Munkerud skole;KRF;Kristelig Folkeparti;2,50537;4655;1408;35
+03;Oslo;0301;Oslo;1408;Munkerud skole;MDG;Miljøpartiet De Grønne;6,22763;4655;1408;87
+03;Oslo;0301;Oslo;1408;Munkerud skole;V;Venstre;11,23837;4655;1408;157
+03;Oslo;0301;Oslo;1408;Munkerud skole;H;Høyre;43,16392;4655;1408;603
+03;Oslo;0301;Oslo;1408;Munkerud skole;FRP;Fremskrittspartiet;7,08661;4655;1408;99
+03;Oslo;0301;Oslo;1408;Munkerud skole;AAN;Alliansen - Alternativ for Norge;0,14316;4655;1408;2
+03;Oslo;0301;Oslo;1408;Munkerud skole;DEMN;Norgesdemokratene;0,14316;4655;1408;2
+03;Oslo;0301;Oslo;1408;Munkerud skole;FNB;Folkets Parti;0,71582;4655;1408;10
+03;Oslo;0301;Oslo;1408;Munkerud skole;INP;Industri- og Næringspartiet;1,64639;4655;1408;23
+03;Oslo;0301;Oslo;1408;Munkerud skole;KRISTNE;Konservativt;0,28633;4655;1408;4
+03;Oslo;0301;Oslo;1408;Munkerud skole;KYST;Kystpartiet;0,07158;4655;1408;1
+03;Oslo;0301;Oslo;1408;Munkerud skole;LIBS;Liberalistene;0,07158;4655;1408;1
+03;Oslo;0301;Oslo;1408;Munkerud skole;NKP;Norges Kommunistiske Parti;0,0;4655;1408;0
+03;Oslo;0301;Oslo;1408;Munkerud skole;PP;Pensjonistpartiet;0,35791;4655;1408;5
+03;Oslo;0301;Oslo;1408;Munkerud skole;PS;Partiet Sentrum;1,14531;4655;1408;16
+03;Oslo;0301;Oslo;1408;Munkerud skole;BLANKE;Blanke;0,7874;4655;1408;11
+03;Oslo;0301;Oslo;1408;Munkerud skole;FSL;Folkestyret-listen;0,42949;4655;1408;6
+03;Oslo;0301;Oslo;1408;Munkerud skole;PMB;Partiet Mot Bompenger;0,21475;4655;1408;3
+03;Oslo;0301;Oslo;1408;Munkerud skole;Andre;Andre;5,22548;4655;1408;73
+03;Oslo;0301;Oslo;1408;Munkerud skole;Andre2;Andre2;0,0;4655;1408;0
+03;Oslo;0301;Oslo;1409;Ljan skole;A;Arbeiderpartiet;13,24895;3067;1193;157
+03;Oslo;0301;Oslo;1409;Ljan skole;SV;SV - Sosialistisk Venstreparti;6,83544;3067;1193;81
+03;Oslo;0301;Oslo;1409;Ljan skole;RØDT;Rødt;3,45992;3067;1193;41
+03;Oslo;0301;Oslo;1409;Ljan skole;SP;Senterpartiet;0,50633;3067;1193;6
+03;Oslo;0301;Oslo;1409;Ljan skole;KRF;Kristelig Folkeparti;2,53165;3067;1193;30
+03;Oslo;0301;Oslo;1409;Ljan skole;MDG;Miljøpartiet De Grønne;6,32911;3067;1193;75
+03;Oslo;0301;Oslo;1409;Ljan skole;V;Venstre;10,7173;3067;1193;127
+03;Oslo;0301;Oslo;1409;Ljan skole;H;Høyre;43,5443;3067;1193;516
+03;Oslo;0301;Oslo;1409;Ljan skole;FRP;Fremskrittspartiet;7,59494;3067;1193;90
+03;Oslo;0301;Oslo;1409;Ljan skole;AAN;Alliansen - Alternativ for Norge;0,08439;3067;1193;1
+03;Oslo;0301;Oslo;1409;Ljan skole;DEMN;Norgesdemokratene;0,25316;3067;1193;3
+03;Oslo;0301;Oslo;1409;Ljan skole;FNB;Folkets Parti;0,59072;3067;1193;7
+03;Oslo;0301;Oslo;1409;Ljan skole;INP;Industri- og Næringspartiet;1,18143;3067;1193;14
+03;Oslo;0301;Oslo;1409;Ljan skole;KRISTNE;Konservativt;0,25316;3067;1193;3
+03;Oslo;0301;Oslo;1409;Ljan skole;KYST;Kystpartiet;0,08439;3067;1193;1
+03;Oslo;0301;Oslo;1409;Ljan skole;LIBS;Liberalistene;0,16878;3067;1193;2
+03;Oslo;0301;Oslo;1409;Ljan skole;NKP;Norges Kommunistiske Parti;0,0;3067;1193;0
+03;Oslo;0301;Oslo;1409;Ljan skole;PP;Pensjonistpartiet;1,09705;3067;1193;13
+03;Oslo;0301;Oslo;1409;Ljan skole;PS;Partiet Sentrum;0,75949;3067;1193;9
+03;Oslo;0301;Oslo;1409;Ljan skole;BLANKE;Blanke;0,67511;3067;1193;8
+03;Oslo;0301;Oslo;1409;Ljan skole;FSL;Folkestyret-listen;0,75949;3067;1193;9
+03;Oslo;0301;Oslo;1409;Ljan skole;PMB;Partiet Mot Bompenger;0,0;3067;1193;0
+03;Oslo;0301;Oslo;1409;Ljan skole;Andre;Andre;5,23207;3067;1193;62
+03;Oslo;0301;Oslo;1409;Ljan skole;Andre2;Andre2;0,0;3067;1193;0
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;A;Arbeiderpartiet;26,45833;3776;964;254
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;SV;SV - Sosialistisk Venstreparti;17,60417;3776;964;169
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;RØDT;Rødt;7,70833;3776;964;74
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;SP;Senterpartiet;1,35417;3776;964;13
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;KRF;Kristelig Folkeparti;3,85417;3776;964;37
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;MDG;Miljøpartiet De Grønne;8,4375;3776;964;81
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;V;Venstre;5,20833;3776;964;50
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;H;Høyre;15,41667;3776;964;148
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;FRP;Fremskrittspartiet;4,6875;3776;964;45
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;AAN;Alliansen - Alternativ for Norge;0,20833;3776;964;2
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;DEMN;Norgesdemokratene;0,41667;3776;964;4
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;FNB;Folkets Parti;1,25;3776;964;12
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;INP;Industri- og Næringspartiet;1,77083;3776;964;17
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;KRISTNE;Konservativt;0,20833;3776;964;2
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;KYST;Kystpartiet;0,10417;3776;964;1
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;LIBS;Liberalistene;0,41667;3776;964;4
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;NKP;Norges Kommunistiske Parti;0,3125;3776;964;3
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;PP;Pensjonistpartiet;0,625;3776;964;6
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;PS;Partiet Sentrum;3,22917;3776;964;31
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;BLANKE;Blanke;0,41667;3776;964;4
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;FSL;Folkestyret-listen;0,3125;3776;964;3
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;PMB;Partiet Mot Bompenger;0,41667;3776;964;4
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;Andre;Andre;9,27083;3776;964;89
+03;Oslo;0301;Oslo;1501;Hallagerbakken skole;Andre2;Andre2;0,0;3776;964;0
+03;Oslo;0301;Oslo;1502;Rosenholm skole;A;Arbeiderpartiet;30,7398;3399;797;241
+03;Oslo;0301;Oslo;1502;Rosenholm skole;SV;SV - Sosialistisk Venstreparti;15,81633;3399;797;124
+03;Oslo;0301;Oslo;1502;Rosenholm skole;RØDT;Rødt;7,65306;3399;797;60
+03;Oslo;0301;Oslo;1502;Rosenholm skole;SP;Senterpartiet;2,04082;3399;797;16
+03;Oslo;0301;Oslo;1502;Rosenholm skole;KRF;Kristelig Folkeparti;2,29592;3399;797;18
+03;Oslo;0301;Oslo;1502;Rosenholm skole;MDG;Miljøpartiet De Grønne;9,82143;3399;797;77
+03;Oslo;0301;Oslo;1502;Rosenholm skole;V;Venstre;3,95408;3399;797;31
+03;Oslo;0301;Oslo;1502;Rosenholm skole;H;Høyre;14,28571;3399;797;112
+03;Oslo;0301;Oslo;1502;Rosenholm skole;FRP;Fremskrittspartiet;4,97449;3399;797;39
+03;Oslo;0301;Oslo;1502;Rosenholm skole;AAN;Alliansen - Alternativ for Norge;0,0;3399;797;0
+03;Oslo;0301;Oslo;1502;Rosenholm skole;DEMN;Norgesdemokratene;0,76531;3399;797;6
+03;Oslo;0301;Oslo;1502;Rosenholm skole;FNB;Folkets Parti;0,63776;3399;797;5
+03;Oslo;0301;Oslo;1502;Rosenholm skole;INP;Industri- og Næringspartiet;1,27551;3399;797;10
+03;Oslo;0301;Oslo;1502;Rosenholm skole;KRISTNE;Konservativt;0,38265;3399;797;3
+03;Oslo;0301;Oslo;1502;Rosenholm skole;KYST;Kystpartiet;0,38265;3399;797;3
+03;Oslo;0301;Oslo;1502;Rosenholm skole;LIBS;Liberalistene;0,12755;3399;797;1
+03;Oslo;0301;Oslo;1502;Rosenholm skole;NKP;Norges Kommunistiske Parti;0,5102;3399;797;4
+03;Oslo;0301;Oslo;1502;Rosenholm skole;PP;Pensjonistpartiet;0,5102;3399;797;4
+03;Oslo;0301;Oslo;1502;Rosenholm skole;PS;Partiet Sentrum;2,55102;3399;797;20
+03;Oslo;0301;Oslo;1502;Rosenholm skole;BLANKE;Blanke;1,65816;3399;797;13
+03;Oslo;0301;Oslo;1502;Rosenholm skole;FSL;Folkestyret-listen;0,63776;3399;797;5
+03;Oslo;0301;Oslo;1502;Rosenholm skole;PMB;Partiet Mot Bompenger;0,63776;3399;797;5
+03;Oslo;0301;Oslo;1502;Rosenholm skole;Andre;Andre;8,41837;3399;797;66
+03;Oslo;0301;Oslo;1502;Rosenholm skole;Andre2;Andre2;0,0;3399;797;0
+03;Oslo;0301;Oslo;1503;Toppåsen skole;A;Arbeiderpartiet;24,36975;3722;726;174
+03;Oslo;0301;Oslo;1503;Toppåsen skole;SV;SV - Sosialistisk Venstreparti;14,70588;3722;726;105
+03;Oslo;0301;Oslo;1503;Toppåsen skole;RØDT;Rødt;6,58263;3722;726;47
+03;Oslo;0301;Oslo;1503;Toppåsen skole;SP;Senterpartiet;0,84034;3722;726;6
+03;Oslo;0301;Oslo;1503;Toppåsen skole;KRF;Kristelig Folkeparti;4,90196;3722;726;35
+03;Oslo;0301;Oslo;1503;Toppåsen skole;MDG;Miljøpartiet De Grønne;6,58263;3722;726;47
+03;Oslo;0301;Oslo;1503;Toppåsen skole;V;Venstre;6,86275;3722;726;49
+03;Oslo;0301;Oslo;1503;Toppåsen skole;H;Høyre;17,64706;3722;726;126
+03;Oslo;0301;Oslo;1503;Toppåsen skole;FRP;Fremskrittspartiet;6,44258;3722;726;46
+03;Oslo;0301;Oslo;1503;Toppåsen skole;AAN;Alliansen - Alternativ for Norge;0,14006;3722;726;1
+03;Oslo;0301;Oslo;1503;Toppåsen skole;DEMN;Norgesdemokratene;0,70028;3722;726;5
+03;Oslo;0301;Oslo;1503;Toppåsen skole;FNB;Folkets Parti;0,42017;3722;726;3
+03;Oslo;0301;Oslo;1503;Toppåsen skole;INP;Industri- og Næringspartiet;2,2409;3722;726;16
+03;Oslo;0301;Oslo;1503;Toppåsen skole;KRISTNE;Konservativt;0,42017;3722;726;3
+03;Oslo;0301;Oslo;1503;Toppåsen skole;KYST;Kystpartiet;0,14006;3722;726;1
+03;Oslo;0301;Oslo;1503;Toppåsen skole;LIBS;Liberalistene;0,56022;3722;726;4
+03;Oslo;0301;Oslo;1503;Toppåsen skole;NKP;Norges Kommunistiske Parti;0,14006;3722;726;1
+03;Oslo;0301;Oslo;1503;Toppåsen skole;PP;Pensjonistpartiet;0,84034;3722;726;6
+03;Oslo;0301;Oslo;1503;Toppåsen skole;PS;Partiet Sentrum;4,62185;3722;726;33
+03;Oslo;0301;Oslo;1503;Toppåsen skole;BLANKE;Blanke;1,68067;3722;726;12
+03;Oslo;0301;Oslo;1503;Toppåsen skole;FSL;Folkestyret-listen;0,28011;3722;726;2
+03;Oslo;0301;Oslo;1503;Toppåsen skole;PMB;Partiet Mot Bompenger;0,56022;3722;726;4
+03;Oslo;0301;Oslo;1503;Toppåsen skole;Andre;Andre;11,06443;3722;726;79
+03;Oslo;0301;Oslo;1503;Toppåsen skole;Andre2;Andre2;0,0;3722;726;0
+03;Oslo;0301;Oslo;1504;Prinsdal skole;A;Arbeiderpartiet;24,38057;3783;1016;246
+03;Oslo;0301;Oslo;1504;Prinsdal skole;SV;SV - Sosialistisk Venstreparti;10,00991;3783;1016;101
+03;Oslo;0301;Oslo;1504;Prinsdal skole;RØDT;Rødt;5,74827;3783;1016;58
+03;Oslo;0301;Oslo;1504;Prinsdal skole;SP;Senterpartiet;1,88305;3783;1016;19
+03;Oslo;0301;Oslo;1504;Prinsdal skole;KRF;Kristelig Folkeparti;4,16254;3783;1016;42
+03;Oslo;0301;Oslo;1504;Prinsdal skole;MDG;Miljøpartiet De Grønne;7,4331;3783;1016;75
+03;Oslo;0301;Oslo;1504;Prinsdal skole;V;Venstre;6,1447;3783;1016;62
+03;Oslo;0301;Oslo;1504;Prinsdal skole;H;Høyre;23,29039;3783;1016;235
+03;Oslo;0301;Oslo;1504;Prinsdal skole;FRP;Fremskrittspartiet;8,42418;3783;1016;85
+03;Oslo;0301;Oslo;1504;Prinsdal skole;AAN;Alliansen - Alternativ for Norge;0,09911;3783;1016;1
+03;Oslo;0301;Oslo;1504;Prinsdal skole;DEMN;Norgesdemokratene;0,0;3783;1016;0
+03;Oslo;0301;Oslo;1504;Prinsdal skole;FNB;Folkets Parti;1,2884;3783;1016;13
+03;Oslo;0301;Oslo;1504;Prinsdal skole;INP;Industri- og Næringspartiet;1,38751;3783;1016;14
+03;Oslo;0301;Oslo;1504;Prinsdal skole;KRISTNE;Konservativt;0,29732;3783;1016;3
+03;Oslo;0301;Oslo;1504;Prinsdal skole;KYST;Kystpartiet;0,69376;3783;1016;7
+03;Oslo;0301;Oslo;1504;Prinsdal skole;LIBS;Liberalistene;0,29732;3783;1016;3
+03;Oslo;0301;Oslo;1504;Prinsdal skole;NKP;Norges Kommunistiske Parti;0,0;3783;1016;0
+03;Oslo;0301;Oslo;1504;Prinsdal skole;PP;Pensjonistpartiet;0,89197;3783;1016;9
+03;Oslo;0301;Oslo;1504;Prinsdal skole;PS;Partiet Sentrum;2,87413;3783;1016;29
+03;Oslo;0301;Oslo;1504;Prinsdal skole;BLANKE;Blanke;0,69376;3783;1016;7
+03;Oslo;0301;Oslo;1504;Prinsdal skole;FSL;Folkestyret-listen;0,09911;3783;1016;1
+03;Oslo;0301;Oslo;1504;Prinsdal skole;PMB;Partiet Mot Bompenger;0,59465;3783;1016;6
+03;Oslo;0301;Oslo;1504;Prinsdal skole;Andre;Andre;8,52329;3783;1016;86
+03;Oslo;0301;Oslo;1504;Prinsdal skole;Andre2;Andre2;0,0;3783;1016;0
+03;Oslo;0301;Oslo;1505;Mortensrud skole;A;Arbeiderpartiet;29,83271;6713;1086;321
+03;Oslo;0301;Oslo;1505;Mortensrud skole;SV;SV - Sosialistisk Venstreparti;9,10781;6713;1086;98
+03;Oslo;0301;Oslo;1505;Mortensrud skole;RØDT;Rødt;6,50558;6713;1086;70
+03;Oslo;0301;Oslo;1505;Mortensrud skole;SP;Senterpartiet;2,7881;6713;1086;30
+03;Oslo;0301;Oslo;1505;Mortensrud skole;KRF;Kristelig Folkeparti;3,43866;6713;1086;37
+03;Oslo;0301;Oslo;1505;Mortensrud skole;MDG;Miljøpartiet De Grønne;5,39033;6713;1086;58
+03;Oslo;0301;Oslo;1505;Mortensrud skole;V;Venstre;6,13383;6713;1086;66
+03;Oslo;0301;Oslo;1505;Mortensrud skole;H;Høyre;20,16729;6713;1086;217
+03;Oslo;0301;Oslo;1505;Mortensrud skole;FRP;Fremskrittspartiet;4,83271;6713;1086;52
+03;Oslo;0301;Oslo;1505;Mortensrud skole;AAN;Alliansen - Alternativ for Norge;0,18587;6713;1086;2
+03;Oslo;0301;Oslo;1505;Mortensrud skole;DEMN;Norgesdemokratene;0,46468;6713;1086;5
+03;Oslo;0301;Oslo;1505;Mortensrud skole;FNB;Folkets Parti;1,20818;6713;1086;13
+03;Oslo;0301;Oslo;1505;Mortensrud skole;INP;Industri- og Næringspartiet;1,48699;6713;1086;16
+03;Oslo;0301;Oslo;1505;Mortensrud skole;KRISTNE;Konservativt;0,55762;6713;1086;6
+03;Oslo;0301;Oslo;1505;Mortensrud skole;KYST;Kystpartiet;0,0;6713;1086;0
+03;Oslo;0301;Oslo;1505;Mortensrud skole;LIBS;Liberalistene;0,18587;6713;1086;2
+03;Oslo;0301;Oslo;1505;Mortensrud skole;NKP;Norges Kommunistiske Parti;0,27881;6713;1086;3
+03;Oslo;0301;Oslo;1505;Mortensrud skole;PP;Pensjonistpartiet;0,74349;6713;1086;8
+03;Oslo;0301;Oslo;1505;Mortensrud skole;PS;Partiet Sentrum;5,57621;6713;1086;60
+03;Oslo;0301;Oslo;1505;Mortensrud skole;BLANKE;Blanke;0,92937;6713;1086;10
+03;Oslo;0301;Oslo;1505;Mortensrud skole;FSL;Folkestyret-listen;0,74349;6713;1086;8
+03;Oslo;0301;Oslo;1505;Mortensrud skole;PMB;Partiet Mot Bompenger;0,37175;6713;1086;4
+03;Oslo;0301;Oslo;1505;Mortensrud skole;Andre;Andre;11,80297;6713;1086;127
+03;Oslo;0301;Oslo;1505;Mortensrud skole;Andre2;Andre2;0,0;6713;1086;0
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;A;Arbeiderpartiet;21,18812;2412;509;107
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;SV;SV - Sosialistisk Venstreparti;5,54455;2412;509;28
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;RØDT;Rødt;5,74257;2412;509;29
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;SP;Senterpartiet;2,37624;2412;509;12
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;KRF;Kristelig Folkeparti;4,15842;2412;509;21
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;MDG;Miljøpartiet De Grønne;2,77228;2412;509;14
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;V;Venstre;5,54455;2412;509;28
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;H;Høyre;32,47525;2412;509;164
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;FRP;Fremskrittspartiet;10,29703;2412;509;52
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;AAN;Alliansen - Alternativ for Norge;0,59406;2412;509;3
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;DEMN;Norgesdemokratene;0,59406;2412;509;3
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;FNB;Folkets Parti;0,79208;2412;509;4
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;INP;Industri- og Næringspartiet;1,58416;2412;509;8
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;KRISTNE;Konservativt;0,39604;2412;509;2
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;KYST;Kystpartiet;0,19802;2412;509;1
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;LIBS;Liberalistene;0,39604;2412;509;2
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;NKP;Norges Kommunistiske Parti;0,0;2412;509;0
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;PP;Pensjonistpartiet;1,18812;2412;509;6
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;PS;Partiet Sentrum;2,9703;2412;509;15
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;BLANKE;Blanke;0,79208;2412;509;4
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;FSL;Folkestyret-listen;0,39604;2412;509;2
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;PMB;Partiet Mot Bompenger;0,79208;2412;509;4
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;Andre;Andre;9,90099;2412;509;50
+03;Oslo;0301;Oslo;1506;Klemetsrud skole;Andre2;Andre2;0,0;2412;509;0
+03;Oslo;0301;Oslo;1507;Bjørndal skole;A;Arbeiderpartiet;31,26511;5935;1265;388
+03;Oslo;0301;Oslo;1507;Bjørndal skole;SV;SV - Sosialistisk Venstreparti;11,12006;5935;1265;138
+03;Oslo;0301;Oslo;1507;Bjørndal skole;RØDT;Rødt;7,3328;5935;1265;91
+03;Oslo;0301;Oslo;1507;Bjørndal skole;SP;Senterpartiet;1,77276;5935;1265;22
+03;Oslo;0301;Oslo;1507;Bjørndal skole;KRF;Kristelig Folkeparti;2,41741;5935;1265;30
+03;Oslo;0301;Oslo;1507;Bjørndal skole;MDG;Miljøpartiet De Grønne;3,14263;5935;1265;39
+03;Oslo;0301;Oslo;1507;Bjørndal skole;V;Venstre;3,06205;5935;1265;38
+03;Oslo;0301;Oslo;1507;Bjørndal skole;H;Høyre;23,60999;5935;1265;293
+03;Oslo;0301;Oslo;1507;Bjørndal skole;FRP;Fremskrittspartiet;3,94843;5935;1265;49
+03;Oslo;0301;Oslo;1507;Bjørndal skole;AAN;Alliansen - Alternativ for Norge;0,24174;5935;1265;3
+03;Oslo;0301;Oslo;1507;Bjørndal skole;DEMN;Norgesdemokratene;0,4029;5935;1265;5
+03;Oslo;0301;Oslo;1507;Bjørndal skole;FNB;Folkets Parti;0,96696;5935;1265;12
+03;Oslo;0301;Oslo;1507;Bjørndal skole;INP;Industri- og Næringspartiet;0,96696;5935;1265;12
+03;Oslo;0301;Oslo;1507;Bjørndal skole;KRISTNE;Konservativt;0,64464;5935;1265;8
+03;Oslo;0301;Oslo;1507;Bjørndal skole;KYST;Kystpartiet;0,16116;5935;1265;2
+03;Oslo;0301;Oslo;1507;Bjørndal skole;LIBS;Liberalistene;0,16116;5935;1265;2
+03;Oslo;0301;Oslo;1507;Bjørndal skole;NKP;Norges Kommunistiske Parti;0,16116;5935;1265;2
+03;Oslo;0301;Oslo;1507;Bjørndal skole;PP;Pensjonistpartiet;0,24174;5935;1265;3
+03;Oslo;0301;Oslo;1507;Bjørndal skole;PS;Partiet Sentrum;6,9299;5935;1265;86
+03;Oslo;0301;Oslo;1507;Bjørndal skole;BLANKE;Blanke;1,93392;5935;1265;24
+03;Oslo;0301;Oslo;1507;Bjørndal skole;FSL;Folkestyret-listen;0,24174;5935;1265;3
+03;Oslo;0301;Oslo;1507;Bjørndal skole;PMB;Partiet Mot Bompenger;1,2087;5935;1265;15
+03;Oslo;0301;Oslo;1507;Bjørndal skole;Andre;Andre;12,32877;5935;1265;153
+03;Oslo;0301;Oslo;1507;Bjørndal skole;Andre2;Andre2;0,0;5935;1265;0
+03;Oslo;0301;Oslo;0201;Teglverket skole;A;Arbeiderpartiet;21,9591;6637;2808;612
+03;Oslo;0301;Oslo;0201;Teglverket skole;SV;SV - Sosialistisk Venstreparti;13,59885;6637;2808;379
+03;Oslo;0301;Oslo;0201;Teglverket skole;RØDT;Rødt;6,27915;6637;2808;175
+03;Oslo;0301;Oslo;0201;Teglverket skole;SP;Senterpartiet;1,04055;6637;2808;29
+03;Oslo;0301;Oslo;0201;Teglverket skole;KRF;Kristelig Folkeparti;1,72228;6637;2808;48
+03;Oslo;0301;Oslo;0201;Teglverket skole;MDG;Miljøpartiet De Grønne;15,32113;6637;2808;427
+03;Oslo;0301;Oslo;0201;Teglverket skole;V;Venstre;11,15895;6637;2808;311
+03;Oslo;0301;Oslo;0201;Teglverket skole;H;Høyre;20,20093;6637;2808;563
+03;Oslo;0301;Oslo;0201;Teglverket skole;FRP;Fremskrittspartiet;4,23394;6637;2808;118
+03;Oslo;0301;Oslo;0201;Teglverket skole;AAN;Alliansen - Alternativ for Norge;0,10764;6637;2808;3
+03;Oslo;0301;Oslo;0201;Teglverket skole;DEMN;Norgesdemokratene;0,03588;6637;2808;1
+03;Oslo;0301;Oslo;0201;Teglverket skole;FNB;Folkets Parti;0,25117;6637;2808;7
+03;Oslo;0301;Oslo;0201;Teglverket skole;INP;Industri- og Næringspartiet;1,04055;6637;2808;29
+03;Oslo;0301;Oslo;0201;Teglverket skole;KRISTNE;Konservativt;0,03588;6637;2808;1
+03;Oslo;0301;Oslo;0201;Teglverket skole;KYST;Kystpartiet;0,03588;6637;2808;1
+03;Oslo;0301;Oslo;0201;Teglverket skole;LIBS;Liberalistene;0,14352;6637;2808;4
+03;Oslo;0301;Oslo;0201;Teglverket skole;NKP;Norges Kommunistiske Parti;0,21529;6637;2808;6
+03;Oslo;0301;Oslo;0201;Teglverket skole;PP;Pensjonistpartiet;0,28705;6637;2808;8
+03;Oslo;0301;Oslo;0201;Teglverket skole;PS;Partiet Sentrum;1,65052;6637;2808;46
+03;Oslo;0301;Oslo;0201;Teglverket skole;BLANKE;Blanke;0,7535;6637;2808;21
+03;Oslo;0301;Oslo;0201;Teglverket skole;FSL;Folkestyret-listen;0,32293;6637;2808;9
+03;Oslo;0301;Oslo;0201;Teglverket skole;PMB;Partiet Mot Bompenger;0,35881;6637;2808;10
+03;Oslo;0301;Oslo;0201;Teglverket skole;Andre;Andre;4,48511;6637;2808;125
+03;Oslo;0301;Oslo;0201;Teglverket skole;Andre2;Andre2;0,0;6637;2808;0
+03;Oslo;0301;Oslo;0202;Sinsen skole;A;Arbeiderpartiet;19,23315;15461;3261;622
+03;Oslo;0301;Oslo;0202;Sinsen skole;SV;SV - Sosialistisk Venstreparti;11,50278;15461;3261;372
+03;Oslo;0301;Oslo;0202;Sinsen skole;RØDT;Rødt;5,906;15461;3261;191
+03;Oslo;0301;Oslo;0202;Sinsen skole;SP;Senterpartiet;1,05133;15461;3261;34
+03;Oslo;0301;Oslo;0202;Sinsen skole;KRF;Kristelig Folkeparti;2,75201;15461;3261;89
+03;Oslo;0301;Oslo;0202;Sinsen skole;MDG;Miljøpartiet De Grønne;12,89425;15461;3261;417
+03;Oslo;0301;Oslo;0202;Sinsen skole;V;Venstre;11,34818;15461;3261;367
+03;Oslo;0301;Oslo;0202;Sinsen skole;H;Høyre;25,20099;15461;3261;815
+03;Oslo;0301;Oslo;0202;Sinsen skole;FRP;Fremskrittspartiet;5,41126;15461;3261;175
+03;Oslo;0301;Oslo;0202;Sinsen skole;AAN;Alliansen - Alternativ for Norge;0,09276;15461;3261;3
+03;Oslo;0301;Oslo;0202;Sinsen skole;DEMN;Norgesdemokratene;0,27829;15461;3261;9
+03;Oslo;0301;Oslo;0202;Sinsen skole;FNB;Folkets Parti;0,4329;15461;3261;14
+03;Oslo;0301;Oslo;0202;Sinsen skole;INP;Industri- og Næringspartiet;1,11317;15461;3261;36
+03;Oslo;0301;Oslo;0202;Sinsen skole;KRISTNE;Konservativt;0,24737;15461;3261;8
+03;Oslo;0301;Oslo;0202;Sinsen skole;KYST;Kystpartiet;0,06184;15461;3261;2
+03;Oslo;0301;Oslo;0202;Sinsen skole;LIBS;Liberalistene;0,24737;15461;3261;8
+03;Oslo;0301;Oslo;0202;Sinsen skole;NKP;Norges Kommunistiske Parti;0,09276;15461;3261;3
+03;Oslo;0301;Oslo;0202;Sinsen skole;PP;Pensjonistpartiet;0,4329;15461;3261;14
+03;Oslo;0301;Oslo;0202;Sinsen skole;PS;Partiet Sentrum;0,92764;15461;3261;30
+03;Oslo;0301;Oslo;0202;Sinsen skole;BLANKE;Blanke;0,83488;15461;3261;27
+03;Oslo;0301;Oslo;0202;Sinsen skole;FSL;Folkestyret-listen;0,27829;15461;3261;9
+03;Oslo;0301;Oslo;0202;Sinsen skole;PMB;Partiet Mot Bompenger;0,49474;15461;3261;16
+03;Oslo;0301;Oslo;0202;Sinsen skole;Andre;Andre;4,70006;15461;3261;152
+03;Oslo;0301;Oslo;0202;Sinsen skole;Andre2;Andre2;0,0;15461;3261;0
+03;Oslo;0301;Oslo;0203;Sofienberg skole;A;Arbeiderpartiet;18,49675;10963;3259;598
+03;Oslo;0301;Oslo;0203;Sofienberg skole;SV;SV - Sosialistisk Venstreparti;16,88834;10963;3259;546
+03;Oslo;0301;Oslo;0203;Sofienberg skole;RØDT;Rødt;10,23817;10963;3259;331
+03;Oslo;0301;Oslo;0203;Sofienberg skole;SP;Senterpartiet;0,897;10963;3259;29
+03;Oslo;0301;Oslo;0203;Sofienberg skole;KRF;Kristelig Folkeparti;0,897;10963;3259;29
+03;Oslo;0301;Oslo;0203;Sofienberg skole;MDG;Miljøpartiet De Grønne;17,78534;10963;3259;575
+03;Oslo;0301;Oslo;0203;Sofienberg skole;V;Venstre;10,79493;10963;3259;349
+03;Oslo;0301;Oslo;0203;Sofienberg skole;H;Høyre;16,73368;10963;3259;541
+03;Oslo;0301;Oslo;0203;Sofienberg skole;FRP;Fremskrittspartiet;2,84565;10963;3259;92
+03;Oslo;0301;Oslo;0203;Sofienberg skole;AAN;Alliansen - Alternativ for Norge;0,21652;10963;3259;7
+03;Oslo;0301;Oslo;0203;Sofienberg skole;DEMN;Norgesdemokratene;0,21652;10963;3259;7
+03;Oslo;0301;Oslo;0203;Sofienberg skole;FNB;Folkets Parti;0,27838;10963;3259;9
+03;Oslo;0301;Oslo;0203;Sofienberg skole;INP;Industri- og Næringspartiet;0,71141;10963;3259;23
+03;Oslo;0301;Oslo;0203;Sofienberg skole;KRISTNE;Konservativt;0,09279;10963;3259;3
+03;Oslo;0301;Oslo;0203;Sofienberg skole;KYST;Kystpartiet;0,03093;10963;3259;1
+03;Oslo;0301;Oslo;0203;Sofienberg skole;LIBS;Liberalistene;0,09279;10963;3259;3
+03;Oslo;0301;Oslo;0203;Sofienberg skole;NKP;Norges Kommunistiske Parti;0,15466;10963;3259;5
+03;Oslo;0301;Oslo;0203;Sofienberg skole;PP;Pensjonistpartiet;0,46397;10963;3259;15
+03;Oslo;0301;Oslo;0203;Sofienberg skole;PS;Partiet Sentrum;1,57748;10963;3259;51
+03;Oslo;0301;Oslo;0203;Sofienberg skole;BLANKE;Blanke;0,80421;10963;3259;26
+03;Oslo;0301;Oslo;0203;Sofienberg skole;FSL;Folkestyret-listen;0,37117;10963;3259;12
+03;Oslo;0301;Oslo;0203;Sofienberg skole;PMB;Partiet Mot Bompenger;0,21652;10963;3259;7
+03;Oslo;0301;Oslo;0203;Sofienberg skole;Andre;Andre;4,42314;10963;3259;143
+03;Oslo;0301;Oslo;0203;Sofienberg skole;Andre2;Andre2;0,0;10963;3259;0
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;A;Arbeiderpartiet;17,56648;6468;2506;436
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;SV;SV - Sosialistisk Venstreparti;16,2772;6468;2506;404
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;RØDT;Rødt;9,18614;6468;2506;228
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;SP;Senterpartiet;1,04754;6468;2506;26
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;KRF;Kristelig Folkeparti;0,88638;6468;2506;22
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;MDG;Miljøpartiet De Grønne;17,16358;6468;2506;426
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;V;Venstre;12,48993;6468;2506;310
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;H;Høyre;18,04996;6468;2506;448
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;FRP;Fremskrittspartiet;2,90089;6468;2506;72
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;AAN;Alliansen - Alternativ for Norge;0,08058;6468;2506;2
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;DEMN;Norgesdemokratene;0,28203;6468;2506;7
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;FNB;Folkets Parti;0,44319;6468;2506;11
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;INP;Industri- og Næringspartiet;0,72522;6468;2506;18
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;KRISTNE;Konservativt;0,12087;6468;2506;3
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;KYST;Kystpartiet;0,12087;6468;2506;3
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;LIBS;Liberalistene;0,24174;6468;2506;6
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;NKP;Norges Kommunistiske Parti;0,12087;6468;2506;3
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;PP;Pensjonistpartiet;0,4029;6468;2506;10
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;PS;Partiet Sentrum;1,41015;6468;2506;35
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;BLANKE;Blanke;0,96696;6468;2506;24
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;FSL;Folkestyret-listen;0,4029;6468;2506;10
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;PMB;Partiet Mot Bompenger;0,08058;6468;2506;2
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;Andre;Andre;4,43191;6468;2506;110
+03;Oslo;0301;Oslo;0204;Grünerløkka skole;Andre2;Andre2;0,0;6468;2506;0
+03;Oslo;0301;Oslo;0205;Foss videregående skole;A;Arbeiderpartiet;17,79141;6106;1813;319
+03;Oslo;0301;Oslo;0205;Foss videregående skole;SV;SV - Sosialistisk Venstreparti;16,28555;6106;1813;292
+03;Oslo;0301;Oslo;0205;Foss videregående skole;RØDT;Rødt;8,25432;6106;1813;148
+03;Oslo;0301;Oslo;0205;Foss videregående skole;SP;Senterpartiet;0,78081;6106;1813;14
+03;Oslo;0301;Oslo;0205;Foss videregående skole;KRF;Kristelig Folkeparti;0,89236;6106;1813;16
+03;Oslo;0301;Oslo;0205;Foss videregående skole;MDG;Miljøpartiet De Grønne;18,79532;6106;1813;337
+03;Oslo;0301;Oslo;0205;Foss videregående skole;V;Venstre;11,09872;6106;1813;199
+03;Oslo;0301;Oslo;0205;Foss videregående skole;H;Høyre;20,2454;6106;1813;363
+03;Oslo;0301;Oslo;0205;Foss videregående skole;FRP;Fremskrittspartiet;2,84439;6106;1813;51
+03;Oslo;0301;Oslo;0205;Foss videregående skole;AAN;Alliansen - Alternativ for Norge;0,05577;6106;1813;1
+03;Oslo;0301;Oslo;0205;Foss videregående skole;DEMN;Norgesdemokratene;0,11154;6106;1813;2
+03;Oslo;0301;Oslo;0205;Foss videregående skole;FNB;Folkets Parti;0,16732;6106;1813;3
+03;Oslo;0301;Oslo;0205;Foss videregående skole;INP;Industri- og Næringspartiet;0,83659;6106;1813;15
+03;Oslo;0301;Oslo;0205;Foss videregående skole;KRISTNE;Konservativt;0,05577;6106;1813;1
+03;Oslo;0301;Oslo;0205;Foss videregående skole;KYST;Kystpartiet;0,11154;6106;1813;2
+03;Oslo;0301;Oslo;0205;Foss videregående skole;LIBS;Liberalistene;0,16732;6106;1813;3
+03;Oslo;0301;Oslo;0205;Foss videregående skole;NKP;Norges Kommunistiske Parti;0,05577;6106;1813;1
+03;Oslo;0301;Oslo;0205;Foss videregående skole;PP;Pensjonistpartiet;0,11154;6106;1813;2
+03;Oslo;0301;Oslo;0205;Foss videregående skole;PS;Partiet Sentrum;1,0039;6106;1813;18
+03;Oslo;0301;Oslo;0205;Foss videregående skole;BLANKE;Blanke;1,11545;6106;1813;20
+03;Oslo;0301;Oslo;0205;Foss videregående skole;FSL;Folkestyret-listen;0,27886;6106;1813;5
+03;Oslo;0301;Oslo;0205;Foss videregående skole;PMB;Partiet Mot Bompenger;0,05577;6106;1813;1
+03;Oslo;0301;Oslo;0205;Foss videregående skole;Andre;Andre;3,01171;6106;1813;54
+03;Oslo;0301;Oslo;0205;Foss videregående skole;Andre2;Andre2;0,0;6106;1813;0
+03;Oslo;0301;Oslo;0206;Anker Hotel;A;Arbeiderpartiet;16,37731;8851;1752;283
+03;Oslo;0301;Oslo;0206;Anker Hotel;SV;SV - Sosialistisk Venstreparti;15,33565;8851;1752;265
+03;Oslo;0301;Oslo;0206;Anker Hotel;RØDT;Rødt;10,18519;8851;1752;176
+03;Oslo;0301;Oslo;0206;Anker Hotel;SP;Senterpartiet;1,62037;8851;1752;28
+03;Oslo;0301;Oslo;0206;Anker Hotel;KRF;Kristelig Folkeparti;0,9838;8851;1752;17
+03;Oslo;0301;Oslo;0206;Anker Hotel;MDG;Miljøpartiet De Grønne;18,11343;8851;1752;313
+03;Oslo;0301;Oslo;0206;Anker Hotel;V;Venstre;11,74769;8851;1752;203
+03;Oslo;0301;Oslo;0206;Anker Hotel;H;Høyre;17,88194;8851;1752;309
+03;Oslo;0301;Oslo;0206;Anker Hotel;FRP;Fremskrittspartiet;3,125;8851;1752;54
+03;Oslo;0301;Oslo;0206;Anker Hotel;AAN;Alliansen - Alternativ for Norge;0,11574;8851;1752;2
+03;Oslo;0301;Oslo;0206;Anker Hotel;DEMN;Norgesdemokratene;0,28935;8851;1752;5
+03;Oslo;0301;Oslo;0206;Anker Hotel;FNB;Folkets Parti;0,17361;8851;1752;3
+03;Oslo;0301;Oslo;0206;Anker Hotel;INP;Industri- og Næringspartiet;0,75231;8851;1752;13
+03;Oslo;0301;Oslo;0206;Anker Hotel;KRISTNE;Konservativt;0,17361;8851;1752;3
+03;Oslo;0301;Oslo;0206;Anker Hotel;KYST;Kystpartiet;0,05787;8851;1752;1
+03;Oslo;0301;Oslo;0206;Anker Hotel;LIBS;Liberalistene;0,40509;8851;1752;7
+03;Oslo;0301;Oslo;0206;Anker Hotel;NKP;Norges Kommunistiske Parti;0,17361;8851;1752;3
+03;Oslo;0301;Oslo;0206;Anker Hotel;PP;Pensjonistpartiet;0,17361;8851;1752;3
+03;Oslo;0301;Oslo;0206;Anker Hotel;PS;Partiet Sentrum;1,73611;8851;1752;30
+03;Oslo;0301;Oslo;0206;Anker Hotel;BLANKE;Blanke;1,38889;8851;1752;24
+03;Oslo;0301;Oslo;0206;Anker Hotel;FSL;Folkestyret-listen;0,40509;8851;1752;7
+03;Oslo;0301;Oslo;0206;Anker Hotel;PMB;Partiet Mot Bompenger;0,17361;8851;1752;3
+03;Oslo;0301;Oslo;0206;Anker Hotel;Andre;Andre;4,62963;8851;1752;80
+03;Oslo;0301;Oslo;0206;Anker Hotel;Andre2;Andre2;0,0;8851;1752;0
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;A;Arbeiderpartiet;19,84085;6008;1906;374
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;SV;SV - Sosialistisk Venstreparti;15,91512;6008;1906;300
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;RØDT;Rødt;8,27586;6008;1906;156
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;SP;Senterpartiet;1,22016;6008;1906;23
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;KRF;Kristelig Folkeparti;1,22016;6008;1906;23
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;MDG;Miljøpartiet De Grønne;16,07427;6008;1906;303
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;V;Venstre;12,09549;6008;1906;228
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;H;Høyre;17,29443;6008;1906;326
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;FRP;Fremskrittspartiet;3,12997;6008;1906;59
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;AAN;Alliansen - Alternativ for Norge;0,26525;6008;1906;5
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;DEMN;Norgesdemokratene;0,15915;6008;1906;3
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;FNB;Folkets Parti;0,3183;6008;1906;6
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;INP;Industri- og Næringspartiet;1,22016;6008;1906;23
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;KRISTNE;Konservativt;0,2122;6008;1906;4
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;KYST;Kystpartiet;0,0;6008;1906;0
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;LIBS;Liberalistene;0,37135;6008;1906;7
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;NKP;Norges Kommunistiske Parti;0,15915;6008;1906;3
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;PP;Pensjonistpartiet;0,47745;6008;1906;9
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;PS;Partiet Sentrum;1,43236;6008;1906;27
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;BLANKE;Blanke;1,11406;6008;1906;21
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;FSL;Folkestyret-listen;0,26525;6008;1906;5
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;PMB;Partiet Mot Bompenger;0,05305;6008;1906;1
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;Andre;Andre;4,93369;6008;1906;93
+03;Oslo;0301;Oslo;0301;Sagene samfunnshus;Andre2;Andre2;0,0;6008;1906;0
+03;Oslo;0301;Oslo;0302;Bjølsen skole;A;Arbeiderpartiet;20,0324;5168;1878;371
+03;Oslo;0301;Oslo;0302;Bjølsen skole;SV;SV - Sosialistisk Venstreparti;16,41469;5168;1878;304
+03;Oslo;0301;Oslo;0302;Bjølsen skole;RØDT;Rødt;7,88337;5168;1878;146
+03;Oslo;0301;Oslo;0302;Bjølsen skole;SP;Senterpartiet;0,97192;5168;1878;18
+03;Oslo;0301;Oslo;0302;Bjølsen skole;KRF;Kristelig Folkeparti;1,45788;5168;1878;27
+03;Oslo;0301;Oslo;0302;Bjølsen skole;MDG;Miljøpartiet De Grønne;16,41469;5168;1878;304
+03;Oslo;0301;Oslo;0302;Bjølsen skole;V;Venstre;12,36501;5168;1878;229
+03;Oslo;0301;Oslo;0302;Bjølsen skole;H;Høyre;17,00864;5168;1878;315
+03;Oslo;0301;Oslo;0302;Bjølsen skole;FRP;Fremskrittspartiet;3,02376;5168;1878;56
+03;Oslo;0301;Oslo;0302;Bjølsen skole;AAN;Alliansen - Alternativ for Norge;0,10799;5168;1878;2
+03;Oslo;0301;Oslo;0302;Bjølsen skole;DEMN;Norgesdemokratene;0,10799;5168;1878;2
+03;Oslo;0301;Oslo;0302;Bjølsen skole;FNB;Folkets Parti;0,64795;5168;1878;12
+03;Oslo;0301;Oslo;0302;Bjølsen skole;INP;Industri- og Næringspartiet;1,56587;5168;1878;29
+03;Oslo;0301;Oslo;0302;Bjølsen skole;KRISTNE;Konservativt;0,054;5168;1878;1
+03;Oslo;0301;Oslo;0302;Bjølsen skole;KYST;Kystpartiet;0,0;5168;1878;0
+03;Oslo;0301;Oslo;0302;Bjølsen skole;LIBS;Liberalistene;0,32397;5168;1878;6
+03;Oslo;0301;Oslo;0302;Bjølsen skole;NKP;Norges Kommunistiske Parti;0,0;5168;1878;0
+03;Oslo;0301;Oslo;0302;Bjølsen skole;PP;Pensjonistpartiet;0,16199;5168;1878;3
+03;Oslo;0301;Oslo;0302;Bjølsen skole;PS;Partiet Sentrum;0,97192;5168;1878;18
+03;Oslo;0301;Oslo;0302;Bjølsen skole;BLANKE;Blanke;1,40389;5168;1878;26
+03;Oslo;0301;Oslo;0302;Bjølsen skole;FSL;Folkestyret-listen;0,26998;5168;1878;5
+03;Oslo;0301;Oslo;0302;Bjølsen skole;PMB;Partiet Mot Bompenger;0,21598;5168;1878;4
+03;Oslo;0301;Oslo;0302;Bjølsen skole;Andre;Andre;4,42765;5168;1878;82
+03;Oslo;0301;Oslo;0302;Bjølsen skole;Andre2;Andre2;0,0;5168;1878;0
+03;Oslo;0301;Oslo;0303;Nordpolen skole;A;Arbeiderpartiet;22,76498;5314;2183;494
+03;Oslo;0301;Oslo;0303;Nordpolen skole;SV;SV - Sosialistisk Venstreparti;14,93088;5314;2183;324
+03;Oslo;0301;Oslo;0303;Nordpolen skole;RØDT;Rødt;7,37327;5314;2183;160
+03;Oslo;0301;Oslo;0303;Nordpolen skole;SP;Senterpartiet;0,82949;5314;2183;18
+03;Oslo;0301;Oslo;0303;Nordpolen skole;KRF;Kristelig Folkeparti;1,10599;5314;2183;24
+03;Oslo;0301;Oslo;0303;Nordpolen skole;MDG;Miljøpartiet De Grønne;14,83871;5314;2183;322
+03;Oslo;0301;Oslo;0303;Nordpolen skole;V;Venstre;11,79724;5314;2183;256
+03;Oslo;0301;Oslo;0303;Nordpolen skole;H;Høyre;19,53917;5314;2183;424
+03;Oslo;0301;Oslo;0303;Nordpolen skole;FRP;Fremskrittspartiet;3,17972;5314;2183;69
+03;Oslo;0301;Oslo;0303;Nordpolen skole;AAN;Alliansen - Alternativ for Norge;0,04608;5314;2183;1
+03;Oslo;0301;Oslo;0303;Nordpolen skole;DEMN;Norgesdemokratene;0,09217;5314;2183;2
+03;Oslo;0301;Oslo;0303;Nordpolen skole;FNB;Folkets Parti;0,23041;5314;2183;5
+03;Oslo;0301;Oslo;0303;Nordpolen skole;INP;Industri- og Næringspartiet;0,78341;5314;2183;17
+03;Oslo;0301;Oslo;0303;Nordpolen skole;KRISTNE;Konservativt;0,0;5314;2183;0
+03;Oslo;0301;Oslo;0303;Nordpolen skole;KYST;Kystpartiet;0,04608;5314;2183;1
+03;Oslo;0301;Oslo;0303;Nordpolen skole;LIBS;Liberalistene;0,2765;5314;2183;6
+03;Oslo;0301;Oslo;0303;Nordpolen skole;NKP;Norges Kommunistiske Parti;0,23041;5314;2183;5
+03;Oslo;0301;Oslo;0303;Nordpolen skole;PP;Pensjonistpartiet;0,13825;5314;2183;3
+03;Oslo;0301;Oslo;0303;Nordpolen skole;PS;Partiet Sentrum;1,15207;5314;2183;25
+03;Oslo;0301;Oslo;0303;Nordpolen skole;BLANKE;Blanke;0,59908;5314;2183;13
+03;Oslo;0301;Oslo;0303;Nordpolen skole;FSL;Folkestyret-listen;0,36866;5314;2183;8
+03;Oslo;0301;Oslo;0303;Nordpolen skole;PMB;Partiet Mot Bompenger;0,2765;5314;2183;6
+03;Oslo;0301;Oslo;0303;Nordpolen skole;Andre;Andre;3,64055;5314;2183;79
+03;Oslo;0301;Oslo;0303;Nordpolen skole;Andre2;Andre2;0,0;5314;2183;0
+03;Oslo;0301;Oslo;0304;Lilleborg skole;A;Arbeiderpartiet;20,97011;5586;2051;428
+03;Oslo;0301;Oslo;0304;Lilleborg skole;SV;SV - Sosialistisk Venstreparti;14,99265;5586;2051;306
+03;Oslo;0301;Oslo;0304;Lilleborg skole;RØDT;Rødt;8,18226;5586;2051;167
+03;Oslo;0301;Oslo;0304;Lilleborg skole;SP;Senterpartiet;0,97991;5586;2051;20
+03;Oslo;0301;Oslo;0304;Lilleborg skole;KRF;Kristelig Folkeparti;1,17589;5586;2051;24
+03;Oslo;0301;Oslo;0304;Lilleborg skole;MDG;Miljøpartiet De Grønne;17,14846;5586;2051;350
+03;Oslo;0301;Oslo;0304;Lilleborg skole;V;Venstre;11,80794;5586;2051;241
+03;Oslo;0301;Oslo;0304;Lilleborg skole;H;Høyre;17,39343;5586;2051;355
+03;Oslo;0301;Oslo;0304;Lilleborg skole;FRP;Fremskrittspartiet;3,13572;5586;2051;64
+03;Oslo;0301;Oslo;0304;Lilleborg skole;AAN;Alliansen - Alternativ for Norge;0,049;5586;2051;1
+03;Oslo;0301;Oslo;0304;Lilleborg skole;DEMN;Norgesdemokratene;0,049;5586;2051;1
+03;Oslo;0301;Oslo;0304;Lilleborg skole;FNB;Folkets Parti;0,29397;5586;2051;6
+03;Oslo;0301;Oslo;0304;Lilleborg skole;INP;Industri- og Næringspartiet;1,17589;5586;2051;24
+03;Oslo;0301;Oslo;0304;Lilleborg skole;KRISTNE;Konservativt;0,0;5586;2051;0
+03;Oslo;0301;Oslo;0304;Lilleborg skole;KYST;Kystpartiet;0,09799;5586;2051;2
+03;Oslo;0301;Oslo;0304;Lilleborg skole;LIBS;Liberalistene;0,14699;5586;2051;3
+03;Oslo;0301;Oslo;0304;Lilleborg skole;NKP;Norges Kommunistiske Parti;0,09799;5586;2051;2
+03;Oslo;0301;Oslo;0304;Lilleborg skole;PP;Pensjonistpartiet;0,58795;5586;2051;12
+03;Oslo;0301;Oslo;0304;Lilleborg skole;PS;Partiet Sentrum;1,17589;5586;2051;24
+03;Oslo;0301;Oslo;0304;Lilleborg skole;BLANKE;Blanke;0,48996;5586;2051;10
+03;Oslo;0301;Oslo;0304;Lilleborg skole;FSL;Folkestyret-listen;0,39196;5586;2051;8
+03;Oslo;0301;Oslo;0304;Lilleborg skole;PMB;Partiet Mot Bompenger;0,14699;5586;2051;3
+03;Oslo;0301;Oslo;0304;Lilleborg skole;Andre;Andre;4,21362;5586;2051;86
+03;Oslo;0301;Oslo;0304;Lilleborg skole;Andre2;Andre2;0,0;5586;2051;0
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;A;Arbeiderpartiet;19,38534;7529;1278;246
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;SV;SV - Sosialistisk Venstreparti;14,1844;7529;1278;180
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;RØDT;Rødt;7,95902;7529;1278;101
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;SP;Senterpartiet;0,63042;7529;1278;8
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;KRF;Kristelig Folkeparti;0,94563;7529;1278;12
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;MDG;Miljøpartiet De Grønne;16,15445;7529;1278;205
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;V;Venstre;13,23877;7529;1278;168
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;H;Høyre;20,17336;7529;1278;256
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;FRP;Fremskrittspartiet;3,23089;7529;1278;41
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;AAN;Alliansen - Alternativ for Norge;0,0788;7529;1278;1
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;DEMN;Norgesdemokratene;0,23641;7529;1278;3
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;FNB;Folkets Parti;0,47281;7529;1278;6
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;INP;Industri- og Næringspartiet;0,78802;7529;1278;10
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;KRISTNE;Konservativt;0,39401;7529;1278;5
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;KYST;Kystpartiet;0,0788;7529;1278;1
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;LIBS;Liberalistene;0,0788;7529;1278;1
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;NKP;Norges Kommunistiske Parti;0,31521;7529;1278;4
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;PP;Pensjonistpartiet;0,31521;7529;1278;4
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;PS;Partiet Sentrum;0,94563;7529;1278;12
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;BLANKE;Blanke;0,70922;7529;1278;9
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;FSL;Folkestyret-listen;0,1576;7529;1278;2
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;PMB;Partiet Mot Bompenger;0,23641;7529;1278;3
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;Andre;Andre;4,09771;7529;1278;52
+03;Oslo;0301;Oslo;0305;Sagene festivitetshus;Andre2;Andre2;0,0;7529;1278;0
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;A;Arbeiderpartiet;18,4;10823;2783;506
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;SV;SV - Sosialistisk Venstreparti;9,12727;10823;2783;251
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;RØDT;Rødt;3,92727;10823;2783;108
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;SP;Senterpartiet;1,12727;10823;2783;31
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;KRF;Kristelig Folkeparti;2,0;10823;2783;55
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;MDG;Miljøpartiet De Grønne;10,65455;10823;2783;293
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;V;Venstre;12,50909;10823;2783;344
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;H;Høyre;34,18182;10823;2783;940
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;FRP;Fremskrittspartiet;3,74545;10823;2783;103
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;AAN;Alliansen - Alternativ for Norge;0,14545;10823;2783;4
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;DEMN;Norgesdemokratene;0,36364;10823;2783;10
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;FNB;Folkets Parti;0,29091;10823;2783;8
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;INP;Industri- og Næringspartiet;0,83636;10823;2783;23
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;KRISTNE;Konservativt;0,18182;10823;2783;5
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;KYST;Kystpartiet;0,21818;10823;2783;6
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;LIBS;Liberalistene;0,36364;10823;2783;10
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;NKP;Norges Kommunistiske Parti;0,21818;10823;2783;6
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;PP;Pensjonistpartiet;0,36364;10823;2783;10
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;PS;Partiet Sentrum;1,05455;10823;2783;29
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;BLANKE;Blanke;1,2;10823;2783;33
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;FSL;Folkestyret-listen;0,10909;10823;2783;3
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;PMB;Partiet Mot Bompenger;0,18182;10823;2783;5
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;Andre;Andre;4,32727;10823;2783;119
+03;Oslo;0301;Oslo;0306;Fernanda Nissen skole;Andre2;Andre2;0,0;10823;2783;0
+03;Oslo;0301;Oslo;0401;Fagerborg skole;A;Arbeiderpartiet;17,6219;7749;2350;412
+03;Oslo;0301;Oslo;0401;Fagerborg skole;SV;SV - Sosialistisk Venstreparti;10,82121;7749;2350;253
+03;Oslo;0301;Oslo;0401;Fagerborg skole;RØDT;Rødt;5,00428;7749;2350;117
+03;Oslo;0301;Oslo;0401;Fagerborg skole;SP;Senterpartiet;0,85543;7749;2350;20
+03;Oslo;0301;Oslo;0401;Fagerborg skole;KRF;Kristelig Folkeparti;2,8657;7749;2350;67
+03;Oslo;0301;Oslo;0401;Fagerborg skole;MDG;Miljøpartiet De Grønne;13,00257;7749;2350;304
+03;Oslo;0301;Oslo;0401;Fagerborg skole;V;Venstre;14,71343;7749;2350;344
+03;Oslo;0301;Oslo;0401;Fagerborg skole;H;Høyre;26,68948;7749;2350;624
+03;Oslo;0301;Oslo;0401;Fagerborg skole;FRP;Fremskrittspartiet;4,14885;7749;2350;97
+03;Oslo;0301;Oslo;0401;Fagerborg skole;AAN;Alliansen - Alternativ for Norge;0,08554;7749;2350;2
+03;Oslo;0301;Oslo;0401;Fagerborg skole;DEMN;Norgesdemokratene;0,25663;7749;2350;6
+03;Oslo;0301;Oslo;0401;Fagerborg skole;FNB;Folkets Parti;0,2994;7749;2350;7
+03;Oslo;0301;Oslo;0401;Fagerborg skole;INP;Industri- og Næringspartiet;0,94098;7749;2350;22
+03;Oslo;0301;Oslo;0401;Fagerborg skole;KRISTNE;Konservativt;0,25663;7749;2350;6
+03;Oslo;0301;Oslo;0401;Fagerborg skole;KYST;Kystpartiet;0,12831;7749;2350;3
+03;Oslo;0301;Oslo;0401;Fagerborg skole;LIBS;Liberalistene;0,51326;7749;2350;12
+03;Oslo;0301;Oslo;0401;Fagerborg skole;NKP;Norges Kommunistiske Parti;0,04277;7749;2350;1
+03;Oslo;0301;Oslo;0401;Fagerborg skole;PP;Pensjonistpartiet;0,38494;7749;2350;9
+03;Oslo;0301;Oslo;0401;Fagerborg skole;PS;Partiet Sentrum;0,94098;7749;2350;22
+03;Oslo;0301;Oslo;0401;Fagerborg skole;BLANKE;Blanke;0,51326;7749;2350;12
+03;Oslo;0301;Oslo;0401;Fagerborg skole;FSL;Folkestyret-listen;0,38494;7749;2350;9
+03;Oslo;0301;Oslo;0401;Fagerborg skole;PMB;Partiet Mot Bompenger;0,04277;7749;2350;1
+03;Oslo;0301;Oslo;0401;Fagerborg skole;Andre;Andre;4,27716;7749;2350;100
+03;Oslo;0301;Oslo;0401;Fagerborg skole;Andre2;Andre2;0,0;7749;2350;0
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;A;Arbeiderpartiet;16,29571;7378;2535;410
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;SV;SV - Sosialistisk Venstreparti;11,56598;7378;2535;291
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;RØDT;Rødt;6,71701;7378;2535;169
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;SP;Senterpartiet;0,91415;7378;2535;23
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;KRF;Kristelig Folkeparti;1,51033;7378;2535;38
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;MDG;Miljøpartiet De Grønne;13,03657;7378;2535;328
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;V;Venstre;15,69952;7378;2535;395
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;H;Høyre;27,22576;7378;2535;685
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;FRP;Fremskrittspartiet;3,17965;7378;2535;80
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;AAN;Alliansen - Alternativ for Norge;0,07949;7378;2535;2
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;DEMN;Norgesdemokratene;0,19873;7378;2535;5
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;FNB;Folkets Parti;0,11924;7378;2535;3
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;INP;Industri- og Næringspartiet;0,9539;7378;2535;24
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;KRISTNE;Konservativt;0,15898;7378;2535;4
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;KYST;Kystpartiet;0,07949;7378;2535;2
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;LIBS;Liberalistene;0,15898;7378;2535;4
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;NKP;Norges Kommunistiske Parti;0,35771;7378;2535;9
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;PP;Pensjonistpartiet;0,15898;7378;2535;4
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;PS;Partiet Sentrum;1,15262;7378;2535;29
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;BLANKE;Blanke;0,75517;7378;2535;19
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;FSL;Folkestyret-listen;0,31797;7378;2535;8
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;PMB;Partiet Mot Bompenger;0,11924;7378;2535;3
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;Andre;Andre;3,85533;7378;2535;97
+03;Oslo;0301;Oslo;0402;Bolteløkka skole;Andre2;Andre2;0,0;7378;2535;0
+03;Oslo;0301;Oslo;0403;Ila skole;A;Arbeiderpartiet;16,89606;6560;2125;356
+03;Oslo;0301;Oslo;0403;Ila skole;SV;SV - Sosialistisk Venstreparti;13,71618;6560;2125;289
+03;Oslo;0301;Oslo;0403;Ila skole;RØDT;Rødt;6,83436;6560;2125;144
+03;Oslo;0301;Oslo;0403;Ila skole;SP;Senterpartiet;0,61699;6560;2125;13
+03;Oslo;0301;Oslo;0403;Ila skole;KRF;Kristelig Folkeparti;1,70859;6560;2125;36
+03;Oslo;0301;Oslo;0403;Ila skole;MDG;Miljøpartiet De Grønne;15,56716;6560;2125;328
+03;Oslo;0301;Oslo;0403;Ila skole;V;Venstre;15,70954;6560;2125;331
+03;Oslo;0301;Oslo;0403;Ila skole;H;Høyre;23,25581;6560;2125;490
+03;Oslo;0301;Oslo;0403;Ila skole;FRP;Fremskrittspartiet;2,46796;6560;2125;52
+03;Oslo;0301;Oslo;0403;Ila skole;AAN;Alliansen - Alternativ for Norge;0,04746;6560;2125;1
+03;Oslo;0301;Oslo;0403;Ila skole;DEMN;Norgesdemokratene;0,33223;6560;2125;7
+03;Oslo;0301;Oslo;0403;Ila skole;FNB;Folkets Parti;0,33223;6560;2125;7
+03;Oslo;0301;Oslo;0403;Ila skole;INP;Industri- og Næringspartiet;0,61699;6560;2125;13
+03;Oslo;0301;Oslo;0403;Ila skole;KRISTNE;Konservativt;0,09492;6560;2125;2
+03;Oslo;0301;Oslo;0403;Ila skole;KYST;Kystpartiet;0,04746;6560;2125;1
+03;Oslo;0301;Oslo;0403;Ila skole;LIBS;Liberalistene;0,09492;6560;2125;2
+03;Oslo;0301;Oslo;0403;Ila skole;NKP;Norges Kommunistiske Parti;0,2373;6560;2125;5
+03;Oslo;0301;Oslo;0403;Ila skole;PP;Pensjonistpartiet;0,18984;6560;2125;4
+03;Oslo;0301;Oslo;0403;Ila skole;PS;Partiet Sentrum;0,94922;6560;2125;20
+03;Oslo;0301;Oslo;0403;Ila skole;BLANKE;Blanke;0,8543;6560;2125;18
+03;Oslo;0301;Oslo;0403;Ila skole;FSL;Folkestyret-listen;0,18984;6560;2125;4
+03;Oslo;0301;Oslo;0403;Ila skole;PMB;Partiet Mot Bompenger;0,09492;6560;2125;2
+03;Oslo;0301;Oslo;0403;Ila skole;Andre;Andre;3,22734;6560;2125;68
+03;Oslo;0301;Oslo;0403;Ila skole;Andre2;Andre2;0,0;6560;2125;0
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;A;Arbeiderpartiet;13,87257;8583;2231;307
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;SV;SV - Sosialistisk Venstreparti;12,29101;8583;2231;272
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;RØDT;Rødt;6,507;8583;2231;144
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;SP;Senterpartiet;0,723;8583;2231;16
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;KRF;Kristelig Folkeparti;1,76231;8583;2231;39
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;MDG;Miljøpartiet De Grønne;14,8667;8583;2231;329
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;V;Venstre;14,77632;8583;2231;327
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;H;Høyre;27,29327;8583;2231;604
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;FRP;Fremskrittspartiet;3,79575;8583;2231;84
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;AAN;Alliansen - Alternativ for Norge;0,13556;8583;2231;3
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;DEMN;Norgesdemokratene;0,18075;8583;2231;4
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;FNB;Folkets Parti;0,3615;8583;2231;8
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;INP;Industri- og Næringspartiet;1,0845;8583;2231;24
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;KRISTNE;Konservativt;0,31631;8583;2231;7
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;KYST;Kystpartiet;0,09038;8583;2231;2
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;LIBS;Liberalistene;0,13556;8583;2231;3
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;NKP;Norges Kommunistiske Parti;0,18075;8583;2231;4
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;PP;Pensjonistpartiet;0,31631;8583;2231;7
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;PS;Partiet Sentrum;0,99413;8583;2231;22
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;BLANKE;Blanke;0,81338;8583;2231;18
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;FSL;Folkestyret-listen;0,22594;8583;2231;5
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;PMB;Partiet Mot Bompenger;0,09038;8583;2231;2
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;Andre;Andre;4,11207;8583;2231;91
+03;Oslo;0301;Oslo;0404;Oslo katedralskole;Andre2;Andre2;0,0;8583;2231;0
+03;Oslo;0301;Oslo;0405;Møllergata skole;A;Arbeiderpartiet;16,34146;4145;1239;201
+03;Oslo;0301;Oslo;0405;Møllergata skole;SV;SV - Sosialistisk Venstreparti;12,11382;4145;1239;149
+03;Oslo;0301;Oslo;0405;Møllergata skole;RØDT;Rødt;8,61789;4145;1239;106
+03;Oslo;0301;Oslo;0405;Møllergata skole;SP;Senterpartiet;0,97561;4145;1239;12
+03;Oslo;0301;Oslo;0405;Møllergata skole;KRF;Kristelig Folkeparti;1,38211;4145;1239;17
+03;Oslo;0301;Oslo;0405;Møllergata skole;MDG;Miljøpartiet De Grønne;18,29268;4145;1239;225
+03;Oslo;0301;Oslo;0405;Møllergata skole;V;Venstre;12,03252;4145;1239;148
+03;Oslo;0301;Oslo;0405;Møllergata skole;H;Høyre;21,21951;4145;1239;261
+03;Oslo;0301;Oslo;0405;Møllergata skole;FRP;Fremskrittspartiet;3,90244;4145;1239;48
+03;Oslo;0301;Oslo;0405;Møllergata skole;AAN;Alliansen - Alternativ for Norge;0,0813;4145;1239;1
+03;Oslo;0301;Oslo;0405;Møllergata skole;DEMN;Norgesdemokratene;0,4065;4145;1239;5
+03;Oslo;0301;Oslo;0405;Møllergata skole;FNB;Folkets Parti;0,0813;4145;1239;1
+03;Oslo;0301;Oslo;0405;Møllergata skole;INP;Industri- og Næringspartiet;1,30081;4145;1239;16
+03;Oslo;0301;Oslo;0405;Møllergata skole;KRISTNE;Konservativt;0,56911;4145;1239;7
+03;Oslo;0301;Oslo;0405;Møllergata skole;KYST;Kystpartiet;0,0813;4145;1239;1
+03;Oslo;0301;Oslo;0405;Møllergata skole;LIBS;Liberalistene;0,3252;4145;1239;4
+03;Oslo;0301;Oslo;0405;Møllergata skole;NKP;Norges Kommunistiske Parti;0,1626;4145;1239;2
+03;Oslo;0301;Oslo;0405;Møllergata skole;PP;Pensjonistpartiet;0,56911;4145;1239;7
+03;Oslo;0301;Oslo;0405;Møllergata skole;PS;Partiet Sentrum;0,97561;4145;1239;12
+03;Oslo;0301;Oslo;0405;Møllergata skole;BLANKE;Blanke;0,73171;4145;1239;9
+03;Oslo;0301;Oslo;0405;Møllergata skole;FSL;Folkestyret-listen;0,2439;4145;1239;3
+03;Oslo;0301;Oslo;0405;Møllergata skole;PMB;Partiet Mot Bompenger;0,3252;4145;1239;4
+03;Oslo;0301;Oslo;0405;Møllergata skole;Andre;Andre;5,12195;4145;1239;63
+03;Oslo;0301;Oslo;0405;Møllergata skole;Andre2;Andre2;0,0;4145;1239;0
+03;Oslo;0301;Oslo;1601;Oslo rådhus;A;Arbeiderpartiet;15,58245;1373;2000;309
+03;Oslo;0301;Oslo;1601;Oslo rådhus;SV;SV - Sosialistisk Venstreparti;10,23701;1373;2000;203
+03;Oslo;0301;Oslo;1601;Oslo rådhus;RØDT;Rødt;5,24458;1373;2000;104
+03;Oslo;0301;Oslo;1601;Oslo rådhus;SP;Senterpartiet;0,55472;1373;2000;11
+03;Oslo;0301;Oslo;1601;Oslo rådhus;KRF;Kristelig Folkeparti;1,10943;1373;2000;22
+03;Oslo;0301;Oslo;1601;Oslo rådhus;MDG;Miljøpartiet De Grønne;15,38074;1373;2000;305
+03;Oslo;0301;Oslo;1601;Oslo rådhus;V;Venstre;13,56531;1373;2000;269
+03;Oslo;0301;Oslo;1601;Oslo rådhus;H;Høyre;29,55119;1373;2000;586
+03;Oslo;0301;Oslo;1601;Oslo rådhus;FRP;Fremskrittspartiet;4,33686;1373;2000;86
+03;Oslo;0301;Oslo;1601;Oslo rådhus;AAN;Alliansen - Alternativ for Norge;0,05043;1373;2000;1
+03;Oslo;0301;Oslo;1601;Oslo rådhus;DEMN;Norgesdemokratene;0,353;1373;2000;7
+03;Oslo;0301;Oslo;1601;Oslo rådhus;FNB;Folkets Parti;0,60514;1373;2000;12
+03;Oslo;0301;Oslo;1601;Oslo rådhus;INP;Industri- og Næringspartiet;0,75643;1373;2000;15
+03;Oslo;0301;Oslo;1601;Oslo rådhus;KRISTNE;Konservativt;0,30257;1373;2000;6
+03;Oslo;0301;Oslo;1601;Oslo rådhus;KYST;Kystpartiet;0,05043;1373;2000;1
+03;Oslo;0301;Oslo;1601;Oslo rådhus;LIBS;Liberalistene;0,05043;1373;2000;1
+03;Oslo;0301;Oslo;1601;Oslo rådhus;NKP;Norges Kommunistiske Parti;0,05043;1373;2000;1
+03;Oslo;0301;Oslo;1601;Oslo rådhus;PP;Pensjonistpartiet;0,30257;1373;2000;6
+03;Oslo;0301;Oslo;1601;Oslo rådhus;PS;Partiet Sentrum;1,21029;1373;2000;24
+03;Oslo;0301;Oslo;1601;Oslo rådhus;BLANKE;Blanke;0,85729;1373;2000;17
+03;Oslo;0301;Oslo;1601;Oslo rådhus;FSL;Folkestyret-listen;0,65557;1373;2000;13
+03;Oslo;0301;Oslo;1601;Oslo rådhus;PMB;Partiet Mot Bompenger;0,05043;1373;2000;1
+03;Oslo;0301;Oslo;1601;Oslo rådhus;Andre;Andre;4,43772;1373;2000;88
+03;Oslo;0301;Oslo;1601;Oslo rådhus;Andre2;Andre2;0,0;1373;2000;0
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;A;Arbeiderpartiet;18,41945;7675;1665;303
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;SV;SV - Sosialistisk Venstreparti;10,33435;7675;1665;170
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;RØDT;Rødt;5,59271;7675;1665;92
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;SP;Senterpartiet;1,09422;7675;1665;18
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;KRF;Kristelig Folkeparti;2,24924;7675;1665;37
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;MDG;Miljøpartiet De Grønne;12,64438;7675;1665;208
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;V;Venstre;9,90881;7675;1665;163
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;H;Høyre;30,21277;7675;1665;497
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;FRP;Fremskrittspartiet;4,68085;7675;1665;77
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;AAN;Alliansen - Alternativ for Norge;0,06079;7675;1665;1
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;DEMN;Norgesdemokratene;0,36474;7675;1665;6
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;FNB;Folkets Parti;0,48632;7675;1665;8
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;INP;Industri- og Næringspartiet;1,39818;7675;1665;23
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;KRISTNE;Konservativt;0,30395;7675;1665;5
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;KYST;Kystpartiet;0,0;7675;1665;0
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;LIBS;Liberalistene;0,24316;7675;1665;4
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;NKP;Norges Kommunistiske Parti;0,18237;7675;1665;3
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;PP;Pensjonistpartiet;0,24316;7675;1665;4
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;PS;Partiet Sentrum;1,21581;7675;1665;20
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;BLANKE;Blanke;1,21581;7675;1665;20
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;FSL;Folkestyret-listen;0,18237;7675;1665;3
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;PMB;Partiet Mot Bompenger;0,18237;7675;1665;3
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;Andre;Andre;4,86322;7675;1665;80
+03;Oslo;0301;Oslo;0501;Norges musikkhøgskole;Andre2;Andre2;0,0;7675;1665;0
+03;Oslo;0301;Oslo;0502;Majorstuen skole;A;Arbeiderpartiet;12,85185;5846;2718;347
+03;Oslo;0301;Oslo;0502;Majorstuen skole;SV;SV - Sosialistisk Venstreparti;7,59259;5846;2718;205
+03;Oslo;0301;Oslo;0502;Majorstuen skole;RØDT;Rødt;4,55556;5846;2718;123
+03;Oslo;0301;Oslo;0502;Majorstuen skole;SP;Senterpartiet;0,92593;5846;2718;25
+03;Oslo;0301;Oslo;0502;Majorstuen skole;KRF;Kristelig Folkeparti;1,85185;5846;2718;50
+03;Oslo;0301;Oslo;0502;Majorstuen skole;MDG;Miljøpartiet De Grønne;10,66667;5846;2718;288
+03;Oslo;0301;Oslo;0502;Majorstuen skole;V;Venstre;11,88889;5846;2718;321
+03;Oslo;0301;Oslo;0502;Majorstuen skole;H;Høyre;37,92593;5846;2718;1024
+03;Oslo;0301;Oslo;0502;Majorstuen skole;FRP;Fremskrittspartiet;6,74074;5846;2718;182
+03;Oslo;0301;Oslo;0502;Majorstuen skole;AAN;Alliansen - Alternativ for Norge;0,07407;5846;2718;2
+03;Oslo;0301;Oslo;0502;Majorstuen skole;DEMN;Norgesdemokratene;0,25926;5846;2718;7
+03;Oslo;0301;Oslo;0502;Majorstuen skole;FNB;Folkets Parti;0,33333;5846;2718;9
+03;Oslo;0301;Oslo;0502;Majorstuen skole;INP;Industri- og Næringspartiet;1,22222;5846;2718;33
+03;Oslo;0301;Oslo;0502;Majorstuen skole;KRISTNE;Konservativt;0,48148;5846;2718;13
+03;Oslo;0301;Oslo;0502;Majorstuen skole;KYST;Kystpartiet;0,11111;5846;2718;3
+03;Oslo;0301;Oslo;0502;Majorstuen skole;LIBS;Liberalistene;0,2963;5846;2718;8
+03;Oslo;0301;Oslo;0502;Majorstuen skole;NKP;Norges Kommunistiske Parti;0,14815;5846;2718;4
+03;Oslo;0301;Oslo;0502;Majorstuen skole;PP;Pensjonistpartiet;0,51852;5846;2718;14
+03;Oslo;0301;Oslo;0502;Majorstuen skole;PS;Partiet Sentrum;1,03704;5846;2718;28
+03;Oslo;0301;Oslo;0502;Majorstuen skole;BLANKE;Blanke;0,66667;5846;2718;18
+03;Oslo;0301;Oslo;0502;Majorstuen skole;FSL;Folkestyret-listen;0,51852;5846;2718;14
+03;Oslo;0301;Oslo;0502;Majorstuen skole;PMB;Partiet Mot Bompenger;0,0;5846;2718;0
+03;Oslo;0301;Oslo;0502;Majorstuen skole;Andre;Andre;5,0;5846;2718;135
+03;Oslo;0301;Oslo;0502;Majorstuen skole;Andre2;Andre2;0,0;5846;2718;0
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;A;Arbeiderpartiet;12,30561;6779;1492;182
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;SV;SV - Sosialistisk Venstreparti;8,99256;6779;1492;133
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;RØDT;Rødt;3,92157;6779;1492;58
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;SP;Senterpartiet;1,0142;6779;1492;15
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;KRF;Kristelig Folkeparti;3,5835;6779;1492;53
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;MDG;Miljøpartiet De Grønne;9,12779;6779;1492;135
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;V;Venstre;13,45504;6779;1492;199
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;H;Høyre;38,60717;6779;1492;571
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;FRP;Fremskrittspartiet;4,32725;6779;1492;64
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;AAN;Alliansen - Alternativ for Norge;0,13523;6779;1492;2
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;DEMN;Norgesdemokratene;0,20284;6779;1492;3
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;FNB;Folkets Parti;0,27045;6779;1492;4
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;INP;Industri- og Næringspartiet;1,14943;6779;1492;17
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;KRISTNE;Konservativt;0,13523;6779;1492;2
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;KYST;Kystpartiet;0,06761;6779;1492;1
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;LIBS;Liberalistene;0,20284;6779;1492;3
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;NKP;Norges Kommunistiske Parti;0,27045;6779;1492;4
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;PP;Pensjonistpartiet;0,74375;6779;1492;11
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;PS;Partiet Sentrum;0,94659;6779;1492;14
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;BLANKE;Blanke;0,87897;6779;1492;13
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;FSL;Folkestyret-listen;0,54091;6779;1492;8
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;PMB;Partiet Mot Bompenger;0,0;6779;1492;0
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;Andre;Andre;4,66531;6779;1492;69
+03;Oslo;0301;Oslo;0503;Kristelig Gymnasium;Andre2;Andre2;0,0;6779;1492;0
+03;Oslo;0301;Oslo;0504;Uranienborg skole;A;Arbeiderpartiet;11,29693;8679;2949;331
+03;Oslo;0301;Oslo;0504;Uranienborg skole;SV;SV - Sosialistisk Venstreparti;5,87031;8679;2949;172
+03;Oslo;0301;Oslo;0504;Uranienborg skole;RØDT;Rødt;3,75427;8679;2949;110
+03;Oslo;0301;Oslo;0504;Uranienborg skole;SP;Senterpartiet;0,54608;8679;2949;16
+03;Oslo;0301;Oslo;0504;Uranienborg skole;KRF;Kristelig Folkeparti;1,43345;8679;2949;42
+03;Oslo;0301;Oslo;0504;Uranienborg skole;MDG;Miljøpartiet De Grønne;7,44027;8679;2949;218
+03;Oslo;0301;Oslo;0504;Uranienborg skole;V;Venstre;13,31058;8679;2949;390
+03;Oslo;0301;Oslo;0504;Uranienborg skole;H;Høyre;45,49488;8679;2949;1333
+03;Oslo;0301;Oslo;0504;Uranienborg skole;FRP;Fremskrittspartiet;6,5529;8679;2949;192
+03;Oslo;0301;Oslo;0504;Uranienborg skole;AAN;Alliansen - Alternativ for Norge;0,17065;8679;2949;5
+03;Oslo;0301;Oslo;0504;Uranienborg skole;DEMN;Norgesdemokratene;0,3413;8679;2949;10
+03;Oslo;0301;Oslo;0504;Uranienborg skole;FNB;Folkets Parti;0,3413;8679;2949;10
+03;Oslo;0301;Oslo;0504;Uranienborg skole;INP;Industri- og Næringspartiet;1,46758;8679;2949;43
+03;Oslo;0301;Oslo;0504;Uranienborg skole;KRISTNE;Konservativt;0,10239;8679;2949;3
+03;Oslo;0301;Oslo;0504;Uranienborg skole;KYST;Kystpartiet;0,03413;8679;2949;1
+03;Oslo;0301;Oslo;0504;Uranienborg skole;LIBS;Liberalistene;0,3413;8679;2949;10
+03;Oslo;0301;Oslo;0504;Uranienborg skole;NKP;Norges Kommunistiske Parti;0,10239;8679;2949;3
+03;Oslo;0301;Oslo;0504;Uranienborg skole;PP;Pensjonistpartiet;0,30717;8679;2949;9
+03;Oslo;0301;Oslo;0504;Uranienborg skole;PS;Partiet Sentrum;0,75085;8679;2949;22
+03;Oslo;0301;Oslo;0504;Uranienborg skole;BLANKE;Blanke;0,64846;8679;2949;19
+03;Oslo;0301;Oslo;0504;Uranienborg skole;FSL;Folkestyret-listen;0,20478;8679;2949;6
+03;Oslo;0301;Oslo;0504;Uranienborg skole;PMB;Partiet Mot Bompenger;0,13652;8679;2949;4
+03;Oslo;0301;Oslo;0504;Uranienborg skole;Andre;Andre;4,30034;8679;2949;126
+03;Oslo;0301;Oslo;0504;Uranienborg skole;Andre2;Andre2;0,0;8679;2949;0
+03;Oslo;0301;Oslo;0505;Bymuseet;A;Arbeiderpartiet;10,35714;6420;1690;174
+03;Oslo;0301;Oslo;0505;Bymuseet;SV;SV - Sosialistisk Venstreparti;5,05952;6420;1690;85
+03;Oslo;0301;Oslo;0505;Bymuseet;RØDT;Rødt;3,39286;6420;1690;57
+03;Oslo;0301;Oslo;0505;Bymuseet;SP;Senterpartiet;0,2381;6420;1690;4
+03;Oslo;0301;Oslo;0505;Bymuseet;KRF;Kristelig Folkeparti;1,19048;6420;1690;20
+03;Oslo;0301;Oslo;0505;Bymuseet;MDG;Miljøpartiet De Grønne;8,03571;6420;1690;135
+03;Oslo;0301;Oslo;0505;Bymuseet;V;Venstre;12,38095;6420;1690;208
+03;Oslo;0301;Oslo;0505;Bymuseet;H;Høyre;49,22619;6420;1690;827
+03;Oslo;0301;Oslo;0505;Bymuseet;FRP;Fremskrittspartiet;6,72619;6420;1690;113
+03;Oslo;0301;Oslo;0505;Bymuseet;AAN;Alliansen - Alternativ for Norge;0,0;6420;1690;0
+03;Oslo;0301;Oslo;0505;Bymuseet;DEMN;Norgesdemokratene;0,41667;6420;1690;7
+03;Oslo;0301;Oslo;0505;Bymuseet;FNB;Folkets Parti;0,17857;6420;1690;3
+03;Oslo;0301;Oslo;0505;Bymuseet;INP;Industri- og Næringspartiet;0,95238;6420;1690;16
+03;Oslo;0301;Oslo;0505;Bymuseet;KRISTNE;Konservativt;0,17857;6420;1690;3
+03;Oslo;0301;Oslo;0505;Bymuseet;KYST;Kystpartiet;0,05952;6420;1690;1
+03;Oslo;0301;Oslo;0505;Bymuseet;LIBS;Liberalistene;0,29762;6420;1690;5
+03;Oslo;0301;Oslo;0505;Bymuseet;NKP;Norges Kommunistiske Parti;0,17857;6420;1690;3
+03;Oslo;0301;Oslo;0505;Bymuseet;PP;Pensjonistpartiet;0,41667;6420;1690;7
+03;Oslo;0301;Oslo;0505;Bymuseet;PS;Partiet Sentrum;0,41667;6420;1690;7
+03;Oslo;0301;Oslo;0505;Bymuseet;BLANKE;Blanke;0,59524;6420;1690;10
+03;Oslo;0301;Oslo;0505;Bymuseet;FSL;Folkestyret-listen;0,2381;6420;1690;4
+03;Oslo;0301;Oslo;0505;Bymuseet;PMB;Partiet Mot Bompenger;0,05952;6420;1690;1
+03;Oslo;0301;Oslo;0505;Bymuseet;Andre;Andre;3,39286;6420;1690;57
+03;Oslo;0301;Oslo;0505;Bymuseet;Andre2;Andre2;0,0;6420;1690;0
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;A;Arbeiderpartiet;12,5;14127;3160;393
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;SV;SV - Sosialistisk Venstreparti;5,757;14127;3160;181
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;RØDT;Rødt;3,30789;14127;3160;104
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;SP;Senterpartiet;0,38168;14127;3160;12
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;KRF;Kristelig Folkeparti;1,17684;14127;3160;37
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;MDG;Miljøpartiet De Grønne;8,42875;14127;3160;265
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;V;Venstre;12,46819;14127;3160;392
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;H;Høyre;45,26081;14127;3160;1423
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;FRP;Fremskrittspartiet;7,41094;14127;3160;233
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;AAN;Alliansen - Alternativ for Norge;0,0;14127;3160;0
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;DEMN;Norgesdemokratene;0,09542;14127;3160;3
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;FNB;Folkets Parti;0,41349;14127;3160;13
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;INP;Industri- og Næringspartiet;1,14504;14127;3160;36
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;KRISTNE;Konservativt;0,19084;14127;3160;6
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;KYST;Kystpartiet;0,09542;14127;3160;3
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;LIBS;Liberalistene;0,19084;14127;3160;6
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;NKP;Norges Kommunistiske Parti;0,09542;14127;3160;3
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;PP;Pensjonistpartiet;0,15903;14127;3160;5
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;PS;Partiet Sentrum;0,66794;14127;3160;21
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;BLANKE;Blanke;0,50891;14127;3160;16
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;FSL;Folkestyret-listen;0,19084;14127;3160;6
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;PMB;Partiet Mot Bompenger;0,06361;14127;3160;2
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;Andre;Andre;3,30789;14127;3160;104
+03;Oslo;0301;Oslo;0506;Oslo Handelsgymnasium;Andre2;Andre2;0,0;14127;3160;0
+03;Oslo;0301;Oslo;0507;Bygdøy skole;A;Arbeiderpartiet;7,02899;2917;1387;97
+03;Oslo;0301;Oslo;0507;Bygdøy skole;SV;SV - Sosialistisk Venstreparti;2,6087;2917;1387;36
+03;Oslo;0301;Oslo;0507;Bygdøy skole;RØDT;Rødt;1,73913;2917;1387;24
+03;Oslo;0301;Oslo;0507;Bygdøy skole;SP;Senterpartiet;0,50725;2917;1387;7
+03;Oslo;0301;Oslo;0507;Bygdøy skole;KRF;Kristelig Folkeparti;1,88406;2917;1387;26
+03;Oslo;0301;Oslo;0507;Bygdøy skole;MDG;Miljøpartiet De Grønne;3,55072;2917;1387;49
+03;Oslo;0301;Oslo;0507;Bygdøy skole;V;Venstre;9,13043;2917;1387;126
+03;Oslo;0301;Oslo;0507;Bygdøy skole;H;Høyre;60,21739;2917;1387;831
+03;Oslo;0301;Oslo;0507;Bygdøy skole;FRP;Fremskrittspartiet;10,43478;2917;1387;144
+03;Oslo;0301;Oslo;0507;Bygdøy skole;AAN;Alliansen - Alternativ for Norge;0,07246;2917;1387;1
+03;Oslo;0301;Oslo;0507;Bygdøy skole;DEMN;Norgesdemokratene;0,07246;2917;1387;1
+03;Oslo;0301;Oslo;0507;Bygdøy skole;FNB;Folkets Parti;0,28986;2917;1387;4
+03;Oslo;0301;Oslo;0507;Bygdøy skole;INP;Industri- og Næringspartiet;1,23188;2917;1387;17
+03;Oslo;0301;Oslo;0507;Bygdøy skole;KRISTNE;Konservativt;0,07246;2917;1387;1
+03;Oslo;0301;Oslo;0507;Bygdøy skole;KYST;Kystpartiet;0,07246;2917;1387;1
+03;Oslo;0301;Oslo;0507;Bygdøy skole;LIBS;Liberalistene;0,14493;2917;1387;2
+03;Oslo;0301;Oslo;0507;Bygdøy skole;NKP;Norges Kommunistiske Parti;0,07246;2917;1387;1
+03;Oslo;0301;Oslo;0507;Bygdøy skole;PP;Pensjonistpartiet;0,21739;2917;1387;3
+03;Oslo;0301;Oslo;0507;Bygdøy skole;PS;Partiet Sentrum;0,14493;2917;1387;2
+03;Oslo;0301;Oslo;0507;Bygdøy skole;BLANKE;Blanke;0,50725;2917;1387;7
+03;Oslo;0301;Oslo;0507;Bygdøy skole;FSL;Folkestyret-listen;0,43478;2917;1387;6
+03;Oslo;0301;Oslo;0507;Bygdøy skole;PMB;Partiet Mot Bompenger;0,07246;2917;1387;1
+03;Oslo;0301;Oslo;0507;Bygdøy skole;Andre;Andre;2,89855;2917;1387;40
+03;Oslo;0301;Oslo;0507;Bygdøy skole;Andre2;Andre2;0,0;2917;1387;0
+03;Oslo;0301;Oslo;0601;Lysejordet skole;A;Arbeiderpartiet;13,47792;4352;1298;174
+03;Oslo;0301;Oslo;0601;Lysejordet skole;SV;SV - Sosialistisk Venstreparti;4,9574;4352;1298;64
+03;Oslo;0301;Oslo;0601;Lysejordet skole;RØDT;Rødt;2,40124;4352;1298;31
+03;Oslo;0301;Oslo;0601;Lysejordet skole;SP;Senterpartiet;0,69713;4352;1298;9
+03;Oslo;0301;Oslo;0601;Lysejordet skole;KRF;Kristelig Folkeparti;2,32378;4352;1298;30
+03;Oslo;0301;Oslo;0601;Lysejordet skole;MDG;Miljøpartiet De Grønne;5,73199;4352;1298;74
+03;Oslo;0301;Oslo;0601;Lysejordet skole;V;Venstre;13,01317;4352;1298;168
+03;Oslo;0301;Oslo;0601;Lysejordet skole;H;Høyre;48,02479;4352;1298;620
+03;Oslo;0301;Oslo;0601;Lysejordet skole;FRP;Fremskrittspartiet;5,49961;4352;1298;71
+03;Oslo;0301;Oslo;0601;Lysejordet skole;AAN;Alliansen - Alternativ for Norge;0,23238;4352;1298;3
+03;Oslo;0301;Oslo;0601;Lysejordet skole;DEMN;Norgesdemokratene;0,07746;4352;1298;1
+03;Oslo;0301;Oslo;0601;Lysejordet skole;FNB;Folkets Parti;0,23238;4352;1298;3
+03;Oslo;0301;Oslo;0601;Lysejordet skole;INP;Industri- og Næringspartiet;1,31681;4352;1298;17
+03;Oslo;0301;Oslo;0601;Lysejordet skole;KRISTNE;Konservativt;0,3873;4352;1298;5
+03;Oslo;0301;Oslo;0601;Lysejordet skole;KYST;Kystpartiet;0,15492;4352;1298;2
+03;Oslo;0301;Oslo;0601;Lysejordet skole;LIBS;Liberalistene;0,30984;4352;1298;4
+03;Oslo;0301;Oslo;0601;Lysejordet skole;NKP;Norges Kommunistiske Parti;0,07746;4352;1298;1
+03;Oslo;0301;Oslo;0601;Lysejordet skole;PP;Pensjonistpartiet;0,0;4352;1298;0
+03;Oslo;0301;Oslo;0601;Lysejordet skole;PS;Partiet Sentrum;0,61967;4352;1298;8
+03;Oslo;0301;Oslo;0601;Lysejordet skole;BLANKE;Blanke;0,54222;4352;1298;7
+03;Oslo;0301;Oslo;0601;Lysejordet skole;FSL;Folkestyret-listen;0,46476;4352;1298;6
+03;Oslo;0301;Oslo;0601;Lysejordet skole;PMB;Partiet Mot Bompenger;0,0;4352;1298;0
+03;Oslo;0301;Oslo;0601;Lysejordet skole;Andre;Andre;3,87297;4352;1298;50
+03;Oslo;0301;Oslo;0601;Lysejordet skole;Andre2;Andre2;0,0;4352;1298;0
+03;Oslo;0301;Oslo;0602;Øraker skole;A;Arbeiderpartiet;12,33806;6261;1626;200
+03;Oslo;0301;Oslo;0602;Øraker skole;SV;SV - Sosialistisk Venstreparti;3,88649;6261;1626;63
+03;Oslo;0301;Oslo;0602;Øraker skole;RØDT;Rødt;1,9124;6261;1626;31
+03;Oslo;0301;Oslo;0602;Øraker skole;SP;Senterpartiet;0,43183;6261;1626;7
+03;Oslo;0301;Oslo;0602;Øraker skole;KRF;Kristelig Folkeparti;1,97409;6261;1626;32
+03;Oslo;0301;Oslo;0602;Øraker skole;MDG;Miljøpartiet De Grønne;6,3541;6261;1626;103
+03;Oslo;0301;Oslo;0602;Øraker skole;V;Venstre;12,64651;6261;1626;205
+03;Oslo;0301;Oslo;0602;Øraker skole;H;Høyre;50,9562;6261;1626;826
+03;Oslo;0301;Oslo;0602;Øraker skole;FRP;Fremskrittspartiet;5,42875;6261;1626;88
+03;Oslo;0301;Oslo;0602;Øraker skole;AAN;Alliansen - Alternativ for Norge;0,18507;6261;1626;3
+03;Oslo;0301;Oslo;0602;Øraker skole;DEMN;Norgesdemokratene;0,24676;6261;1626;4
+03;Oslo;0301;Oslo;0602;Øraker skole;FNB;Folkets Parti;0,80197;6261;1626;13
+03;Oslo;0301;Oslo;0602;Øraker skole;INP;Industri- og Næringspartiet;1,04874;6261;1626;17
+03;Oslo;0301;Oslo;0602;Øraker skole;KRISTNE;Konservativt;0,24676;6261;1626;4
+03;Oslo;0301;Oslo;0602;Øraker skole;KYST;Kystpartiet;0,12338;6261;1626;2
+03;Oslo;0301;Oslo;0602;Øraker skole;LIBS;Liberalistene;0,18507;6261;1626;3
+03;Oslo;0301;Oslo;0602;Øraker skole;NKP;Norges Kommunistiske Parti;0,06169;6261;1626;1
+03;Oslo;0301;Oslo;0602;Øraker skole;PP;Pensjonistpartiet;0,18507;6261;1626;3
+03;Oslo;0301;Oslo;0602;Øraker skole;PS;Partiet Sentrum;0,49352;6261;1626;8
+03;Oslo;0301;Oslo;0602;Øraker skole;BLANKE;Blanke;0,30845;6261;1626;5
+03;Oslo;0301;Oslo;0602;Øraker skole;FSL;Folkestyret-listen;0,30845;6261;1626;5
+03;Oslo;0301;Oslo;0602;Øraker skole;PMB;Partiet Mot Bompenger;0,18507;6261;1626;3
+03;Oslo;0301;Oslo;0602;Øraker skole;Andre;Andre;4,07156;6261;1626;66
+03;Oslo;0301;Oslo;0602;Øraker skole;Andre2;Andre2;0,0;6261;1626;0
+03;Oslo;0301;Oslo;0603;Bestum skole;A;Arbeiderpartiet;11,45643;4783;1651;188
+03;Oslo;0301;Oslo;0603;Bestum skole;SV;SV - Sosialistisk Venstreparti;3,65631;4783;1651;60
+03;Oslo;0301;Oslo;0603;Bestum skole;RØDT;Rødt;1,64534;4783;1651;27
+03;Oslo;0301;Oslo;0603;Bestum skole;SP;Senterpartiet;0,48751;4783;1651;8
+03;Oslo;0301;Oslo;0603;Bestum skole;KRF;Kristelig Folkeparti;1,15783;4783;1651;19
+03;Oslo;0301;Oslo;0603;Bestum skole;MDG;Miljøpartiet De Grønne;6,58135;4783;1651;108
+03;Oslo;0301;Oslo;0603;Bestum skole;V;Venstre;13,95491;4783;1651;229
+03;Oslo;0301;Oslo;0603;Bestum skole;H;Høyre;53,19927;4783;1651;873
+03;Oslo;0301;Oslo;0603;Bestum skole;FRP;Fremskrittspartiet;4,63132;4783;1651;76
+03;Oslo;0301;Oslo;0603;Bestum skole;AAN;Alliansen - Alternativ for Norge;0,0;4783;1651;0
+03;Oslo;0301;Oslo;0603;Bestum skole;DEMN;Norgesdemokratene;0,24375;4783;1651;4
+03;Oslo;0301;Oslo;0603;Bestum skole;FNB;Folkets Parti;0,30469;4783;1651;5
+03;Oslo;0301;Oslo;0603;Bestum skole;INP;Industri- og Næringspartiet;1,03595;4783;1651;17
+03;Oslo;0301;Oslo;0603;Bestum skole;KRISTNE;Konservativt;0,06094;4783;1651;1
+03;Oslo;0301;Oslo;0603;Bestum skole;KYST;Kystpartiet;0,12188;4783;1651;2
+03;Oslo;0301;Oslo;0603;Bestum skole;LIBS;Liberalistene;0,24375;4783;1651;4
+03;Oslo;0301;Oslo;0603;Bestum skole;NKP;Norges Kommunistiske Parti;0,06094;4783;1651;1
+03;Oslo;0301;Oslo;0603;Bestum skole;PP;Pensjonistpartiet;0,12188;4783;1651;2
+03;Oslo;0301;Oslo;0603;Bestum skole;PS;Partiet Sentrum;0,91408;4783;1651;15
+03;Oslo;0301;Oslo;0603;Bestum skole;BLANKE;Blanke;0,60938;4783;1651;10
+03;Oslo;0301;Oslo;0603;Bestum skole;FSL;Folkestyret-listen;0,06094;4783;1651;1
+03;Oslo;0301;Oslo;0603;Bestum skole;PMB;Partiet Mot Bompenger;0,06094;4783;1651;1
+03;Oslo;0301;Oslo;0603;Bestum skole;Andre;Andre;3,22974;4783;1651;53
+03;Oslo;0301;Oslo;0603;Bestum skole;Andre2;Andre2;0,0;4783;1651;0
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;A;Arbeiderpartiet;12,44726;3396;955;118
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;SV;SV - Sosialistisk Venstreparti;4,53586;3396;955;43
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;RØDT;Rødt;2,1097;3396;955;20
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;SP;Senterpartiet;0,31646;3396;955;3
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;KRF;Kristelig Folkeparti;2,53165;3396;955;24
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;MDG;Miljøpartiet De Grønne;6,96203;3396;955;66
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;V;Venstre;12,97468;3396;955;123
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;H;Høyre;50,0;3396;955;474
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;FRP;Fremskrittspartiet;4,32489;3396;955;41
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;AAN;Alliansen - Alternativ for Norge;0,10549;3396;955;1
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;DEMN;Norgesdemokratene;0,42194;3396;955;4
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;FNB;Folkets Parti;0,52743;3396;955;5
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;INP;Industri- og Næringspartiet;1,16034;3396;955;11
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;KRISTNE;Konservativt;0,0;3396;955;0
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;KYST;Kystpartiet;0,0;3396;955;0
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;LIBS;Liberalistene;0,10549;3396;955;1
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;NKP;Norges Kommunistiske Parti;0,0;3396;955;0
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;PP;Pensjonistpartiet;0,21097;3396;955;2
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;PS;Partiet Sentrum;0,7384;3396;955;7
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;BLANKE;Blanke;0,7384;3396;955;7
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;FSL;Folkestyret-listen;0,52743;3396;955;5
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;PMB;Partiet Mot Bompenger;0,0;3396;955;0
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;Andre;Andre;3,79747;3396;955;36
+03;Oslo;0301;Oslo;0604;Ullern videregående skole;Andre2;Andre2;0,0;3396;955;0
+03;Oslo;0301;Oslo;0605;Smestad skole;A;Arbeiderpartiet;12,36034;3834;1437;177
+03;Oslo;0301;Oslo;0605;Smestad skole;SV;SV - Sosialistisk Venstreparti;4,18994;3834;1437;60
+03;Oslo;0301;Oslo;0605;Smestad skole;RØDT;Rødt;2,02514;3834;1437;29
+03;Oslo;0301;Oslo;0605;Smestad skole;SP;Senterpartiet;0,55866;3834;1437;8
+03;Oslo;0301;Oslo;0605;Smestad skole;KRF;Kristelig Folkeparti;1,32682;3834;1437;19
+03;Oslo;0301;Oslo;0605;Smestad skole;MDG;Miljøpartiet De Grønne;6,84358;3834;1437;98
+03;Oslo;0301;Oslo;0605;Smestad skole;V;Venstre;15,85196;3834;1437;227
+03;Oslo;0301;Oslo;0605;Smestad skole;H;Høyre;46,71788;3834;1437;669
+03;Oslo;0301;Oslo;0605;Smestad skole;FRP;Fremskrittspartiet;6,49441;3834;1437;93
+03;Oslo;0301;Oslo;0605;Smestad skole;AAN;Alliansen - Alternativ for Norge;0,0;3834;1437;0
+03;Oslo;0301;Oslo;0605;Smestad skole;DEMN;Norgesdemokratene;0,13966;3834;1437;2
+03;Oslo;0301;Oslo;0605;Smestad skole;FNB;Folkets Parti;0,0;3834;1437;0
+03;Oslo;0301;Oslo;0605;Smestad skole;INP;Industri- og Næringspartiet;1,60615;3834;1437;23
+03;Oslo;0301;Oslo;0605;Smestad skole;KRISTNE;Konservativt;0,41899;3834;1437;6
+03;Oslo;0301;Oslo;0605;Smestad skole;KYST;Kystpartiet;0,2095;3834;1437;3
+03;Oslo;0301;Oslo;0605;Smestad skole;LIBS;Liberalistene;0,06983;3834;1437;1
+03;Oslo;0301;Oslo;0605;Smestad skole;NKP;Norges Kommunistiske Parti;0,0;3834;1437;0
+03;Oslo;0301;Oslo;0605;Smestad skole;PP;Pensjonistpartiet;0,34916;3834;1437;5
+03;Oslo;0301;Oslo;0605;Smestad skole;PS;Partiet Sentrum;0,41899;3834;1437;6
+03;Oslo;0301;Oslo;0605;Smestad skole;BLANKE;Blanke;0,34916;3834;1437;5
+03;Oslo;0301;Oslo;0605;Smestad skole;FSL;Folkestyret-listen;0,27933;3834;1437;4
+03;Oslo;0301;Oslo;0605;Smestad skole;PMB;Partiet Mot Bompenger;0,13966;3834;1437;2
+03;Oslo;0301;Oslo;0605;Smestad skole;Andre;Andre;3,63128;3834;1437;52
+03;Oslo;0301;Oslo;0605;Smestad skole;Andre2;Andre2;0,0;3834;1437;0
+03;Oslo;0301;Oslo;0606;Skøyen skole;A;Arbeiderpartiet;13,21951;5217;2058;271
+03;Oslo;0301;Oslo;0606;Skøyen skole;SV;SV - Sosialistisk Venstreparti;6,78049;5217;2058;139
+03;Oslo;0301;Oslo;0606;Skøyen skole;RØDT;Rødt;2,2439;5217;2058;46
+03;Oslo;0301;Oslo;0606;Skøyen skole;SP;Senterpartiet;0,63415;5217;2058;13
+03;Oslo;0301;Oslo;0606;Skøyen skole;KRF;Kristelig Folkeparti;1,46341;5217;2058;30
+03;Oslo;0301;Oslo;0606;Skøyen skole;MDG;Miljøpartiet De Grønne;8,68293;5217;2058;178
+03;Oslo;0301;Oslo;0606;Skøyen skole;V;Venstre;16,97561;5217;2058;348
+03;Oslo;0301;Oslo;0606;Skøyen skole;H;Høyre;41,5122;5217;2058;851
+03;Oslo;0301;Oslo;0606;Skøyen skole;FRP;Fremskrittspartiet;5,02439;5217;2058;103
+03;Oslo;0301;Oslo;0606;Skøyen skole;AAN;Alliansen - Alternativ for Norge;0,09756;5217;2058;2
+03;Oslo;0301;Oslo;0606;Skøyen skole;DEMN;Norgesdemokratene;0,0;5217;2058;0
+03;Oslo;0301;Oslo;0606;Skøyen skole;FNB;Folkets Parti;0,53659;5217;2058;11
+03;Oslo;0301;Oslo;0606;Skøyen skole;INP;Industri- og Næringspartiet;0,92683;5217;2058;19
+03;Oslo;0301;Oslo;0606;Skøyen skole;KRISTNE;Konservativt;0,09756;5217;2058;2
+03;Oslo;0301;Oslo;0606;Skøyen skole;KYST;Kystpartiet;0,04878;5217;2058;1
+03;Oslo;0301;Oslo;0606;Skøyen skole;LIBS;Liberalistene;0,09756;5217;2058;2
+03;Oslo;0301;Oslo;0606;Skøyen skole;NKP;Norges Kommunistiske Parti;0,04878;5217;2058;1
+03;Oslo;0301;Oslo;0606;Skøyen skole;PP;Pensjonistpartiet;0,39024;5217;2058;8
+03;Oslo;0301;Oslo;0606;Skøyen skole;PS;Partiet Sentrum;0,58537;5217;2058;12
+03;Oslo;0301;Oslo;0606;Skøyen skole;BLANKE;Blanke;0,39024;5217;2058;8
+03;Oslo;0301;Oslo;0606;Skøyen skole;FSL;Folkestyret-listen;0,58537;5217;2058;12
+03;Oslo;0301;Oslo;0606;Skøyen skole;PMB;Partiet Mot Bompenger;0,04878;5217;2058;1
+03;Oslo;0301;Oslo;0606;Skøyen skole;Andre;Andre;3,46341;5217;2058;71
+03;Oslo;0301;Oslo;0606;Skøyen skole;Andre2;Andre2;0,0;5217;2058;0
+03;Oslo;0301;Oslo;0701;Vinderen skole;A;Arbeiderpartiet;11,95462;3374;1149;137
+03;Oslo;0301;Oslo;0701;Vinderen skole;SV;SV - Sosialistisk Venstreparti;7,15532;3374;1149;82
+03;Oslo;0301;Oslo;0701;Vinderen skole;RØDT;Rødt;2,6178;3374;1149;30
+03;Oslo;0301;Oslo;0701;Vinderen skole;SP;Senterpartiet;0,61082;3374;1149;7
+03;Oslo;0301;Oslo;0701;Vinderen skole;KRF;Kristelig Folkeparti;2,44328;3374;1149;28
+03;Oslo;0301;Oslo;0701;Vinderen skole;MDG;Miljøpartiet De Grønne;9,24956;3374;1149;106
+03;Oslo;0301;Oslo;0701;Vinderen skole;V;Venstre;15,27051;3374;1149;175
+03;Oslo;0301;Oslo;0701;Vinderen skole;H;Høyre;43,4555;3374;1149;498
+03;Oslo;0301;Oslo;0701;Vinderen skole;FRP;Fremskrittspartiet;4,62478;3374;1149;53
+03;Oslo;0301;Oslo;0701;Vinderen skole;AAN;Alliansen - Alternativ for Norge;0,0;3374;1149;0
+03;Oslo;0301;Oslo;0701;Vinderen skole;DEMN;Norgesdemokratene;0,26178;3374;1149;3
+03;Oslo;0301;Oslo;0701;Vinderen skole;FNB;Folkets Parti;0,26178;3374;1149;3
+03;Oslo;0301;Oslo;0701;Vinderen skole;INP;Industri- og Næringspartiet;0,78534;3374;1149;9
+03;Oslo;0301;Oslo;0701;Vinderen skole;KRISTNE;Konservativt;0,26178;3374;1149;3
+03;Oslo;0301;Oslo;0701;Vinderen skole;KYST;Kystpartiet;0,0;3374;1149;0
+03;Oslo;0301;Oslo;0701;Vinderen skole;LIBS;Liberalistene;0,08726;3374;1149;1
+03;Oslo;0301;Oslo;0701;Vinderen skole;NKP;Norges Kommunistiske Parti;0,17452;3374;1149;2
+03;Oslo;0301;Oslo;0701;Vinderen skole;PP;Pensjonistpartiet;0,0;3374;1149;0
+03;Oslo;0301;Oslo;0701;Vinderen skole;PS;Partiet Sentrum;0,61082;3374;1149;7
+03;Oslo;0301;Oslo;0701;Vinderen skole;BLANKE;Blanke;0,26178;3374;1149;3
+03;Oslo;0301;Oslo;0701;Vinderen skole;FSL;Folkestyret-listen;0,08726;3374;1149;1
+03;Oslo;0301;Oslo;0701;Vinderen skole;PMB;Partiet Mot Bompenger;0,08726;3374;1149;1
+03;Oslo;0301;Oslo;0701;Vinderen skole;Andre;Andre;2,6178;3374;1149;30
+03;Oslo;0301;Oslo;0701;Vinderen skole;Andre2;Andre2;0,0;3374;1149;0
+03;Oslo;0301;Oslo;0702;Ris skole;A;Arbeiderpartiet;10,12774;5754;1100;111
+03;Oslo;0301;Oslo;0702;Ris skole;SV;SV - Sosialistisk Venstreparti;3,74088;5754;1100;41
+03;Oslo;0301;Oslo;0702;Ris skole;RØDT;Rødt;1,91606;5754;1100;21
+03;Oslo;0301;Oslo;0702;Ris skole;SP;Senterpartiet;0,72993;5754;1100;8
+03;Oslo;0301;Oslo;0702;Ris skole;KRF;Kristelig Folkeparti;1,36861;5754;1100;15
+03;Oslo;0301;Oslo;0702;Ris skole;MDG;Miljøpartiet De Grønne;7,75547;5754;1100;85
+03;Oslo;0301;Oslo;0702;Ris skole;V;Venstre;16,05839;5754;1100;176
+03;Oslo;0301;Oslo;0702;Ris skole;H;Høyre;50,09124;5754;1100;549
+03;Oslo;0301;Oslo;0702;Ris skole;FRP;Fremskrittspartiet;5,74818;5754;1100;63
+03;Oslo;0301;Oslo;0702;Ris skole;AAN;Alliansen - Alternativ for Norge;0,0;5754;1100;0
+03;Oslo;0301;Oslo;0702;Ris skole;DEMN;Norgesdemokratene;0,09124;5754;1100;1
+03;Oslo;0301;Oslo;0702;Ris skole;FNB;Folkets Parti;0,0;5754;1100;0
+03;Oslo;0301;Oslo;0702;Ris skole;INP;Industri- og Næringspartiet;0,63869;5754;1100;7
+03;Oslo;0301;Oslo;0702;Ris skole;KRISTNE;Konservativt;0,09124;5754;1100;1
+03;Oslo;0301;Oslo;0702;Ris skole;KYST;Kystpartiet;0,09124;5754;1100;1
+03;Oslo;0301;Oslo;0702;Ris skole;LIBS;Liberalistene;0,09124;5754;1100;1
+03;Oslo;0301;Oslo;0702;Ris skole;NKP;Norges Kommunistiske Parti;0,18248;5754;1100;2
+03;Oslo;0301;Oslo;0702;Ris skole;PP;Pensjonistpartiet;0,27372;5754;1100;3
+03;Oslo;0301;Oslo;0702;Ris skole;PS;Partiet Sentrum;0,82117;5754;1100;9
+03;Oslo;0301;Oslo;0702;Ris skole;BLANKE;Blanke;0,36496;5754;1100;4
+03;Oslo;0301;Oslo;0702;Ris skole;FSL;Folkestyret-listen;0,18248;5754;1100;2
+03;Oslo;0301;Oslo;0702;Ris skole;PMB;Partiet Mot Bompenger;0,0;5754;1100;0
+03;Oslo;0301;Oslo;0702;Ris skole;Andre;Andre;2,4635;5754;1100;27
+03;Oslo;0301;Oslo;0702;Ris skole;Andre2;Andre2;0,0;5754;1100;0
+03;Oslo;0301;Oslo;0703;Svendstuen skole;A;Arbeiderpartiet;6,73989;8639;2005;135
+03;Oslo;0301;Oslo;0703;Svendstuen skole;SV;SV - Sosialistisk Venstreparti;2,74588;8639;2005;55
+03;Oslo;0301;Oslo;0703;Svendstuen skole;RØDT;Rødt;1,64753;8639;2005;33
+03;Oslo;0301;Oslo;0703;Svendstuen skole;SP;Senterpartiet;0,44933;8639;2005;9
+03;Oslo;0301;Oslo;0703;Svendstuen skole;KRF;Kristelig Folkeparti;1,49775;8639;2005;30
+03;Oslo;0301;Oslo;0703;Svendstuen skole;MDG;Miljøpartiet De Grønne;5,19221;8639;2005;104
+03;Oslo;0301;Oslo;0703;Svendstuen skole;V;Venstre;11,98203;8639;2005;240
+03;Oslo;0301;Oslo;0703;Svendstuen skole;H;Høyre;59,06141;8639;2005;1183
+03;Oslo;0301;Oslo;0703;Svendstuen skole;FRP;Fremskrittspartiet;7,68847;8639;2005;154
+03;Oslo;0301;Oslo;0703;Svendstuen skole;AAN;Alliansen - Alternativ for Norge;0,14978;8639;2005;3
+03;Oslo;0301;Oslo;0703;Svendstuen skole;DEMN;Norgesdemokratene;0,34948;8639;2005;7
+03;Oslo;0301;Oslo;0703;Svendstuen skole;FNB;Folkets Parti;0,09985;8639;2005;2
+03;Oslo;0301;Oslo;0703;Svendstuen skole;INP;Industri- og Næringspartiet;1,09835;8639;2005;22
+03;Oslo;0301;Oslo;0703;Svendstuen skole;KRISTNE;Konservativt;0,09985;8639;2005;2
+03;Oslo;0301;Oslo;0703;Svendstuen skole;KYST;Kystpartiet;0,14978;8639;2005;3
+03;Oslo;0301;Oslo;0703;Svendstuen skole;LIBS;Liberalistene;0,09985;8639;2005;2
+03;Oslo;0301;Oslo;0703;Svendstuen skole;NKP;Norges Kommunistiske Parti;0,09985;8639;2005;2
+03;Oslo;0301;Oslo;0703;Svendstuen skole;PP;Pensjonistpartiet;0,1997;8639;2005;4
+03;Oslo;0301;Oslo;0703;Svendstuen skole;PS;Partiet Sentrum;0,34948;8639;2005;7
+03;Oslo;0301;Oslo;0703;Svendstuen skole;BLANKE;Blanke;0,09985;8639;2005;2
+03;Oslo;0301;Oslo;0703;Svendstuen skole;FSL;Folkestyret-listen;0,1997;8639;2005;4
+03;Oslo;0301;Oslo;0703;Svendstuen skole;PMB;Partiet Mot Bompenger;0,09985;8639;2005;2
+03;Oslo;0301;Oslo;0703;Svendstuen skole;Andre;Andre;2,99551;8639;2005;60
+03;Oslo;0301;Oslo;0703;Svendstuen skole;Andre2;Andre2;0,0;8639;2005;0
+03;Oslo;0301;Oslo;0704;Grindbakken skole;A;Arbeiderpartiet;11,7893;3867;1199;141
+03;Oslo;0301;Oslo;0704;Grindbakken skole;SV;SV - Sosialistisk Venstreparti;3,67893;3867;1199;44
+03;Oslo;0301;Oslo;0704;Grindbakken skole;RØDT;Rødt;2,34114;3867;1199;28
+03;Oslo;0301;Oslo;0704;Grindbakken skole;SP;Senterpartiet;0,6689;3867;1199;8
+03;Oslo;0301;Oslo;0704;Grindbakken skole;KRF;Kristelig Folkeparti;2,84281;3867;1199;34
+03;Oslo;0301;Oslo;0704;Grindbakken skole;MDG;Miljøpartiet De Grønne;5,18395;3867;1199;62
+03;Oslo;0301;Oslo;0704;Grindbakken skole;V;Venstre;9,94983;3867;1199;119
+03;Oslo;0301;Oslo;0704;Grindbakken skole;H;Høyre;52,34114;3867;1199;626
+03;Oslo;0301;Oslo;0704;Grindbakken skole;FRP;Fremskrittspartiet;8,11037;3867;1199;97
+03;Oslo;0301;Oslo;0704;Grindbakken skole;AAN;Alliansen - Alternativ for Norge;0,0;3867;1199;0
+03;Oslo;0301;Oslo;0704;Grindbakken skole;DEMN;Norgesdemokratene;0,41806;3867;1199;5
+03;Oslo;0301;Oslo;0704;Grindbakken skole;FNB;Folkets Parti;0,41806;3867;1199;5
+03;Oslo;0301;Oslo;0704;Grindbakken skole;INP;Industri- og Næringspartiet;1,00334;3867;1199;12
+03;Oslo;0301;Oslo;0704;Grindbakken skole;KRISTNE;Konservativt;0,0;3867;1199;0
+03;Oslo;0301;Oslo;0704;Grindbakken skole;KYST;Kystpartiet;0,0;3867;1199;0
+03;Oslo;0301;Oslo;0704;Grindbakken skole;LIBS;Liberalistene;0,0;3867;1199;0
+03;Oslo;0301;Oslo;0704;Grindbakken skole;NKP;Norges Kommunistiske Parti;0,0;3867;1199;0
+03;Oslo;0301;Oslo;0704;Grindbakken skole;PP;Pensjonistpartiet;0,16722;3867;1199;2
+03;Oslo;0301;Oslo;0704;Grindbakken skole;PS;Partiet Sentrum;0,33445;3867;1199;4
+03;Oslo;0301;Oslo;0704;Grindbakken skole;BLANKE;Blanke;0,25084;3867;1199;3
+03;Oslo;0301;Oslo;0704;Grindbakken skole;FSL;Folkestyret-listen;0,50167;3867;1199;6
+03;Oslo;0301;Oslo;0704;Grindbakken skole;PMB;Partiet Mot Bompenger;0,25084;3867;1199;3
+03;Oslo;0301;Oslo;0704;Grindbakken skole;Andre;Andre;3,09365;3867;1199;37
+03;Oslo;0301;Oslo;0704;Grindbakken skole;Andre2;Andre2;0,0;3867;1199;0
+03;Oslo;0301;Oslo;0705;Bogstad skole;A;Arbeiderpartiet;14,241;4049;1279;182
+03;Oslo;0301;Oslo;0705;Bogstad skole;SV;SV - Sosialistisk Venstreparti;5,16432;4049;1279;66
+03;Oslo;0301;Oslo;0705;Bogstad skole;RØDT;Rødt;1,17371;4049;1279;15
+03;Oslo;0301;Oslo;0705;Bogstad skole;SP;Senterpartiet;0,39124;4049;1279;5
+03;Oslo;0301;Oslo;0705;Bogstad skole;KRF;Kristelig Folkeparti;2,50391;4049;1279;32
+03;Oslo;0301;Oslo;0705;Bogstad skole;MDG;Miljøpartiet De Grønne;7,82473;4049;1279;100
+03;Oslo;0301;Oslo;0705;Bogstad skole;V;Venstre;13,53678;4049;1279;173
+03;Oslo;0301;Oslo;0705;Bogstad skole;H;Høyre;45,77465;4049;1279;585
+03;Oslo;0301;Oslo;0705;Bogstad skole;FRP;Fremskrittspartiet;5,08607;4049;1279;65
+03;Oslo;0301;Oslo;0705;Bogstad skole;AAN;Alliansen - Alternativ for Norge;0,07825;4049;1279;1
+03;Oslo;0301;Oslo;0705;Bogstad skole;DEMN;Norgesdemokratene;0,07825;4049;1279;1
+03;Oslo;0301;Oslo;0705;Bogstad skole;FNB;Folkets Parti;0,54773;4049;1279;7
+03;Oslo;0301;Oslo;0705;Bogstad skole;INP;Industri- og Næringspartiet;1,3302;4049;1279;17
+03;Oslo;0301;Oslo;0705;Bogstad skole;KRISTNE;Konservativt;0,07825;4049;1279;1
+03;Oslo;0301;Oslo;0705;Bogstad skole;KYST;Kystpartiet;0,07825;4049;1279;1
+03;Oslo;0301;Oslo;0705;Bogstad skole;LIBS;Liberalistene;0,15649;4049;1279;2
+03;Oslo;0301;Oslo;0705;Bogstad skole;NKP;Norges Kommunistiske Parti;0,0;4049;1279;0
+03;Oslo;0301;Oslo;0705;Bogstad skole;PP;Pensjonistpartiet;0,15649;4049;1279;2
+03;Oslo;0301;Oslo;0705;Bogstad skole;PS;Partiet Sentrum;1,25196;4049;1279;16
+03;Oslo;0301;Oslo;0705;Bogstad skole;BLANKE;Blanke;0,07825;4049;1279;1
+03;Oslo;0301;Oslo;0705;Bogstad skole;FSL;Folkestyret-listen;0,54773;4049;1279;7
+03;Oslo;0301;Oslo;0705;Bogstad skole;PMB;Partiet Mot Bompenger;0,0;4049;1279;0
+03;Oslo;0301;Oslo;0705;Bogstad skole;Andre;Andre;4,3036;4049;1279;55
+03;Oslo;0301;Oslo;0705;Bogstad skole;Andre2;Andre2;0,0;4049;1279;0
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;A;Arbeiderpartiet;16,95147;6577;1480;248
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;SV;SV - Sosialistisk Venstreparti;9,56938;6577;1480;140
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;RØDT;Rødt;4,23787;6577;1480;62
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;SP;Senterpartiet;0,82023;6577;1480;12
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;KRF;Kristelig Folkeparti;2,39234;6577;1480;35
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;MDG;Miljøpartiet De Grønne;11,48325;6577;1480;168
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;V;Venstre;10,86808;6577;1480;159
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;H;Høyre;32,8093;6577;1480;480
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;FRP;Fremskrittspartiet;6,63021;6577;1480;97
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;AAN;Alliansen - Alternativ for Norge;0,13671;6577;1480;2
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;DEMN;Norgesdemokratene;0,06835;6577;1480;1
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;FNB;Folkets Parti;0,06835;6577;1480;1
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;INP;Industri- og Næringspartiet;1,2987;6577;1480;19
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;KRISTNE;Konservativt;0,20506;6577;1480;3
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;KYST;Kystpartiet;0,06835;6577;1480;1
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;LIBS;Liberalistene;0,13671;6577;1480;2
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;NKP;Norges Kommunistiske Parti;0,0;6577;1480;0
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;PP;Pensjonistpartiet;0,27341;6577;1480;4
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;PS;Partiet Sentrum;1,02529;6577;1480;15
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;BLANKE;Blanke;1,162;6577;1480;17
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;FSL;Folkestyret-listen;0,61517;6577;1480;9
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;PMB;Partiet Mot Bompenger;0,34176;6577;1480;5
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;Andre;Andre;4,23787;6577;1480;62
+03;Oslo;0301;Oslo;0706;Hovseter idrettshall;Andre2;Andre2;0,0;6577;1480;0
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;A;Arbeiderpartiet;14,40144;6784;2238;320
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;SV;SV - Sosialistisk Venstreparti;5,53555;6784;2238;123
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;RØDT;Rødt;2,9703;6784;2238;66
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;SP;Senterpartiet;0,85509;6784;2238;19
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;KRF;Kristelig Folkeparti;1,30513;6784;2238;29
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;MDG;Miljøpartiet De Grønne;8,68587;6784;2238;193
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;V;Venstre;14,71647;6784;2238;327
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;H;Høyre;42,9793;6784;2238;955
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;FRP;Fremskrittspartiet;5,22052;6784;2238;116
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;AAN;Alliansen - Alternativ for Norge;0,045;6784;2238;1
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;DEMN;Norgesdemokratene;0,40504;6784;2238;9
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;FNB;Folkets Parti;0,09001;6784;2238;2
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;INP;Industri- og Næringspartiet;0,9901;6784;2238;22
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;KRISTNE;Konservativt;0,31503;6784;2238;7
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;KYST;Kystpartiet;0,045;6784;2238;1
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;LIBS;Liberalistene;0,13501;6784;2238;3
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;NKP;Norges Kommunistiske Parti;0,09001;6784;2238;2
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;PP;Pensjonistpartiet;0,13501;6784;2238;3
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;PS;Partiet Sentrum;0,76508;6784;2238;17
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;BLANKE;Blanke;0,72007;6784;2238;16
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;FSL;Folkestyret-listen;0,31503;6784;2238;7
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;PMB;Partiet Mot Bompenger;0,0;6784;2238;0
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;Andre;Andre;3,33033;6784;2238;74
+03;Oslo;0301;Oslo;0707;Persbråten videregående skole;Andre2;Andre2;0,0;6784;2238;0
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;A;Arbeiderpartiet;17,2524;561;316;54
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;SV;SV - Sosialistisk Venstreparti;6,70927;561;316;21
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;RØDT;Rødt;3,83387;561;316;12
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;SP;Senterpartiet;2,55591;561;316;8
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;KRF;Kristelig Folkeparti;2,23642;561;316;7
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;MDG;Miljøpartiet De Grønne;4,15335;561;316;13
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;V;Venstre;11,82109;561;316;37
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;H;Høyre;33,22684;561;316;104
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;FRP;Fremskrittspartiet;9,90415;561;316;31
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;AAN;Alliansen - Alternativ for Norge;0,0;561;316;0
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;DEMN;Norgesdemokratene;0,31949;561;316;1
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;FNB;Folkets Parti;0,63898;561;316;2
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;INP;Industri- og Næringspartiet;1,91693;561;316;6
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;KRISTNE;Konservativt;0,0;561;316;0
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;KYST;Kystpartiet;0,0;561;316;0
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;LIBS;Liberalistene;0,0;561;316;0
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;NKP;Norges Kommunistiske Parti;0,0;561;316;0
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;PP;Pensjonistpartiet;0,95847;561;316;3
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;PS;Partiet Sentrum;2,55591;561;316;8
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;BLANKE;Blanke;0,95847;561;316;3
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;FSL;Folkestyret-listen;1,91693;561;316;6
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;PMB;Partiet Mot Bompenger;0,0;561;316;0
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;Andre;Andre;8,30671;561;316;26
+03;Oslo;0301;Oslo;1701;Sørkedalen skole;Andre2;Andre2;0,0;561;316;0
+03;Oslo;0301;Oslo;0801;Ullevål skole;A;Arbeiderpartiet;17,42498;4725;2077;360
+03;Oslo;0301;Oslo;0801;Ullevål skole;SV;SV - Sosialistisk Venstreparti;9,92256;4725;2077;205
+03;Oslo;0301;Oslo;0801;Ullevål skole;RØDT;Rødt;3,82381;4725;2077;79
+03;Oslo;0301;Oslo;0801;Ullevål skole;SP;Senterpartiet;0,43562;4725;2077;9
+03;Oslo;0301;Oslo;0801;Ullevål skole;KRF;Kristelig Folkeparti;2,08132;4725;2077;43
+03;Oslo;0301;Oslo;0801;Ullevål skole;MDG;Miljøpartiet De Grønne;13,45595;4725;2077;278
+03;Oslo;0301;Oslo;0801;Ullevål skole;V;Venstre;16,74734;4725;2077;346
+03;Oslo;0301;Oslo;0801;Ullevål skole;H;Høyre;29,76767;4725;2077;615
+03;Oslo;0301;Oslo;0801;Ullevål skole;FRP;Fremskrittspartiet;3,5334;4725;2077;73
+03;Oslo;0301;Oslo;0801;Ullevål skole;AAN;Alliansen - Alternativ for Norge;0,0;4725;2077;0
+03;Oslo;0301;Oslo;0801;Ullevål skole;DEMN;Norgesdemokratene;0,14521;4725;2077;3
+03;Oslo;0301;Oslo;0801;Ullevål skole;FNB;Folkets Parti;0,19361;4725;2077;4
+03;Oslo;0301;Oslo;0801;Ullevål skole;INP;Industri- og Næringspartiet;0,62924;4725;2077;13
+03;Oslo;0301;Oslo;0801;Ullevål skole;KRISTNE;Konservativt;0,0;4725;2077;0
+03;Oslo;0301;Oslo;0801;Ullevål skole;KYST;Kystpartiet;0,0484;4725;2077;1
+03;Oslo;0301;Oslo;0801;Ullevål skole;LIBS;Liberalistene;0,24201;4725;2077;5
+03;Oslo;0301;Oslo;0801;Ullevål skole;NKP;Norges Kommunistiske Parti;0,09681;4725;2077;2
+03;Oslo;0301;Oslo;0801;Ullevål skole;PP;Pensjonistpartiet;0,24201;4725;2077;5
+03;Oslo;0301;Oslo;0801;Ullevål skole;PS;Partiet Sentrum;1,06486;4725;2077;22
+03;Oslo;0301;Oslo;0801;Ullevål skole;BLANKE;Blanke;0,53243;4725;2077;11
+03;Oslo;0301;Oslo;0801;Ullevål skole;FSL;Folkestyret-listen;0,09681;4725;2077;2
+03;Oslo;0301;Oslo;0801;Ullevål skole;PMB;Partiet Mot Bompenger;0,0484;4725;2077;1
+03;Oslo;0301;Oslo;0801;Ullevål skole;Andre;Andre;2,80736;4725;2077;58
+03;Oslo;0301;Oslo;0801;Ullevål skole;Andre2;Andre2;0,0;4725;2077;0
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;A;Arbeiderpartiet;19,9456;2996;1109;220
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;SV;SV - Sosialistisk Venstreparti;10,15413;2996;1109;112
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;RØDT;Rødt;6,34633;2996;1109;70
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;SP;Senterpartiet;1,63191;2996;1109;18
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;KRF;Kristelig Folkeparti;2,35721;2996;1109;26
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;MDG;Miljøpartiet De Grønne;10,51677;2996;1109;116
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;V;Venstre;11,69538;2996;1109;129
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;H;Høyre;29,64642;2996;1109;327
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;FRP;Fremskrittspartiet;4,71442;2996;1109;52
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;AAN;Alliansen - Alternativ for Norge;0,0;2996;1109;0
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;DEMN;Norgesdemokratene;0,09066;2996;1109;1
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;FNB;Folkets Parti;0,45331;2996;1109;5
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;INP;Industri- og Næringspartiet;0,90662;2996;1109;10
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;KRISTNE;Konservativt;0,18132;2996;1109;2
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;KYST;Kystpartiet;0,0;2996;1109;0
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;LIBS;Liberalistene;0,09066;2996;1109;1
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;NKP;Norges Kommunistiske Parti;0,36265;2996;1109;4
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;PP;Pensjonistpartiet;0,27199;2996;1109;3
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;PS;Partiet Sentrum;0,54397;2996;1109;6
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;BLANKE;Blanke;0,54397;2996;1109;6
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;FSL;Folkestyret-listen;0,0;2996;1109;0
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;PMB;Partiet Mot Bompenger;0,09066;2996;1109;1
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;Andre;Andre;2,99184;2996;1109;33
+03;Oslo;0301;Oslo;0802;Blindern videregående skole;Andre2;Andre2;0,0;2996;1109;0
+03;Oslo;0301;Oslo;0803;Kringsjå skole;A;Arbeiderpartiet;18,52433;3416;1279;236
+03;Oslo;0301;Oslo;0803;Kringsjå skole;SV;SV - Sosialistisk Venstreparti;9,10518;3416;1279;116
+03;Oslo;0301;Oslo;0803;Kringsjå skole;RØDT;Rødt;4,94505;3416;1279;63
+03;Oslo;0301;Oslo;0803;Kringsjå skole;SP;Senterpartiet;0,70644;3416;1279;9
+03;Oslo;0301;Oslo;0803;Kringsjå skole;KRF;Kristelig Folkeparti;2,59027;3416;1279;33
+03;Oslo;0301;Oslo;0803;Kringsjå skole;MDG;Miljøpartiet De Grønne;11,77394;3416;1279;150
+03;Oslo;0301;Oslo;0803;Kringsjå skole;V;Venstre;13,81476;3416;1279;176
+03;Oslo;0301;Oslo;0803;Kringsjå skole;H;Høyre;29,27786;3416;1279;373
+03;Oslo;0301;Oslo;0803;Kringsjå skole;FRP;Fremskrittspartiet;5,25903;3416;1279;67
+03;Oslo;0301;Oslo;0803;Kringsjå skole;AAN;Alliansen - Alternativ for Norge;0,15699;3416;1279;2
+03;Oslo;0301;Oslo;0803;Kringsjå skole;DEMN;Norgesdemokratene;0,15699;3416;1279;2
+03;Oslo;0301;Oslo;0803;Kringsjå skole;FNB;Folkets Parti;0,07849;3416;1279;1
+03;Oslo;0301;Oslo;0803;Kringsjå skole;INP;Industri- og Næringspartiet;1,02041;3416;1279;13
+03;Oslo;0301;Oslo;0803;Kringsjå skole;KRISTNE;Konservativt;0,07849;3416;1279;1
+03;Oslo;0301;Oslo;0803;Kringsjå skole;KYST;Kystpartiet;0,0;3416;1279;0
+03;Oslo;0301;Oslo;0803;Kringsjå skole;LIBS;Liberalistene;0,07849;3416;1279;1
+03;Oslo;0301;Oslo;0803;Kringsjå skole;NKP;Norges Kommunistiske Parti;0,23548;3416;1279;3
+03;Oslo;0301;Oslo;0803;Kringsjå skole;PP;Pensjonistpartiet;0,31397;3416;1279;4
+03;Oslo;0301;Oslo;0803;Kringsjå skole;PS;Partiet Sentrum;1,25589;3416;1279;16
+03;Oslo;0301;Oslo;0803;Kringsjå skole;BLANKE;Blanke;0,39246;3416;1279;5
+03;Oslo;0301;Oslo;0803;Kringsjå skole;FSL;Folkestyret-listen;0,62794;3416;1279;8
+03;Oslo;0301;Oslo;0803;Kringsjå skole;PMB;Partiet Mot Bompenger;0,0;3416;1279;0
+03;Oslo;0301;Oslo;0803;Kringsjå skole;Andre;Andre;4,00314;3416;1279;51
+03;Oslo;0301;Oslo;0803;Kringsjå skole;Andre2;Andre2;0,0;3416;1279;0
+03;Oslo;0301;Oslo;0804;Korsvoll skole;A;Arbeiderpartiet;16,55035;4631;2009;332
+03;Oslo;0301;Oslo;0804;Korsvoll skole;SV;SV - Sosialistisk Venstreparti;7,37787;4631;2009;148
+03;Oslo;0301;Oslo;0804;Korsvoll skole;RØDT;Rødt;2,34297;4631;2009;47
+03;Oslo;0301;Oslo;0804;Korsvoll skole;SP;Senterpartiet;0,79761;4631;2009;16
+03;Oslo;0301;Oslo;0804;Korsvoll skole;KRF;Kristelig Folkeparti;2,64207;4631;2009;53
+03;Oslo;0301;Oslo;0804;Korsvoll skole;MDG;Miljøpartiet De Grønne;9,17248;4631;2009;184
+03;Oslo;0301;Oslo;0804;Korsvoll skole;V;Venstre;14,70588;4631;2009;295
+03;Oslo;0301;Oslo;0804;Korsvoll skole;H;Høyre;37,38784;4631;2009;750
+03;Oslo;0301;Oslo;0804;Korsvoll skole;FRP;Fremskrittspartiet;5,98205;4631;2009;120
+03;Oslo;0301;Oslo;0804;Korsvoll skole;AAN;Alliansen - Alternativ for Norge;0,0;4631;2009;0
+03;Oslo;0301;Oslo;0804;Korsvoll skole;DEMN;Norgesdemokratene;0,34895;4631;2009;7
+03;Oslo;0301;Oslo;0804;Korsvoll skole;FNB;Folkets Parti;0,1994;4631;2009;4
+03;Oslo;0301;Oslo;0804;Korsvoll skole;INP;Industri- og Næringspartiet;0,79761;4631;2009;16
+03;Oslo;0301;Oslo;0804;Korsvoll skole;KRISTNE;Konservativt;0,1994;4631;2009;4
+03;Oslo;0301;Oslo;0804;Korsvoll skole;KYST;Kystpartiet;0,0;4631;2009;0
+03;Oslo;0301;Oslo;0804;Korsvoll skole;LIBS;Liberalistene;0,04985;4631;2009;1
+03;Oslo;0301;Oslo;0804;Korsvoll skole;NKP;Norges Kommunistiske Parti;0,04985;4631;2009;1
+03;Oslo;0301;Oslo;0804;Korsvoll skole;PP;Pensjonistpartiet;0,24925;4631;2009;5
+03;Oslo;0301;Oslo;0804;Korsvoll skole;PS;Partiet Sentrum;0,84746;4631;2009;17
+03;Oslo;0301;Oslo;0804;Korsvoll skole;BLANKE;Blanke;0,14955;4631;2009;3
+03;Oslo;0301;Oslo;0804;Korsvoll skole;FSL;Folkestyret-listen;0,24925;4631;2009;5
+03;Oslo;0301;Oslo;0804;Korsvoll skole;PMB;Partiet Mot Bompenger;0,04985;4631;2009;1
+03;Oslo;0301;Oslo;0804;Korsvoll skole;Andre;Andre;3,04088;4631;2009;61
+03;Oslo;0301;Oslo;0804;Korsvoll skole;Andre2;Andre2;0,0;4631;2009;0
+03;Oslo;0301;Oslo;0805;Tåsen skole;A;Arbeiderpartiet;17,85574;5713;2551;453
+03;Oslo;0301;Oslo;0805;Tåsen skole;SV;SV - Sosialistisk Venstreparti;7,52858;5713;2551;191
+03;Oslo;0301;Oslo;0805;Tåsen skole;RØDT;Rødt;2,79858;5713;2551;71
+03;Oslo;0301;Oslo;0805;Tåsen skole;SP;Senterpartiet;0,90658;5713;2551;23
+03;Oslo;0301;Oslo;0805;Tåsen skole;KRF;Kristelig Folkeparti;2,28616;5713;2551;58
+03;Oslo;0301;Oslo;0805;Tåsen skole;MDG;Miljøpartiet De Grønne;10,32716;5713;2551;262
+03;Oslo;0301;Oslo;0805;Tåsen skole;V;Venstre;16,08199;5713;2551;408
+03;Oslo;0301;Oslo;0805;Tåsen skole;H;Høyre;34,64722;5713;2551;879
+03;Oslo;0301;Oslo;0805;Tåsen skole;FRP;Fremskrittspartiet;4,69058;5713;2551;119
+03;Oslo;0301;Oslo;0805;Tåsen skole;AAN;Alliansen - Alternativ for Norge;0,0;5713;2551;0
+03;Oslo;0301;Oslo;0805;Tåsen skole;DEMN;Norgesdemokratene;0,15767;5713;2551;4
+03;Oslo;0301;Oslo;0805;Tåsen skole;FNB;Folkets Parti;0,2365;5713;2551;6
+03;Oslo;0301;Oslo;0805;Tåsen skole;INP;Industri- og Næringspartiet;0,7095;5713;2551;18
+03;Oslo;0301;Oslo;0805;Tåsen skole;KRISTNE;Konservativt;0,19708;5713;2551;5
+03;Oslo;0301;Oslo;0805;Tåsen skole;KYST;Kystpartiet;0,03942;5713;2551;1
+03;Oslo;0301;Oslo;0805;Tåsen skole;LIBS;Liberalistene;0,07883;5713;2551;2
+03;Oslo;0301;Oslo;0805;Tåsen skole;NKP;Norges Kommunistiske Parti;0,03942;5713;2551;1
+03;Oslo;0301;Oslo;0805;Tåsen skole;PP;Pensjonistpartiet;0,39417;5713;2551;10
+03;Oslo;0301;Oslo;0805;Tåsen skole;PS;Partiet Sentrum;0,86717;5713;2551;22
+03;Oslo;0301;Oslo;0805;Tåsen skole;BLANKE;Blanke;0,55183;5713;2551;14
+03;Oslo;0301;Oslo;0805;Tåsen skole;FSL;Folkestyret-listen;0,07883;5713;2551;2
+03;Oslo;0301;Oslo;0805;Tåsen skole;PMB;Partiet Mot Bompenger;0,07883;5713;2551;2
+03;Oslo;0301;Oslo;0805;Tåsen skole;Andre;Andre;2,87741;5713;2551;73
+03;Oslo;0301;Oslo;0805;Tåsen skole;Andre2;Andre2;0,0;5713;2551;0
+03;Oslo;0301;Oslo;0806;Kjelsås skole;A;Arbeiderpartiet;18,19714;4917;2391;432
+03;Oslo;0301;Oslo;0806;Kjelsås skole;SV;SV - Sosialistisk Venstreparti;8,12974;4917;2391;193
+03;Oslo;0301;Oslo;0806;Kjelsås skole;RØDT;Rødt;3,83319;4917;2391;91
+03;Oslo;0301;Oslo;0806;Kjelsås skole;SP;Senterpartiet;0,92671;4917;2391;22
+03;Oslo;0301;Oslo;0806;Kjelsås skole;KRF;Kristelig Folkeparti;1,97978;4917;2391;47
+03;Oslo;0301;Oslo;0806;Kjelsås skole;MDG;Miljøpartiet De Grønne;10,86773;4917;2391;258
+03;Oslo;0301;Oslo;0806;Kjelsås skole;V;Venstre;10,90986;4917;2391;259
+03;Oslo;0301;Oslo;0806;Kjelsås skole;H;Høyre;35,1727;4917;2391;835
+03;Oslo;0301;Oslo;0806;Kjelsås skole;FRP;Fremskrittspartiet;5,3075;4917;2391;126
+03;Oslo;0301;Oslo;0806;Kjelsås skole;AAN;Alliansen - Alternativ for Norge;0,16849;4917;2391;4
+03;Oslo;0301;Oslo;0806;Kjelsås skole;DEMN;Norgesdemokratene;0,5476;4917;2391;13
+03;Oslo;0301;Oslo;0806;Kjelsås skole;FNB;Folkets Parti;0,08425;4917;2391;2
+03;Oslo;0301;Oslo;0806;Kjelsås skole;INP;Industri- og Næringspartiet;1,22157;4917;2391;29
+03;Oslo;0301;Oslo;0806;Kjelsås skole;KRISTNE;Konservativt;0,12637;4917;2391;3
+03;Oslo;0301;Oslo;0806;Kjelsås skole;KYST;Kystpartiet;0,08425;4917;2391;2
+03;Oslo;0301;Oslo;0806;Kjelsås skole;LIBS;Liberalistene;0,08425;4917;2391;2
+03;Oslo;0301;Oslo;0806;Kjelsås skole;NKP;Norges Kommunistiske Parti;0,16849;4917;2391;4
+03;Oslo;0301;Oslo;0806;Kjelsås skole;PP;Pensjonistpartiet;0,33698;4917;2391;8
+03;Oslo;0301;Oslo;0806;Kjelsås skole;PS;Partiet Sentrum;1,26369;4917;2391;30
+03;Oslo;0301;Oslo;0806;Kjelsås skole;BLANKE;Blanke;0,71609;4917;2391;17
+03;Oslo;0301;Oslo;0806;Kjelsås skole;FSL;Folkestyret-listen;0,5476;4917;2391;13
+03;Oslo;0301;Oslo;0806;Kjelsås skole;PMB;Partiet Mot Bompenger;0,04212;4917;2391;1
+03;Oslo;0301;Oslo;0806;Kjelsås skole;Andre;Andre;4,67565;4917;2391;111
+03;Oslo;0301;Oslo;0806;Kjelsås skole;Andre2;Andre2;0,0;4917;2391;0
+03;Oslo;0301;Oslo;0807;Engebråten skole;A;Arbeiderpartiet;18,70358;2697;1487;277
+03;Oslo;0301;Oslo;0807;Engebråten skole;SV;SV - Sosialistisk Venstreparti;7,83255;2697;1487;116
+03;Oslo;0301;Oslo;0807;Engebråten skole;RØDT;Rødt;2,97097;2697;1487;44
+03;Oslo;0301;Oslo;0807;Engebråten skole;SP;Senterpartiet;0,94531;2697;1487;14
+03;Oslo;0301;Oslo;0807;Engebråten skole;KRF;Kristelig Folkeparti;2,43079;2697;1487;36
+03;Oslo;0301;Oslo;0807;Engebråten skole;MDG;Miljøpartiet De Grønne;8,50777;2697;1487;126
+03;Oslo;0301;Oslo;0807;Engebråten skole;V;Venstre;11,27616;2697;1487;167
+03;Oslo;0301;Oslo;0807;Engebråten skole;H;Høyre;37,00203;2697;1487;548
+03;Oslo;0301;Oslo;0807;Engebråten skole;FRP;Fremskrittspartiet;6,54963;2697;1487;97
+03;Oslo;0301;Oslo;0807;Engebråten skole;AAN;Alliansen - Alternativ for Norge;0,0;2697;1487;0
+03;Oslo;0301;Oslo;0807;Engebråten skole;DEMN;Norgesdemokratene;0,33761;2697;1487;5
+03;Oslo;0301;Oslo;0807;Engebråten skole;FNB;Folkets Parti;0,54018;2697;1487;8
+03;Oslo;0301;Oslo;0807;Engebråten skole;INP;Industri- og Næringspartiet;0,67522;2697;1487;10
+03;Oslo;0301;Oslo;0807;Engebråten skole;KRISTNE;Konservativt;0,20257;2697;1487;3
+03;Oslo;0301;Oslo;0807;Engebråten skole;KYST;Kystpartiet;0,06752;2697;1487;1
+03;Oslo;0301;Oslo;0807;Engebråten skole;LIBS;Liberalistene;0,13504;2697;1487;2
+03;Oslo;0301;Oslo;0807;Engebråten skole;NKP;Norges Kommunistiske Parti;0,13504;2697;1487;2
+03;Oslo;0301;Oslo;0807;Engebråten skole;PP;Pensjonistpartiet;0,13504;2697;1487;2
+03;Oslo;0301;Oslo;0807;Engebråten skole;PS;Partiet Sentrum;1,08035;2697;1487;16
+03;Oslo;0301;Oslo;0807;Engebråten skole;BLANKE;Blanke;0,40513;2697;1487;6
+03;Oslo;0301;Oslo;0807;Engebråten skole;FSL;Folkestyret-listen;0,33761;2697;1487;5
+03;Oslo;0301;Oslo;0807;Engebråten skole;PMB;Partiet Mot Bompenger;0,13504;2697;1487;2
+03;Oslo;0301;Oslo;0807;Engebråten skole;Andre;Andre;3,78123;2697;1487;56
+03;Oslo;0301;Oslo;0807;Engebråten skole;Andre2;Andre2;0,0;2697;1487;0
+03;Oslo;0301;Oslo;0808;Morellbakken skole;A;Arbeiderpartiet;15,66731;6136;1559;243
+03;Oslo;0301;Oslo;0808;Morellbakken skole;SV;SV - Sosialistisk Venstreparti;7,93037;6136;1559;123
+03;Oslo;0301;Oslo;0808;Morellbakken skole;RØDT;Rødt;3,93295;6136;1559;61
+03;Oslo;0301;Oslo;0808;Morellbakken skole;SP;Senterpartiet;1,03159;6136;1559;16
+03;Oslo;0301;Oslo;0808;Morellbakken skole;KRF;Kristelig Folkeparti;2,38556;6136;1559;37
+03;Oslo;0301;Oslo;0808;Morellbakken skole;MDG;Miljøpartiet De Grønne;6,38298;6136;1559;99
+03;Oslo;0301;Oslo;0808;Morellbakken skole;V;Venstre;13,53965;6136;1559;210
+03;Oslo;0301;Oslo;0808;Morellbakken skole;H;Høyre;36,62153;6136;1559;568
+03;Oslo;0301;Oslo;0808;Morellbakken skole;FRP;Fremskrittspartiet;8,05932;6136;1559;125
+03;Oslo;0301;Oslo;0808;Morellbakken skole;AAN;Alliansen - Alternativ for Norge;0,0;6136;1559;0
+03;Oslo;0301;Oslo;0808;Morellbakken skole;DEMN;Norgesdemokratene;0,45132;6136;1559;7
+03;Oslo;0301;Oslo;0808;Morellbakken skole;FNB;Folkets Parti;0,70922;6136;1559;11
+03;Oslo;0301;Oslo;0808;Morellbakken skole;INP;Industri- og Næringspartiet;1,22502;6136;1559;19
+03;Oslo;0301;Oslo;0808;Morellbakken skole;KRISTNE;Konservativt;0,19342;6136;1559;3
+03;Oslo;0301;Oslo;0808;Morellbakken skole;KYST;Kystpartiet;0,06447;6136;1559;1
+03;Oslo;0301;Oslo;0808;Morellbakken skole;LIBS;Liberalistene;0,0;6136;1559;0
+03;Oslo;0301;Oslo;0808;Morellbakken skole;NKP;Norges Kommunistiske Parti;0,0;6136;1559;0
+03;Oslo;0301;Oslo;0808;Morellbakken skole;PP;Pensjonistpartiet;0,38685;6136;1559;6
+03;Oslo;0301;Oslo;0808;Morellbakken skole;PS;Partiet Sentrum;1,03159;6136;1559;16
+03;Oslo;0301;Oslo;0808;Morellbakken skole;BLANKE;Blanke;0,5158;6136;1559;8
+03;Oslo;0301;Oslo;0808;Morellbakken skole;FSL;Folkestyret-listen;0,2579;6136;1559;4
+03;Oslo;0301;Oslo;0808;Morellbakken skole;PMB;Partiet Mot Bompenger;0,12895;6136;1559;2
+03;Oslo;0301;Oslo;0808;Morellbakken skole;Andre;Andre;4,44874;6136;1559;69
+03;Oslo;0301;Oslo;0808;Morellbakken skole;Andre2;Andre2;0,0;6136;1559;0
+03;Oslo;0301;Oslo;0809;Disen skole;A;Arbeiderpartiet;18,32902;3265;1555;283
+03;Oslo;0301;Oslo;0809;Disen skole;SV;SV - Sosialistisk Venstreparti;6,73575;3265;1555;104
+03;Oslo;0301;Oslo;0809;Disen skole;RØDT;Rødt;3,69171;3265;1555;57
+03;Oslo;0301;Oslo;0809;Disen skole;SP;Senterpartiet;0,84197;3265;1555;13
+03;Oslo;0301;Oslo;0809;Disen skole;KRF;Kristelig Folkeparti;2,72021;3265;1555;42
+03;Oslo;0301;Oslo;0809;Disen skole;MDG;Miljøpartiet De Grønne;9,00259;3265;1555;139
+03;Oslo;0301;Oslo;0809;Disen skole;V;Venstre;10,81606;3265;1555;167
+03;Oslo;0301;Oslo;0809;Disen skole;H;Høyre;38,60104;3265;1555;596
+03;Oslo;0301;Oslo;0809;Disen skole;FRP;Fremskrittspartiet;6,60622;3265;1555;102
+03;Oslo;0301;Oslo;0809;Disen skole;AAN;Alliansen - Alternativ for Norge;0,0;3265;1555;0
+03;Oslo;0301;Oslo;0809;Disen skole;DEMN;Norgesdemokratene;0,12953;3265;1555;2
+03;Oslo;0301;Oslo;0809;Disen skole;FNB;Folkets Parti;0,25907;3265;1555;4
+03;Oslo;0301;Oslo;0809;Disen skole;INP;Industri- og Næringspartiet;1,03627;3265;1555;16
+03;Oslo;0301;Oslo;0809;Disen skole;KRISTNE;Konservativt;0,1943;3265;1555;3
+03;Oslo;0301;Oslo;0809;Disen skole;KYST;Kystpartiet;0,06477;3265;1555;1
+03;Oslo;0301;Oslo;0809;Disen skole;LIBS;Liberalistene;0,06477;3265;1555;1
+03;Oslo;0301;Oslo;0809;Disen skole;NKP;Norges Kommunistiske Parti;0,0;3265;1555;0
+03;Oslo;0301;Oslo;0809;Disen skole;PP;Pensjonistpartiet;0,1943;3265;1555;3
+03;Oslo;0301;Oslo;0809;Disen skole;PS;Partiet Sentrum;0,45337;3265;1555;7
+03;Oslo;0301;Oslo;0809;Disen skole;BLANKE;Blanke;0,71244;3265;1555;11
+03;Oslo;0301;Oslo;0809;Disen skole;FSL;Folkestyret-listen;0,12953;3265;1555;2
+03;Oslo;0301;Oslo;0809;Disen skole;PMB;Partiet Mot Bompenger;0,12953;3265;1555;2
+03;Oslo;0301;Oslo;0809;Disen skole;Andre;Andre;2,65544;3265;1555;41
+03;Oslo;0301;Oslo;0809;Disen skole;Andre2;Andre2;0,0;3265;1555;0
+03;Oslo;0301;Oslo;0810;Skeidhuset;A;Arbeiderpartiet;23,2049;2541;1146;265
+03;Oslo;0301;Oslo;0810;Skeidhuset;SV;SV - Sosialistisk Venstreparti;6,83012;2541;1146;78
+03;Oslo;0301;Oslo;0810;Skeidhuset;RØDT;Rødt;3,85289;2541;1146;44
+03;Oslo;0301;Oslo;0810;Skeidhuset;SP;Senterpartiet;0,61296;2541;1146;7
+03;Oslo;0301;Oslo;0810;Skeidhuset;KRF;Kristelig Folkeparti;1,75131;2541;1146;20
+03;Oslo;0301;Oslo;0810;Skeidhuset;MDG;Miljøpartiet De Grønne;8,31874;2541;1146;95
+03;Oslo;0301;Oslo;0810;Skeidhuset;V;Venstre;10,24518;2541;1146;117
+03;Oslo;0301;Oslo;0810;Skeidhuset;H;Høyre;33,09982;2541;1146;378
+03;Oslo;0301;Oslo;0810;Skeidhuset;FRP;Fremskrittspartiet;7,61821;2541;1146;87
+03;Oslo;0301;Oslo;0810;Skeidhuset;AAN;Alliansen - Alternativ for Norge;0,08757;2541;1146;1
+03;Oslo;0301;Oslo;0810;Skeidhuset;DEMN;Norgesdemokratene;0,35026;2541;1146;4
+03;Oslo;0301;Oslo;0810;Skeidhuset;FNB;Folkets Parti;0,61296;2541;1146;7
+03;Oslo;0301;Oslo;0810;Skeidhuset;INP;Industri- og Næringspartiet;0,96322;2541;1146;11
+03;Oslo;0301;Oslo;0810;Skeidhuset;KRISTNE;Konservativt;0,2627;2541;1146;3
+03;Oslo;0301;Oslo;0810;Skeidhuset;KYST;Kystpartiet;0,0;2541;1146;0
+03;Oslo;0301;Oslo;0810;Skeidhuset;LIBS;Liberalistene;0,43783;2541;1146;5
+03;Oslo;0301;Oslo;0810;Skeidhuset;NKP;Norges Kommunistiske Parti;0,08757;2541;1146;1
+03;Oslo;0301;Oslo;0810;Skeidhuset;PP;Pensjonistpartiet;0,2627;2541;1146;3
+03;Oslo;0301;Oslo;0810;Skeidhuset;PS;Partiet Sentrum;0,96322;2541;1146;11
+03;Oslo;0301;Oslo;0810;Skeidhuset;BLANKE;Blanke;0,35026;2541;1146;4
+03;Oslo;0301;Oslo;0810;Skeidhuset;FSL;Folkestyret-listen;0,2627;2541;1146;3
+03;Oslo;0301;Oslo;0810;Skeidhuset;PMB;Partiet Mot Bompenger;0,17513;2541;1146;2
+03;Oslo;0301;Oslo;0810;Skeidhuset;Andre;Andre;4,46585;2541;1146;51
+03;Oslo;0301;Oslo;0810;Skeidhuset;Andre2;Andre2;0,0;2541;1146;0
+03;Oslo;0301;Oslo;1702;Maridalen skole;A;Arbeiderpartiet;16,29834;521;362;59
+03;Oslo;0301;Oslo;1702;Maridalen skole;SV;SV - Sosialistisk Venstreparti;9,94475;521;362;36
+03;Oslo;0301;Oslo;1702;Maridalen skole;RØDT;Rødt;5,8011;521;362;21
+03;Oslo;0301;Oslo;1702;Maridalen skole;SP;Senterpartiet;4,14365;521;362;15
+03;Oslo;0301;Oslo;1702;Maridalen skole;KRF;Kristelig Folkeparti;0,55249;521;362;2
+03;Oslo;0301;Oslo;1702;Maridalen skole;MDG;Miljøpartiet De Grønne;8,56354;521;362;31
+03;Oslo;0301;Oslo;1702;Maridalen skole;V;Venstre;8,56354;521;362;31
+03;Oslo;0301;Oslo;1702;Maridalen skole;H;Høyre;28,1768;521;362;102
+03;Oslo;0301;Oslo;1702;Maridalen skole;FRP;Fremskrittspartiet;9,94475;521;362;36
+03;Oslo;0301;Oslo;1702;Maridalen skole;AAN;Alliansen - Alternativ for Norge;0,0;521;362;0
+03;Oslo;0301;Oslo;1702;Maridalen skole;DEMN;Norgesdemokratene;1,65746;521;362;6
+03;Oslo;0301;Oslo;1702;Maridalen skole;FNB;Folkets Parti;1,9337;521;362;7
+03;Oslo;0301;Oslo;1702;Maridalen skole;INP;Industri- og Næringspartiet;2,48619;521;362;9
+03;Oslo;0301;Oslo;1702;Maridalen skole;KRISTNE;Konservativt;0,0;521;362;0
+03;Oslo;0301;Oslo;1702;Maridalen skole;KYST;Kystpartiet;0,0;521;362;0
+03;Oslo;0301;Oslo;1702;Maridalen skole;LIBS;Liberalistene;0,0;521;362;0
+03;Oslo;0301;Oslo;1702;Maridalen skole;NKP;Norges Kommunistiske Parti;0,0;521;362;0
+03;Oslo;0301;Oslo;1702;Maridalen skole;PP;Pensjonistpartiet;0,82873;521;362;3
+03;Oslo;0301;Oslo;1702;Maridalen skole;PS;Partiet Sentrum;0,82873;521;362;3
+03;Oslo;0301;Oslo;1702;Maridalen skole;BLANKE;Blanke;0,0;521;362;0
+03;Oslo;0301;Oslo;1702;Maridalen skole;FSL;Folkestyret-listen;0,27624;521;362;1
+03;Oslo;0301;Oslo;1702;Maridalen skole;PMB;Partiet Mot Bompenger;0,0;521;362;0
+03;Oslo;0301;Oslo;1702;Maridalen skole;Andre;Andre;8,01105;521;362;29
+03;Oslo;0301;Oslo;1702;Maridalen skole;Andre2;Andre2;0,0;521;362;0
+03;Oslo;0301;Oslo;0901;Løren skole;A;Arbeiderpartiet;17,78195;9834;2683;473
+03;Oslo;0301;Oslo;0901;Løren skole;SV;SV - Sosialistisk Venstreparti;9,09774;9834;2683;242
+03;Oslo;0301;Oslo;0901;Løren skole;RØDT;Rødt;6,05263;9834;2683;161
+03;Oslo;0301;Oslo;0901;Løren skole;SP;Senterpartiet;1,2782;9834;2683;34
+03;Oslo;0301;Oslo;0901;Løren skole;KRF;Kristelig Folkeparti;1,65414;9834;2683;44
+03;Oslo;0301;Oslo;0901;Løren skole;MDG;Miljøpartiet De Grønne;8,08271;9834;2683;215
+03;Oslo;0301;Oslo;0901;Løren skole;V;Venstre;15,07519;9834;2683;401
+03;Oslo;0301;Oslo;0901;Løren skole;H;Høyre;29,54887;9834;2683;786
+03;Oslo;0301;Oslo;0901;Løren skole;FRP;Fremskrittspartiet;6,20301;9834;2683;165
+03;Oslo;0301;Oslo;0901;Løren skole;AAN;Alliansen - Alternativ for Norge;0,03759;9834;2683;1
+03;Oslo;0301;Oslo;0901;Løren skole;DEMN;Norgesdemokratene;0,15038;9834;2683;4
+03;Oslo;0301;Oslo;0901;Løren skole;FNB;Folkets Parti;0,6391;9834;2683;17
+03;Oslo;0301;Oslo;0901;Løren skole;INP;Industri- og Næringspartiet;1,2782;9834;2683;34
+03;Oslo;0301;Oslo;0901;Løren skole;KRISTNE;Konservativt;0,18797;9834;2683;5
+03;Oslo;0301;Oslo;0901;Løren skole;KYST;Kystpartiet;0,30075;9834;2683;8
+03;Oslo;0301;Oslo;0901;Løren skole;LIBS;Liberalistene;0,18797;9834;2683;5
+03;Oslo;0301;Oslo;0901;Løren skole;NKP;Norges Kommunistiske Parti;0,11278;9834;2683;3
+03;Oslo;0301;Oslo;0901;Løren skole;PP;Pensjonistpartiet;0,26316;9834;2683;7
+03;Oslo;0301;Oslo;0901;Løren skole;PS;Partiet Sentrum;1,61654;9834;2683;43
+03;Oslo;0301;Oslo;0901;Løren skole;BLANKE;Blanke;0,86466;9834;2683;23
+03;Oslo;0301;Oslo;0901;Løren skole;FSL;Folkestyret-listen;0,11278;9834;2683;3
+03;Oslo;0301;Oslo;0901;Løren skole;PMB;Partiet Mot Bompenger;0,33835;9834;2683;9
+03;Oslo;0301;Oslo;0901;Løren skole;Andre;Andre;5,22556;9834;2683;139
+03;Oslo;0301;Oslo;0901;Løren skole;Andre2;Andre2;0,0;9834;2683;0
+03;Oslo;0301;Oslo;0902;Årvoll skole;A;Arbeiderpartiet;24,45714;5843;1767;428
+03;Oslo;0301;Oslo;0902;Årvoll skole;SV;SV - Sosialistisk Venstreparti;9,48571;5843;1767;166
+03;Oslo;0301;Oslo;0902;Årvoll skole;RØDT;Rødt;4,45714;5843;1767;78
+03;Oslo;0301;Oslo;0902;Årvoll skole;SP;Senterpartiet;1,08571;5843;1767;19
+03;Oslo;0301;Oslo;0902;Årvoll skole;KRF;Kristelig Folkeparti;2,22857;5843;1767;39
+03;Oslo;0301;Oslo;0902;Årvoll skole;MDG;Miljøpartiet De Grønne;9,31429;5843;1767;163
+03;Oslo;0301;Oslo;0902;Årvoll skole;V;Venstre;8,68571;5843;1767;152
+03;Oslo;0301;Oslo;0902;Årvoll skole;H;Høyre;28,85714;5843;1767;505
+03;Oslo;0301;Oslo;0902;Årvoll skole;FRP;Fremskrittspartiet;6,62857;5843;1767;116
+03;Oslo;0301;Oslo;0902;Årvoll skole;AAN;Alliansen - Alternativ for Norge;0,05714;5843;1767;1
+03;Oslo;0301;Oslo;0902;Årvoll skole;DEMN;Norgesdemokratene;0,34286;5843;1767;6
+03;Oslo;0301;Oslo;0902;Årvoll skole;FNB;Folkets Parti;0,34286;5843;1767;6
+03;Oslo;0301;Oslo;0902;Årvoll skole;INP;Industri- og Næringspartiet;0,91429;5843;1767;16
+03;Oslo;0301;Oslo;0902;Årvoll skole;KRISTNE;Konservativt;0,0;5843;1767;0
+03;Oslo;0301;Oslo;0902;Årvoll skole;KYST;Kystpartiet;0,0;5843;1767;0
+03;Oslo;0301;Oslo;0902;Årvoll skole;LIBS;Liberalistene;0,05714;5843;1767;1
+03;Oslo;0301;Oslo;0902;Årvoll skole;NKP;Norges Kommunistiske Parti;0,11429;5843;1767;2
+03;Oslo;0301;Oslo;0902;Årvoll skole;PP;Pensjonistpartiet;0,85714;5843;1767;15
+03;Oslo;0301;Oslo;0902;Årvoll skole;PS;Partiet Sentrum;1,54286;5843;1767;27
+03;Oslo;0301;Oslo;0902;Årvoll skole;BLANKE;Blanke;0,97143;5843;1767;17
+03;Oslo;0301;Oslo;0902;Årvoll skole;FSL;Folkestyret-listen;0,4;5843;1767;7
+03;Oslo;0301;Oslo;0902;Årvoll skole;PMB;Partiet Mot Bompenger;0,17143;5843;1767;3
+03;Oslo;0301;Oslo;0902;Årvoll skole;Andre;Andre;4,8;5843;1767;84
+03;Oslo;0301;Oslo;0902;Årvoll skole;Andre2;Andre2;0,0;5843;1767;0
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;A;Arbeiderpartiet;23,11321;2931;1280;294
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;SV;SV - Sosialistisk Venstreparti;12,89308;2931;1280;164
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;RØDT;Rødt;7,94025;2931;1280;101
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;SP;Senterpartiet;1,41509;2931;1280;18
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;KRF;Kristelig Folkeparti;3,14465;2931;1280;40
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;MDG;Miljøpartiet De Grønne;10,29874;2931;1280;131
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;V;Venstre;8,01887;2931;1280;102
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;H;Høyre;21,54088;2931;1280;274
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;FRP;Fremskrittspartiet;5,11006;2931;1280;65
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;AAN;Alliansen - Alternativ for Norge;0,15723;2931;1280;2
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;DEMN;Norgesdemokratene;0,4717;2931;1280;6
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;FNB;Folkets Parti;0,86478;2931;1280;11
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;INP;Industri- og Næringspartiet;1,33648;2931;1280;17
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;KRISTNE;Konservativt;0,4717;2931;1280;6
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;KYST;Kystpartiet;0,15723;2931;1280;2
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;LIBS;Liberalistene;0,23585;2931;1280;3
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;NKP;Norges Kommunistiske Parti;0,23585;2931;1280;3
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;PP;Pensjonistpartiet;0,55031;2931;1280;7
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;PS;Partiet Sentrum;1,65094;2931;1280;21
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;BLANKE;Blanke;0,62893;2931;1280;8
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;FSL;Folkestyret-listen;0,15723;2931;1280;2
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;PMB;Partiet Mot Bompenger;0,23585;2931;1280;3
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;Andre;Andre;6,52516;2931;1280;83
+03;Oslo;0301;Oslo;0903;Tonsenhagen skole;Andre2;Andre2;0,0;2931;1280;0
+03;Oslo;0301;Oslo;0904;Linderud skole;A;Arbeiderpartiet;29,32331;4326;1216;351
+03;Oslo;0301;Oslo;0904;Linderud skole;SV;SV - Sosialistisk Venstreparti;9,52381;4326;1216;114
+03;Oslo;0301;Oslo;0904;Linderud skole;RØDT;Rødt;6,85046;4326;1216;82
+03;Oslo;0301;Oslo;0904;Linderud skole;SP;Senterpartiet;1,25313;4326;1216;15
+03;Oslo;0301;Oslo;0904;Linderud skole;KRF;Kristelig Folkeparti;2,33918;4326;1216;28
+03;Oslo;0301;Oslo;0904;Linderud skole;MDG;Miljøpartiet De Grønne;6,59983;4326;1216;79
+03;Oslo;0301;Oslo;0904;Linderud skole;V;Venstre;6,76692;4326;1216;81
+03;Oslo;0301;Oslo;0904;Linderud skole;H;Høyre;21,55388;4326;1216;258
+03;Oslo;0301;Oslo;0904;Linderud skole;FRP;Fremskrittspartiet;5,59733;4326;1216;67
+03;Oslo;0301;Oslo;0904;Linderud skole;AAN;Alliansen - Alternativ for Norge;0,50125;4326;1216;6
+03;Oslo;0301;Oslo;0904;Linderud skole;DEMN;Norgesdemokratene;0,08354;4326;1216;1
+03;Oslo;0301;Oslo;0904;Linderud skole;FNB;Folkets Parti;1,16959;4326;1216;14
+03;Oslo;0301;Oslo;0904;Linderud skole;INP;Industri- og Næringspartiet;1,67084;4326;1216;20
+03;Oslo;0301;Oslo;0904;Linderud skole;KRISTNE;Konservativt;0,0;4326;1216;0
+03;Oslo;0301;Oslo;0904;Linderud skole;KYST;Kystpartiet;0,33417;4326;1216;4
+03;Oslo;0301;Oslo;0904;Linderud skole;LIBS;Liberalistene;0,16708;4326;1216;2
+03;Oslo;0301;Oslo;0904;Linderud skole;NKP;Norges Kommunistiske Parti;0,75188;4326;1216;9
+03;Oslo;0301;Oslo;0904;Linderud skole;PP;Pensjonistpartiet;0,75188;4326;1216;9
+03;Oslo;0301;Oslo;0904;Linderud skole;PS;Partiet Sentrum;3,34169;4326;1216;40
+03;Oslo;0301;Oslo;0904;Linderud skole;BLANKE;Blanke;1,5873;4326;1216;19
+03;Oslo;0301;Oslo;0904;Linderud skole;FSL;Folkestyret-listen;0,5848;4326;1216;7
+03;Oslo;0301;Oslo;0904;Linderud skole;PMB;Partiet Mot Bompenger;0,83542;4326;1216;10
+03;Oslo;0301;Oslo;0904;Linderud skole;Andre;Andre;10,19215;4326;1216;122
+03;Oslo;0301;Oslo;0904;Linderud skole;Andre2;Andre2;0,0;4326;1216;0
+03;Oslo;0301;Oslo;0905;Veitvet skole;A;Arbeiderpartiet;31,78879;4862;943;295
+03;Oslo;0301;Oslo;0905;Veitvet skole;SV;SV - Sosialistisk Venstreparti;14,43966;4862;943;134
+03;Oslo;0301;Oslo;0905;Veitvet skole;RØDT;Rødt;10,56034;4862;943;98
+03;Oslo;0301;Oslo;0905;Veitvet skole;SP;Senterpartiet;1,50862;4862;943;14
+03;Oslo;0301;Oslo;0905;Veitvet skole;KRF;Kristelig Folkeparti;1,93966;4862;943;18
+03;Oslo;0301;Oslo;0905;Veitvet skole;MDG;Miljøpartiet De Grønne;6,46552;4862;943;60
+03;Oslo;0301;Oslo;0905;Veitvet skole;V;Venstre;4,09483;4862;943;38
+03;Oslo;0301;Oslo;0905;Veitvet skole;H;Høyre;15,30172;4862;943;142
+03;Oslo;0301;Oslo;0905;Veitvet skole;FRP;Fremskrittspartiet;5,38793;4862;943;50
+03;Oslo;0301;Oslo;0905;Veitvet skole;AAN;Alliansen - Alternativ for Norge;0,10776;4862;943;1
+03;Oslo;0301;Oslo;0905;Veitvet skole;DEMN;Norgesdemokratene;0,75431;4862;943;7
+03;Oslo;0301;Oslo;0905;Veitvet skole;FNB;Folkets Parti;1,61638;4862;943;15
+03;Oslo;0301;Oslo;0905;Veitvet skole;INP;Industri- og Næringspartiet;1,07759;4862;943;10
+03;Oslo;0301;Oslo;0905;Veitvet skole;KRISTNE;Konservativt;0,43103;4862;943;4
+03;Oslo;0301;Oslo;0905;Veitvet skole;KYST;Kystpartiet;0,32328;4862;943;3
+03;Oslo;0301;Oslo;0905;Veitvet skole;LIBS;Liberalistene;0,0;4862;943;0
+03;Oslo;0301;Oslo;0905;Veitvet skole;NKP;Norges Kommunistiske Parti;0,32328;4862;943;3
+03;Oslo;0301;Oslo;0905;Veitvet skole;PP;Pensjonistpartiet;0,53879;4862;943;5
+03;Oslo;0301;Oslo;0905;Veitvet skole;PS;Partiet Sentrum;2,15517;4862;943;20
+03;Oslo;0301;Oslo;0905;Veitvet skole;BLANKE;Blanke;1,61638;4862;943;15
+03;Oslo;0301;Oslo;0905;Veitvet skole;FSL;Folkestyret-listen;0,21552;4862;943;2
+03;Oslo;0301;Oslo;0905;Veitvet skole;PMB;Partiet Mot Bompenger;0,96983;4862;943;9
+03;Oslo;0301;Oslo;0905;Veitvet skole;Andre;Andre;8,51293;4862;943;79
+03;Oslo;0301;Oslo;0905;Veitvet skole;Andre2;Andre2;0,0;4862;943;0
