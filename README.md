@@ -1,14 +1,15 @@
 # Valganalyse Oslo
 
-Prosjekt for å se på oppslutningen til de ulike partiene i valgkretser i Oslo koblet med levekårsdata (snittinntekt, innvandrerandel, utdanningsnivå) i delbydeler. Dekker kommune-/fylkestingsvalget 2015, 2019 og 2023, og stortingsvalget 2021 og 2025.
+Prosjekt for å se på oppslutningen til de ulike partiene i valgkretser i Oslo koblet med levekårsdata (snittinntekt, innvandrerandel, utdanningsnivå) i delbydeler. Dekker kommune-/fylkestingsvalget 2015, 2019 og 2023, og stortingsvalget 2017, 2021 og 2025.
 
 ![alt text here](figurer/venstre_hoyre_etter_inntekt_2015_2019_2021_2023_2025.png)
 
 ## Mappestruktur
 
-- `skript.R` – analysekoden, kjøres fra prosjektroten (åpne `valganalyse-oslo.Rproj` i RStudio)
+- `skript.R` – hovedanalysen (beskrivende figurer), kjøres fra prosjektroten (åpne `valganalyse-oslo.Rproj` i RStudio)
+- `analyse_partiutvikling.R` – statistisk analyse av hvordan sammenhengen mellom oppslutning og levekårsvariablene har utviklet seg over tid (se egen seksjon under)
 - `data/` – valgresultater per stemmekrets, krets-til-delbydel-koblinger og levekårsdata
-- `figurer/` – figurer generert av `skript.R`, og kartet som er brukt til å koble valgkretser til delbydeler
+- `figurer/` – figurer generert av R-skriptene, og kartet som er brukt til å koble valgkretser til delbydeler
   - `figurer/opprinnelig-2019/` – ferdigstilte figurer fra det opprinnelige 2019-prosjektet (med korrelasjonstall og manuelle annoteringer som ikke lenger genereres av `skript.R`)
 
 ## Metodekommentarer:
@@ -58,3 +59,14 @@ Dette er, som i den opprinnelige koblingen, gjort etter skjønn og bør leses me
 - **Befolkningsvekte** analysene (antall stemmeberettigede/innbyggere per krets), siden kretsene varierer mye i størrelse og en enkel krets-for-krets-sammenligning gir hver krets lik vekt uavhengig av folketall.
 - **Kartvisualisering**: koble valgkretsene til faktiske kretsgrenser (Kartverket/Geonorge har WFS/OGC API for stemmekretser) for kart i stedet for kun spredningsplott.
 - **Flere levekårsvariabler** finnes i samme statistikkbank og kunne vært interessante å teste, f.eks. husholdningstype/andel aleneboende, botid, eller valgdeltakelse per krets (som faktisk ligger i samme API-respons som stemmetallene).
+
+## Statistisk analyse av utvikling over tid (`analyse_partiutvikling.R`)
+
+Dette skriptet ser på hvordan *sammenhengen* mellom hvert partis oppslutning og de tre levekårsvariablene har endret seg fra valg til valg. Avgrenset til lokalvalgene 2015, 2019 og 2023, samt stortingsvalget 2017 (hentet på samme måte som 2021/2025 – se over) – altså ikke 2021 eller 2025, som er stortingsvalg nærmere i tid og allerede dekket i figurene over. I motsetning til resten av prosjektet er **Sentrum ikke holdt utenfor** her; alle bydeler er med.
+
+Metode:
+
+1. For hvert parti, valgår og variabel: en enkel lineær regresjon `Oppslutning ~ variabel` på kretsnivå, som gir et stigningstall (hvor mye oppslutningen endrer seg per enhet av variabelen), standardfeil, p-verdi og forklart varians (R²). Fullt resultat i `data/regresjonsresultater_partiutvikling.csv`, figur i `figurer/utvikling_regresjonskoeffisienter.png`.
+2. En formell test av om stigningstallet har endret seg signifikant over de fire valgene: `Oppslutning ~ variabel × valgår` med valgår som kontinuerlig variabel, per parti og variabel. Interaksjonsleddet forteller om sammenhengen har blitt sterkere/svakere/snudd. Resultat i `data/regresjonsresultater_interaksjon.csv`.
+
+**Hovedfunn:** Arbeiderpartiets sammenheng med både innvandrerandel og utdanningsnivå er klart svekket gjennom perioden (interaksjonsledd med desidert lavest p-verdi av alle, p < 10⁻¹⁵), og trekker i retning null – dvs. at hvor stor andel innvandrere eller hvor høyt utdanningsnivå det er i en krets, forklarer mindre av Aps oppslutning i 2023 enn i 2015. Samtidig er sammenhengen med inntekt fortsatt sterk og statistisk signifikant for Ap i alle fire valg, om enn noe svakere over tid. Høyres sammenheng med inntekt er òg signifikant svekket, men fortsatt klart til stede. Rødt og SV har fått en *sterkere* positiv sammenheng med innvandrerandel over tid, mens Senterpartiets sammenheng med utdanning har blitt tydelig mer negativ. For de fleste andre partier (FRP, KrF, MDG, V) er endringene enten svakere eller ikke statistisk signifikante i dette datagrunnlaget.
